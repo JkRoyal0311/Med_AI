@@ -1,0 +1,70 @@
+DISEASE: Hypertension (High Blood Pressure)
+CATEGORY: Cardiovascular
+ICD-10: I10
+SEVERITY: Chronic — serious if uncontrolled
+
+DESCRIPTION:
+Hypertension is blood pressure consistently above 140/90 mmHg. 
+Stage 2: above 160/100 mmHg. Damages kidneys, eyes, heart, blood vessels.
+Often called the "silent killer" as most patients have no symptoms.
+
+SYMPTOMS:
+- Usually NO symptoms (that is why it is dangerous)
+- Severe hypertension: severe headache (back of head, worse in morning)
+- Blurred vision or vision changes
+- Nausea and vomiting
+- Chest pain or tightness
+- Shortness of breath
+- Nosebleeds (epistaxis)
+- Dizziness or lightheadedness
+EMERGENCY: Sudden severe headache + confusion + vision loss = hypertensive crisis
+
+MEDICATIONS USED:
+1. AMLODIPINE (Calcium Channel Blocker)
+   - Relaxes blood vessels. Once daily. Well tolerated.
+   - Side effects: ankle swelling, flushing, headache
+   - Brand names: Norvasc, Stamlo
+   
+2. LOSARTAN / TELMISARTAN (ARB — Angiotensin Receptor Blocker)
+   - Protects kidneys especially in diabetes + hypertension
+   - AVOID in pregnancy (damages fetal kidneys)
+   - Side effect: dizziness on standing up (postural hypotension)
+
+3. ENALAPRIL / RAMIPRIL (ACE Inhibitor)
+   - Excellent for diabetic patients. Protects kidneys.
+   - Side effect: persistent dry cough in 10-15% of patients
+   - If cough develops, switch to ARB
+
+4. ATENOLOL / METOPROLOL (Beta Blocker)
+   - Used with heart disease + hypertension
+   - CAUTION: Can worsen asthma
+   - NEVER stop suddenly — taper dose gradually
+
+5. HYDROCHLOROTHIAZIDE (Thiazide Diuretic)
+   - Removes excess fluid and sodium
+   - Can cause low potassium — eat bananas, avoid potassium supplements with ACE inhibitors
+
+MEDICATIONS TO AVOID WITH HYPERTENSION:
+- NSAIDs (Ibuprofen, Diclofenac, Naproxen): Raise BP by retaining sodium. Use Paracetamol instead.
+- Decongestants with Pseudoephedrine (in cold medicines): Constrict blood vessels, spike BP
+- Combined oral contraceptives (estrogen-containing pills): Can raise BP by 5-10 mmHg
+- Liquorice supplements or excessive liquorice: Raises BP significantly
+
+FOODS TO EAT:
+- Banana (Kela): High potassium — counteracts sodium's BP-raising effect
+- Beetroot / Chukandar juice: Dietary nitrates dilate blood vessels
+- Garlic / Lahsun (2-3 raw cloves daily): Allicin has vasodilating effect
+- Flaxseeds / Alsi (1 tbsp ground): Omega-3 reduces arterial stiffness
+- Spinach / Palak: High potassium and magnesium
+- Pomegranate juice (unsweetened): Reduces systolic BP
+- Dark chocolate (70%+ cocoa, small amount): Flavanols improve vessel elasticity
+- Oats: Soluble fiber supports BP control
+
+FOODS TO STRICTLY AVOID:
+- Salt above 2g/day: Every extra gram raises BP by 2-3 mmHg. Read labels!
+- Pickles / Achar: Extremely high sodium
+- Papads and packaged namkeen: Very high sodium
+- Processed meats (sausages, salami): Loaded with sodium
+- Canned foods: Sodium as preservative
+- Alcohol: Raises BP acutely and chronically
+- Energy drinks (Red Bull etc.): Caffeine + stimulants spike BP

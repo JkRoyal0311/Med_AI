@@ -1,0 +1,79 @@
+DISEASE: Type 2 Diabetes Mellitus
+CATEGORY: Metabolic / Endocrine
+ICD-10: E11
+SEVERITY: Chronic — manageable with medication and diet
+
+DESCRIPTION:
+Type 2 diabetes occurs when cells become resistant to insulin and the pancreas 
+cannot produce enough insulin to overcome this resistance. Blood glucose stays 
+elevated above normal (fasting glucose above 126 mg/dL, HbA1c above 6.5%).
+
+SYMPTOMS:
+- Frequent urination (polyuria) — especially at night
+- Excessive thirst (polydipsia)
+- Unexplained weight loss
+- Fatigue and weakness
+- Blurred vision
+- Slow-healing wounds and infections
+- Tingling or numbness in hands and feet (neuropathy)
+- Frequent infections (skin, urinary tract, gums)
+- Darkened skin in armpits and neck (acanthosis nigricans)
+
+MEDICATIONS USED (First-line to advanced):
+1. METFORMIN (Glucophage, Glycomet, Gluformin)
+   - First choice drug for most Type 2 diabetes patients
+   - Reduces glucose production by the liver
+   - Does not cause low blood sugar on its own
+   - Take with food to reduce stomach upset
+   - AVOID if: kidney disease (GFR below 30), liver disease, heavy alcohol use
+   
+2. GLIPIZIDE / GLIBENCLAMIDE (Sulfonylureas)
+   - Stimulates pancreas to release more insulin
+   - RISK: Can cause hypoglycemia (low blood sugar)
+   - Avoid in elderly patients — hypoglycemia risk is higher
+
+3. SITAGLIPTIN (Januvia) — DPP-4 Inhibitor
+   - Well tolerated, low hypoglycemia risk
+   - Good option for patients who cannot tolerate Metformin
+
+4. EMPAGLIFLOZIN / DAPAGLIFLOZIN (SGLT2 Inhibitors)
+   - Also protect the heart and kidneys
+   - Cause glucose loss through urine
+   - RISK: Urinary tract infections, genital yeast infections
+
+5. INSULIN (various types — Regular, NPH, Glargine, Aspart)
+   - Used when oral medications are not enough
+   - Requires blood glucose monitoring and dose adjustment by doctor
+
+MEDICATIONS TO AVOID WITH DIABETES:
+- High-dose corticosteroids (Prednisone, Dexamethasone)
+- Thiazide diuretics in high doses
+- Atypical antipsychotics (Olanzapine, Clozapine)
+- Fluoroquinolone antibiotics (Ciprofloxacin)
+
+FOODS TO EAT:
+- Bitter gourd / Karela: Contains charantin — natural blood sugar reducer
+- Fenugreek / Methi seeds: Soaked overnight, 1 tsp daily
+- Indian gooseberry / Amla: Improves insulin sensitivity
+- Oats and barley: Beta-glucan fiber reduces glucose spikes
+- Brown rice: Much lower glycemic index than white rice
+- Leafy greens — Palak, methi leaves, bathua: Low glycemic, high magnesium
+- Lentils / Dal: Low GI protein, fiber slows glucose absorption
+- Almonds and walnuts: Improve insulin sensitivity
+- Turmeric / Haldi: Curcumin has blood glucose lowering effects
+- Cinnamon / Dalchini: May improve insulin sensitivity
+
+FOODS TO STRICTLY AVOID:
+- White rice (chawal): High glycemic index of 72. Replace with brown rice
+- Sugar, mithai, gulab jamun, jalebi: Direct glucose spike
+- Maida (refined flour) — bread, naan, paratha: Rapid glucose rise
+- Packaged fruit juices: All fiber removed, concentrated sugar
+- Soft drinks and sodas: 8-10 teaspoons of sugar per can
+- Honey and jaggery / Gud: Still sugar despite being "natural"
+- Potatoes and white potato products: High starch, high GI
+- Alcohol: Interferes with liver glucose regulation
+
+DANGEROUS COMBINATIONS:
+- Metformin + Alcohol: Risk of lactic acidosis (rare but serious)
+- Sulfonylureas + Alcohol: Severe hypoglycemia risk
+- Insulin + vigorous exercise without glucose adjustment: Hypoglycemia
