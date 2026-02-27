@@ -1,0 +1,84 @@
+DISEASE: Hypothyroidism (Underactive Thyroid)
+CATEGORY: Endocrine
+ICD-10: E03
+SEVERITY: Chronic — manageable with daily medication
+
+DESCRIPTION:
+Hypothyroidism occurs when the thyroid gland does not produce enough thyroid hormones (T3 and T4). 
+This slows metabolism and affects nearly every body function. Most common in women and increases with age.
+Hashimoto's thyroiditis is the most common cause in iodine-sufficient areas.
+
+SYMPTOMS:
+- Fatigue and weakness (most common)
+- Weight gain despite normal appetite
+- Bradycardia (slow heart rate, below 60 bpm)
+- Cold intolerance — feeling cold more than others
+- Dry skin and brittle hair
+- Hair loss (alopecia)
+- Constipation (slowed gut motility)
+- Depression and mood changes
+- Slow speech and hoarseness
+- Elevated cholesterol levels
+- Menstrual irregularities in women
+- Memory problems and concentration issues ("brain fog")
+- Facial puffiness and swelling (myxedema in severe cases)
+
+MEDICATIONS USED:
+1. LEVOTHYROXINE (Synthetic T4)
+   - First-line treatment for hypothyroidism
+   - Brand names: Synthroid, Thyroxine, Eltroxin
+   - Take on empty stomach (30-60 minutes before food)
+   - Requires periodic TSH testing to adjust dose
+   - Once daily dosing
+   - AVOID taking with: calcium supplements, iron, vitamins with iron
+   
+2. LIOTHYRONINE (Synthetic T3)
+   - Faster acting than levothyroxine
+   - Used when levothyroxine alone is insufficient
+   - Requires careful monitoring
+   - More expensive
+
+3. DESICCATED THYROID
+   - Natural extract, less commonly used
+   - Variable hormone content
+   - Less predictable than synthetic hormones
+
+MEDICATIONS TO AVOID OR USE WITH CAUTION:
+- Excess iodine (may paradoxically worsen hypothyroidism in autoimmune thyroiditis)
+- Amiodarone (heart medication): High iodine content
+- Lithium (psychiatric medication): Destroys thyroid function
+- Estrogen supplements (in women): May increase levothyroxine requirements
+- Interferon and Interleukin treatments: Can worsen autoimmune thyroiditis
+
+FOODS TO EAT:
+- Seafood and seaweed / Nori: Rich in iodine (thyroid requires iodine)
+- Eggs / Ande: Complete protein with selenium (helps convert T4 to T3)
+- Brazil nuts: Highest natural source of selenium
+- Shellfish / Jhinga: Iodine + selenium + zinc for thyroid function
+- Whole grains (brown rice, oats): B vitamins support thyroid metabolism
+- Legumes / Dal: Iodine + iron + protein
+- Dairy milk / Dahi: Iodine + vitamin D + calcium
+- Spinach / Palak: Iron + magnesium (though goitrogenic, OK in small amounts)
+- Nuts and seeds: Zinc and selenium
+- Chicken / Murgh: Protein + B vitamins + selenium
+
+FOODS TO LIMIT (Goitrogenic — interfere with iodine absorption):
+- Cruciferous vegetables IF RAW and in excess: Raw broccoli, cabbage, cauliflower, brussels sprouts
+  (Cooking inactivates goitrogens, so cooked vegetables are fine)
+- Soy products in excess: Tofu, soy milk, soy sauce
+- Cassava: High goitrogen content
+- Pine nuts: Can increase goitrogen compounds
+- NOTE: Small amounts of these foods are fine; problem is excessive consumption
+
+DANGEROUS INTERACTIONS:
+- Levothyroxine + Metformin: May reduce levothyroxine absorption
+- Levothyroxine + Proton Pump Inhibitors (for acid reflux): Reduce levothyroxine absorption
+- Levothyroxine + Antacids with aluminum or magnesium: Reduce absorption
+- Levothyroxine + Cholestyramine (cholesterol medication): Reduce absorption
+
+SPECIAL CONSIDERATIONS:
+- Levothyroxine must be taken on an empty stomach
+- Wait 4 hours after levothyroxine before taking supplements or other medications
+- Pregnancy: Hypothyroid women need higher doses during pregnancy (TSH should be 0.5-2.5)
+- Menopause: Estrogen changes may require dose adjustments
+- Periodic TSH monitoring: Check every 6-8 weeks after dose change, then annually
