@@ -1,52 +1,68 @@
-DISEASE: Common Cold (Upper Respiratory Tract Infection)
-CATEGORY: Infectious / Respiratory
+DISEASE: Common Cold (Viral Rhinitis / Upper Respiratory Tract Infection)
+CATEGORY: Viral Infection / Respiratory
 ICD-10: J00, J06
-SEVERITY: Acute — self-limiting, resolves in 7-10 days
+SEVERITY: Mild to Moderate — Usually self-limiting, resolves in 7-10 days
 
 DESCRIPTION:
-Common cold is a viral infection of the upper respiratory tract caused by rhinoviruses (most common),
-coronaviruses, or other respiratory viruses. Highly contagious, spreads through respiratory droplets.
-No specific cure — treatment is supportive. Most people recover within a week without complications.
+The common cold is a viral infection of the upper respiratory tract caused by various viruses (mainly rhinoviruses, coronaviruses, and enteroviruses). It's a contagious illness that spreads through respiratory droplets and typically resolves within 7-10 days. While uncomfortable, it's usually not serious and doesn't require antibiotics.
 
-SYMPTOMS:
-- Runny or stuffy nose (most common first symptom)
-- Sneezing
-- Sore throat (mild to moderate)
-- Cough (usually dry initially, becomes productive)
-- Mild fever (around 100-101°F / 37.8-38.3°C)
-- Fatigue and body aches
-- Watery eyes
-- Headache
-- Loss of appetite
-- Nasal congestion worse at night
+KEY SYMPTOMS:
+- Nasal congestion (stuffy nose) - MOST COMMON
+- Runny nose (clear to yellowish discharge)
+- Sore throat or scratchy throat sensation
+- Cough (usually mild, dry initially then productive)
+- Sneezing (often frequent)
+- Mild headache
+- Mild body aches or muscle pain
+- Low-grade fever (37.8-38.5°C / 100-101°F) - NOT always present
+- Mild fatigue or tiredness
+- Loss or change in taste/smell (in some cases)
+- Watery or itchy eyes
 
-SYMPTOMS TIMELINE:
-Days 1-3: Sore throat, sneezing, congestion
-Days 3-7: Peak congestion and cough
-Days 7-10: Gradual improvement
+SYMPTOM TIMELINE:
+Days 1-2: Sore throat, sneezing, initial congestion
+Days 2-4: Peak nasal congestion, cough begins
+Days 5-7: Lingering cough and congestion
+Days 8-10+: Gradual improvement
 
-MEDICATIONS FOR SYMPTOM RELIEF:
-1. PARACETAMOL (Aspirin alternative)
-   - For fever and body aches
-   - Dosage: 500 mg every 6 hours (max 2g/day)
-   - Brand names: Crocin, Dolo, Tylenol
-   - AVOID: In liver disease
+MEDICATIONS USED (Over-the-counter - Symptom Relief Only):
+1. PARACETAMOL / ACETAMINOPHEN (Fever & Pain Relief)
+   - Brand names: Crocin, Dolo, Tylenol, Calpol
+   - Reduces fever and mild headaches/body aches
+   - Usually adequate for cold symptoms
+   - Take as needed, not continuously
+   - AVOID: In liver disease, don't mix with other pain relievers
 
-2. PSEUDOEPHEDRINE (Decongestant)
-   - For nasal congestion
-   - Dosage: 30-60 mg every 4-6 hours
-   - Brand names: Sudafed, in various cold formulas
-   - AVOID: With hypertension, heart disease
+2. IBUPROFEN (Anti-inflammatory Pain Reliever)
+   - Brand names: Brufen, Combiflam (with paracetamol), Advil
+   - Better for throat pain and inflammation
+   - Take only with food to prevent stomach upset
+   - AVOID: In people with ulcers, asthma, kidney disease
 
-3. DEXTROMETHORPHAN (DXM)
-   - For cough suppression
-   - Found in: Robitussin, many combination cold medicines
-   - AVOID: Do not suppress cough for first 3 days (helps clear mucus)
+3. ANTIHISTAMINES (for runny nose & sneezing)
+   - Cetirizine (Allercet, Zandine) - Non-drowsy, preferred
+   - Loratadine (Claritin) - Non-drowsy
+   - Diphenhydramine (older, causes drowsiness)
+   - Reduces runny nose and sneezing effectively
+   - Use for 7-10 days during cold
 
-4. ANTIHISTAMINES (for runny nose, sneezing)
-   - Cetirizine (Cetaphil, Allercet): Non-drowsy
-   - Diphenhydramine: Older, causes drowsiness
-   - Used 7-10 days max
+4. DECONGESTANTS (for nasal congestion)
+   - Pseudoephedrine (Sudafed) - effective but beware of rebound
+   - Phenylephrine - gentler alternative
+   - Nasal saline drops/spray - BETTER LONG-TERM (no side effects)
+   - AVOID: Use for more than 5-7 days (causes rebound congestion)
+   - AVOID: If hypertension or heart disease present
+
+5. COUGH SUPPRESSANTS (for dry cough only)
+   - Dextromethorphan / DXM (Robitussin)
+   - Only for non-productive dry cough
+   - NOT needed if cough is clearing mucus
+
+6. HONEY (Natural Remedy)
+   - 1-2 teaspoons in warm water or herbal tea
+   - Excellent natural throat soother
+   - Many studies show as effective as cough medicine
+   - Safe for children over 1 year old
 
 5. GUAIFENESIN / MUCINEX
    - For productive cough (with phlegm)

@@ -8,7 +8,7 @@ from fastapi.openapi.utils import get_openapi
 from contextlib import asynccontextmanager
 from app.core.database import engine, Base
 from app.core.config import settings
-from app.api.routes import auth, medical
+from app.api.routes import medical
 from app.ai.rag_engine import build_index
 from app.ai.meditron_client import check_ollama_running
 import logging
@@ -102,23 +102,6 @@ def custom_openapi():
         routes=app.routes,
     )
     
-    # Add security scheme for Bearer token
-    openapi_schema["components"]["securitySchemes"] = {
-        "bearerAuth": {
-            "type": "http",
-            "scheme": "bearer",
-            "bearerFormat": "JWT",
-            "description": "JWT Bearer token. Obtain from /api/auth/login"
-        }
-    }
-    
-    # Apply security to all endpoints except /health and auth routes
-    for path, path_item in openapi_schema["paths"].items():
-        if "/auth/" not in path and "/health" not in path:
-            for method in path_item.values():
-                if isinstance(method, dict) and "security" not in method:
-                    method["security"] = [{"bearerAuth": []}]
-    
     app.openapi_schema = openapi_schema
     return app.openapi_schema
 
@@ -132,7 +115,6 @@ app.add_middleware(
     allow_headers=["*"],
 )
 
-app.include_router(auth.router,    prefix="/api")
 app.include_router(medical.router, prefix="/api")
 
 @app.get("/health")

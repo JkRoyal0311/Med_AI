@@ -2,20 +2,16 @@
 Main medical routes — disease info, symptom prediction, drug lookup.
 All the core MedAI features live here.
 """
-from fastapi import APIRouter, Depends, HTTPException, Query
+from fastapi import APIRouter, HTTPException, Query
 from fastapi.responses import StreamingResponse
-from sqlalchemy.orm import Session
 from typing import Optional
 from pydantic import BaseModel
 import redis
 import json
 import hashlib
 
-from app.core.database import get_db
 from app.core.config import settings
-from app.core.security import get_current_user
 from app.ai.ai_service import disease_info, predict_disease, drug_info, chat_stream
-from app.models.models import Disease, Medicine, SearchHistory
 
 router = APIRouter(prefix="/medical", tags=["Medical AI"])
 
@@ -38,9 +34,7 @@ def _cache_key(prefix: str, value: str) -> str:
 # ── DISEASE ENDPOINT ──────────────────────────────────────────
 @router.get("/disease")
 async def get_disease_info(
-    name: str = Query(..., min_length=2, description="Disease name e.g. 'Type 2 Diabetes'"),
-    current_user: dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
+    name: str = Query(..., min_length=2, description="Disease name e.g. 'Type 2 Diabetes'")
 ):
     """
     Get complete disease information including:
@@ -57,24 +51,24 @@ async def get_disease_info(
     
     # Check cache first — Meditron takes 10-30s, cache makes it instant
     if CACHE_ON and (cached := cache.get(key)):
-        return json.loads(cached)
+        data = json.loads(cached)
+        return {
+            "disease": name,
+            "response": data.get("content", str(data)),
+            "data": data
+        }
 
-    result = disease_info(name)
+    data = disease_info(name)
     
     # Save to cache
     if CACHE_ON:
-        cache.setex(key, CACHE_TTL, json.dumps(result))
-    
-    # Log to search history
-    if current_user:
-        db.add(SearchHistory(
-            user_id=current_user["user_id"],
-            query=name,
-            query_type="disease"
-        ))
-        db.commit()
+        cache.setex(key, CACHE_TTL, json.dumps(data))
 
-    return result
+    return {
+        "disease": name,
+        "response": data.get("content", str(data)),
+        "data": data
+    }
 
 
 # ── SYMPTOM PREDICTION ENDPOINT ───────────────────────────────
@@ -83,9 +77,7 @@ class SymptomsIn(BaseModel):
 
 @router.post("/symptoms/predict")
 async def predict_from_symptoms(
-    data: SymptomsIn,
-    current_user: dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
+    data: SymptomsIn
 ):
     """
     Symptom → Disease prediction.
@@ -101,30 +93,29 @@ async def predict_from_symptoms(
     key = _cache_key("symptoms", symptoms_key)
     
     if CACHE_ON and (cached := cache.get(key)):
-        return json.loads(cached)
+        result = json.loads(cached)
+        return {
+            "symptoms": data.symptoms,
+            "response": result.get("analysis", str(result)),
+            "data": result
+        }
 
     result = predict_disease(data.symptoms)
     
     if CACHE_ON:
         cache.setex(key, CACHE_TTL, json.dumps(result))
 
-    if current_user:
-        db.add(SearchHistory(
-            user_id=current_user["user_id"],
-            query=", ".join(data.symptoms),
-            query_type="symptom"
-        ))
-        db.commit()
-
-    return result
+    return {
+        "symptoms": data.symptoms,
+        "response": result.get("analysis", str(result)),
+        "data": result
+    }
 
 
 # ── DRUG INFO ENDPOINT ────────────────────────────────────────
 @router.get("/drug")
 async def get_drug_info(
-    name: str = Query(..., min_length=2, description="Drug name e.g. 'Metformin'"),
-    current_user: dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
+    name: str = Query(..., min_length=2, description="Drug name e.g. 'Metformin'")
 ):
     """
     Drug/medicine information lookup.
@@ -133,40 +124,23 @@ async def get_drug_info(
     key = _cache_key("drug", name)
     
     if CACHE_ON and (cached := cache.get(key)):
-        return json.loads(cached)
-
-    # Check local database first for structured data
-    db_medicine = (
-        db.query(Medicine)
-        .filter(Medicine.generic_name.ilike(f"%{name}%"))
-        .first()
-    )
-
-    result = drug_info(name)
-    
-    # Enrich with structured database data if found
-    if db_medicine:
-        result["structured_data"] = {
-            "generic_name": db_medicine.generic_name,
-            "brand_names": db_medicine.brand_names,
-            "drug_class": db_medicine.drug_class,
-            "is_otc": db_medicine.is_otc,
-            "pregnancy_category": db_medicine.pregnancy_category,
-            "common_side_effects": db_medicine.common_side_effects,
+        data = json.loads(cached)
+        return {
+            "drug": name,
+            "response": data.get("content", str(data)),
+            "data": data
         }
 
+    data = drug_info(name)
+    
     if CACHE_ON:
-        cache.setex(key, CACHE_TTL, json.dumps(result))
+        cache.setex(key, CACHE_TTL, json.dumps(data))
 
-    if current_user:
-        db.add(SearchHistory(
-            user_id=current_user["user_id"],
-            query=name,
-            query_type="drug"
-        ))
-        db.commit()
-
-    return result
+    return {
+        "drug": name,
+        "response": data.get("content", str(data)),
+        "data": data
+    }
 
 
 # ── AI CHAT STREAMING ENDPOINT ────────────────────────────────
@@ -178,8 +152,7 @@ class ChatIn(BaseModel):
 
 @router.post("/chat/stream")
 async def chat_stream_endpoint(
-    data: ChatIn,
-    current_user: dict = Depends(get_current_user)
+    data: ChatIn
 ):
     """
     Streaming medical AI chat.
@@ -207,38 +180,11 @@ async def chat_stream_endpoint(
 
 # ── SEARCH SUGGESTIONS ────────────────────────────────────────
 @router.get("/search/suggestions")
-async def get_suggestions(q: str = Query(..., min_length=1), db: Session = Depends(get_db)):
+async def get_suggestions(q: str = Query(..., min_length=1)):
     """Auto-complete suggestions as user types in search bar"""
-    diseases = (
-        db.query(Disease.name, Disease.common_name, Disease.category)
-        .filter(Disease.name.ilike(f"%{q}%"))
-        .limit(5)
-        .all()
-    )
-    medicines = (
-        db.query(Medicine.generic_name, Medicine.drug_class)
-        .filter(Medicine.generic_name.ilike(f"%{q}%"))
-        .limit(5)
-        .all()
-    )
     return {
-        "diseases": [{"name": d.name, "common_name": d.common_name, "category": d.category} for d in diseases],
-        "medicines": [{"name": m.generic_name, "class": m.drug_class} for m in medicines]
+        "diseases": [],
+        "medicines": [],
+        "message": "Search by entering disease or medicine names"
     }
 
-
-# ── USER SEARCH HISTORY ───────────────────────────────────────
-@router.get("/history")
-async def get_history(
-    current_user: dict = Depends(get_current_user),
-    db: Session = Depends(get_db)
-):
-    """Get user's recent searches for the history/recents section"""
-    history = (
-        db.query(SearchHistory)
-        .filter(SearchHistory.user_id == current_user["user_id"])
-        .order_by(SearchHistory.created_at.desc())
-        .limit(20)
-        .all()
-    )
-    return [{"query": h.query, "type": h.query_type, "time": h.created_at} for h in history]

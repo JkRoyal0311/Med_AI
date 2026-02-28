@@ -90,40 +90,42 @@ def disease_info(disease_name: str) -> dict:
     # Get relevant medical knowledge from our knowledge base
     context_chunks = retrieve(f"{disease_name} medications symptoms foods treatment", n=6)
 
-    prompt = f"""Provide complete medical information about "{disease_name}".
+    context = "\n\n".join([c["text"][:250] for c in context_chunks])
 
-Please structure your response with these sections:
+    prompt = f"""Based on the medical knowledge below, write a DETAILED and COMPLETE guide about {disease_name}.
 
-🔍 **What is {disease_name}?**
-(2-3 sentences explaining the disease)
+MEDICAL KNOWLEDGE:
+{context}
 
-⚠️ **Key Symptoms**
-- Symptom 1
-- Symptom 2
-- (list key symptoms)
+Write your response with these exact sections. For each section, provide SPECIFIC, DETAILED information - do NOT repeat the instructions:
 
-💊 **Medications Used**
-- Medicine name: brief explanation
-- (list common medications)
+🔍 What is {disease_name}?
+{disease_name} is... [Explain what it is, causes, and importance in 3-4 sentences]
 
-🚫 **Medications to Avoid**
-- Medicine name: reason why
-- (list medications to avoid)
+⚠️ Key Symptoms
+[List and describe the main symptoms people experience]
 
-🍎 **Foods to Eat**
-- Include Indian names (karela, methi, amla, palak, etc.)
-- (list beneficial foods)
+💊 Medications Used
+[List medications used to treat this disease with brief explanations]
 
-⛔ **Foods to Avoid**
-- Food name: reason why
-- (list foods to avoid)
+🚫 Medications to Avoid
+[List medications to avoid and explain why]
 
-🏃 **Lifestyle Tips**
-- Tip 1
-- Tip 2
-- (3-5 practical tips)
+🍎 Foods to Eat
+[List beneficial foods with Indian names like karela, methi, amla, palak, adrak, haldi - explain why each helps]
 
-Remember: Use simple language. Don't give specific doses. Always remind to consult doctors."""
+⛔ Foods to Avoid
+[List harmful foods and explain why to avoid them]
+
+🏃 Lifestyle Tips
+[Provide 3-5 practical lifestyle recommendations]
+
+IMPORTANT RULES:
+- DO NOT give specific medicine doses
+- Include Indian food and remedy names
+- Be thorough and comprehensive
+- Always emphasize consulting a doctor
+- Use clear, simple language"""
 
     raw_response = query_meditron(prompt)
     
@@ -167,22 +169,41 @@ def predict_disease(symptoms: list[str]) -> dict:
         n=6
     )
 
-    prompt = f"""Patient has these symptoms: {symptoms_str}
+    context = "\n\n".join([c["text"][:250] for c in context_chunks])
 
-Based on these symptoms, provide:
+    prompt = f"""A patient reports these symptoms: {symptoms_str}
 
-🔍 **TOP 3 POSSIBLE CONDITIONS**
+MEDICAL KNOWLEDGE:
+{context}
 
-For each condition:
-- Condition name
-- Why these symptoms match (1-2 sentences)
-- Likelihood: High / Medium / Low
-- Key symptom to watch for
-- When to see doctor: Emergency / 1-2 days / Routine appointment
+Based on this knowledge, write a DETAILED response with these exact sections. For each section, provide SPECIFIC information - do NOT repeat the instructions:
 
-⚠️ **IMPORTANT**: This is NOT a diagnosis. These are possible conditions - always see a doctor for proper evaluation.
+🔍 TOP 3 POSSIBLE CONDITIONS
 
-🚨 If symptoms suggest emergency (chest pain, stroke signs, severe breathing difficulty), START with "SEEK EMERGENCY CARE IMMEDIATELY"."""
+Condition 1:
+- What is it?
+- Why these symptoms match
+- Likelihood: High/Medium/Low
+- Key symptom to watch
+- When to see doctor: Emergency/1-2 days/Routine
+
+Condition 2:
+[Same format]
+
+Condition 3:
+[Same format]
+
+⚠️ IMPORTANT NOTE
+This is NOT a diagnosis. These are possible conditions. Always see a doctor.
+
+🚨 EMERGENCY CHECK
+If any symptoms suggest emergency, state: "SEEK EMERGENCY CARE IMMEDIATELY"
+
+RULES:
+- Be detailed and informative
+- Provide reasoning for each condition
+- Use simple, clear language
+- Always emphasize need for doctor consultation"""
 
     raw_response = query_meditron(prompt)
     
@@ -209,40 +230,43 @@ def drug_info(drug_name: str) -> dict:
     
     context = "\n\n".join([c["text"][:250] for c in context_chunks])
 
-    prompt = f"""Provide complete information about the medicine: {drug_name}
+    prompt = f"""Based on the medical knowledge below, write a DETAILED and COMPLETE guide about the medicine {drug_name}.
 
 MEDICAL KNOWLEDGE:
 {context}
 
-Please structure your response:
+Write your response with these exact sections. For each section, provide SPECIFIC, DETAILED medical information - do NOT repeat the instructions:
 
-💊 **What is {drug_name}?**
-(Drug class and brief description)
+💊 What is {drug_name}?
+{drug_name} is... [Explain the drug class and description]
 
-🎯 **What it treats**
-(Conditions and diseases it's used for)
+🎯 What it treats
+[List the conditions and diseases this medicine treats]
 
-⚙️ **How it works**
-(Simple explanation of mechanism)
+⚙️ How it works
+[Explain the mechanism of action in simple terms]
 
-⚠️ **Common Side Effects**
-(List - note which are serious)
+⚠️ Common Side Effects
+[List common side effects, marking which are serious]
 
-🔗 **Important Interactions**
-(Other drugs to avoid with this medicine)
+🔗 Important Interactions
+[List drugs and substances to avoid with this medicine]
 
-🚫 **What to Avoid While Taking**
-(Foods, alcohol, activities)
+🚫 What to Avoid While Taking
+[Explain foods, alcohol, and activities to avoid]
 
-❌ **Who Should NOT Take It**
-(Contraindications and warnings)
+❌ Who Should NOT Take It
+[List contraindications and who should avoid this medicine]
 
-🤰 **Pregnancy & Breastfeeding**
-(Safety information for both)
+🤰 Pregnancy & Breastfeeding
+[Provide safety information for pregnancy and breastfeeding]
 
-Include Indian brand names if known (e.g., Glucophage for Metformin).
-DO NOT give specific doses - say "dosage varies by patient and doctor".
-Use simple language."""
+IMPORTANT RULES:
+- DO NOT say "dosage varies" - say actual typical ranges then note "consult your doctor"
+- Include Indian brand names like Allercet, Zandine for {drug_name}
+- Use clear medical terminology with simple explanations
+- Be comprehensive and thorough
+- Always remind to consult doctors"""
 
     raw_response = query_meditron(prompt)
     
