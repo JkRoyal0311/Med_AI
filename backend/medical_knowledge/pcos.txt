@@ -1,0 +1,216 @@
+DISEASE: Polycystic Ovary Syndrome (PCOS)
+CATEGORY: Endocrine / Gynecological
+ICD-10: E28.2
+SEVERITY: Chronic — manageable, affects fertility and metabolic health
+
+DESCRIPTION:
+PCOS is a common hormonal disorder affecting women of reproductive age. Characterized by
+irregular menstruation, elevated androgen (male hormone) levels, and ovarian cysts (multiple small cysts).
+Affects 6-20% of women globally, higher prevalence in India. Causes irregular periods, infertility,
+metabolic syndrome, increased diabetes and heart disease risk.
+
+CAUSES:
+- Exact cause unknown
+- Suspected: Insulin resistance (70-80% of PCOS patients)
+- Genetic predisposition
+- Chronic inflammation
+- Hormonal imbalance in LH and FSH
+
+SYMPTOMS:
+REPRODUCTIVE:
+- Irregular periods: Absence of periods for months (amenorrhea), heavy bleeding, unpredictable cycles
+- Infertility: Difficulty conceiving due to irregular ovulation
+- Increased miscarriage risk
+
+METABOLIC:
+- Weight gain: Especially abdominal obesity, despite modest caloric intake
+- Difficulty losing weight: Insulin resistance makes weight loss hard
+- Dark skin patches / Acanthosis nigricans: Usually neck, underarms
+- Skin tags: Small growths, especially neck and armpits
+
+HORMONAL:
+- Excessive facial hair / Hirsutism: Beard, sideburns, chin hair
+- Hair loss on scalp: Male-pattern baldness
+- Acne: On face, chest, back (elevated androgens)
+- Oily skin
+- Deepening voice (rare)
+
+PSYCHOLOGICAL:
+- Depression and anxiety: Common mood disorders
+- ADHD symptoms: Concentration difficulties
+
+FERTILITY ISSUES:
+- Irregular ovulation: Makes conception difficult
+- Elevated FSH/LH ratio: Disrupts egg development
+- Pregnancy complications: Higher miscarriage and gestational diabetes risk
+
+DIAGNOSIS:
+Rotterdam Criteria (2 of 3 required):
+1. Irregular or absent periods (anovulation)
+2. Clinical/biochemical signs of hyperandrogenism (high male hormones)
+3. Polycystic ovaries on ultrasound (12+ follicles per ovary, or >10 mL volume)
+
+Tests:
+- Testosterone (free and total)
+- DHEA-S (Dehydroepiandrosterone sulfate)
+- LH/FSH ratio: Usually elevated in PCOS
+- Fasting glucose and insulin: Assess insulin resistance
+- Lipid panel: Check triglycerides, cholesterol
+- TSH: Rule out thyroid disease (mimics PCOS)
+- Pelvic ultrasound: Assess ovarian morphology
+- HOMA-IR score: Quantifies insulin resistance
+
+MEDICATIONS USED:
+
+FOR MENSTRUAL REGULATION & ANDROGEN REDUCTION:
+1. ORAL CONTRACEPTIVES (Birth control pills)
+   - Regulate menstrual cycle, reduce androgens
+   - Combined estrogen + progestin
+   - Dosage: Standard 21-day pack, take daily for 21 days, 7-day break
+   - Brand names: Yasmin, Diane-35, Loette
+   - EFFECTIVENESS: Reduces androgen, regulates cycles, improves acne and hair loss
+   - Effects: Takes 2-3 months for noticeable improvement
+   - MUST MONITOR: BP, clotting risk (PCOS increases thrombotic risk)
+
+2. PROGESTIN-ONLY PILLS or MEDROXYPROGESTERONE
+   - Alternative if estrogen contraindicated
+   - Dosage: 10 mg medroxyprogesterone daily for 10-12 days monthly
+   - Triggers withdrawal bleeding (periods)
+
+FOR INSULIN RESISTANCE (Most important if overweight):
+3. METFORMIN
+   - Improves insulin sensitivity
+   - Dosage: 500 mg twice to three times daily with meals
+   - Takes 3-6 months to see full effect
+   - SIDE EFFECTS: GI upset (nausea, diarrhea), given with meals
+   - Brand names: Glucophage, Glycomet
+   - EFFECTIVENESS: 30-40% weight loss improvement, improves ovulation
+   - Can use even if not diabetic (off-label in PCOS)
+
+4. INOSITOL (Myo-inositol and D-chiro-inositol)
+   - Natural compound that improves insulin signaling
+   - Dosage: 2-4 grams daily
+   - More tolerable than metformin
+   - May improve ovulation and fertility
+   - Takes 2-3 months for effect
+   - Often combined with metformin for synergistic effect
+
+FOR ANDROGEN REDUCTION (Topical, cosmetic):
+5. SPIRONOLACTONE (Anti-androgen)
+   - Blocks male hormone effects
+   - Dosage: 50-200 mg daily (divided doses)
+   - Reduces hirsutism, acne, hair loss
+   - MONITOR: Potassium levels (can increase)
+   - Takes 6-12 months for visible improvement in hair
+   - Usually combined with oral contraceptive
+
+FOR FERTILITY:
+6. CLOMIPHENE CITRATE
+   - Induces ovulation
+   - Dosage: 50-150 mg daily for 5 days (days 3-7 of cycle)
+   - 70-80% will ovulate, 40-50% will conceive per cycle
+   - Ovulation usually occurs 5-10 days after last dose
+   - Multiple pregnancy risk: 10%
+   - Monitor with ultrasound to assess follicle growth
+
+7. LETROZOLE (Aromatase Inhibitor)
+   - Newer alternative to clomiphene
+   - Lower multiple pregnancy risk than clomiphene
+   - May be more effective
+
+FOR ACNE:
+8. TRETINOIN (Vitamin A derivative)
+   - Topical for acne prescription
+   - Dosage: Apply at night, 2-3 times weekly initially
+   - OR use oral contraceptives (see above)
+
+MEDICATIONS THAT WORSEN PCOS:
+- Avoid corticosteroids with long-term use (increase insulin resistance)
+- Some antidepressants cause weight gain (discuss alternatives)
+
+FOODS TO EAT (Anti-inflammatory, insulin-friendly):
+- Low glycemic index foods: Steel-cut oats, brown rice, whole wheat
+- Legumes / Dal: Lentils, chickpeas (high fiber, low GI)
+- Leafy greens / Palak, methi: Nutrient-dense, low calorie
+- Cruciferous vegetables: Broccoli, cauliflower, cabbage (reduce androgens)
+- Berries: Blueberries, raspberries (antioxidants, insulin-friendly)
+- Fish: Salmon, mackerel (omega-3 reduces inflammation)
+- Nuts and seeds: Almonds, flaxseed, sunflower seeds (magnesium, fiber)
+- Olive oil: Anti-inflammatory
+- Turmeric / Haldi: Curcumin reduces inflammation, may improve insulin sensitivity
+- Ginger / Adrak: Anti-inflammatory
+- Cinnamon / Dalchini: May improve insulin sensitivity
+- Lean poultry / Murgh: Protein without excess saturated fat
+- Eggs: Complete protein
+- Greek yogurt: Protein, probiotics (if tolerated)
+
+FOODS TO STRICTLY AVOID:
+- Refined carbohydrates: White bread, white rice, pasta (spike insulin, trigger inflammation)
+- Sugar and sweets: Soda, candy, desserts (direct insulin spike)
+- Processed foods: High sugar, refined carbs, additives (inflammatory)
+- Trans fats: Packaged snacks, fried foods
+- Saturated fats: Excess butter, ghee (inflammatory)
+- Alcohol: Increases insulin resistance
+
+SUPPLEMENTS THAT MAY HELP:
+- Myo-inositol: 2-4 grams daily (improves ovulation, insulin sensitivity)
+- Vitamin D: 1000-4000 IU daily (many PCOS patients deficient)
+- Chromium: 200 mcg daily (may improve insulin sensitivity)
+- Omega-3: 2-3 grams daily (anti-inflammatory)
+- Magnesium: 300-400 mg daily (insulin sensitivity, muscle cramps)
+- Zinc: 15-30 mg daily (reproductive hormone balance)
+- NAC (N-acetylcysteine): 1800-3000 mg daily (improves fertility in some)
+
+LIFESTYLE MODIFICATIONS (CRITICAL):
+- Weight loss: 5-10% reduction improves insulin sensitivity, restores ovulation
+- Exercise: 150 min/week moderate aerobic + strength training twice weekly
+  * Even without weight loss, exercise improves insulin sensitivity
+  * Strength training: Build muscle, improve metabolism
+  * Consistency more important than intensity
+- Stress management: Yoga, meditation (stress increases androgen)
+- Sleep: 7-9 hours, consistent schedule (sleep deprivation worsens insulin resistance)
+- Reduce inflammation: Anti-inflammatory diet (Mediterranean or Paleo often recommended)
+- Track cycle: Understanding menstrual pattern helps identify ovulation for conception
+
+FERTILITY MANAGEMENT:
+- If regular periods restrained: Likely ovulating, attempt timed intercourse
+- If irregular or absent: Use ovulation tests (LH surge) or ultrasound monitoring
+- If clomiphene: Use ovulation predictor kits or ultrasound to time intercourse
+- Consider IVF if > 1-2 years infertility despite treatment
+- Egg quality often better if weight loss and metabolic improvement achieved first
+
+METABOLIC COMPLICATIONS TO MONITOR:
+- Type 2 diabetes: 30-40% of PCOS patients develop diabetes (vs 8% general population)
+- Metabolic syndrome: 33-50% prevalence in PCOS
+- Cardiovascular disease: 2-3x higher risk than non-PCOS women
+- Fatty liver disease: 23-26% with NAFLD
+- Annual screening: Fasting glucose, triglycerides, metabolic panel
+
+SCREEN FOR:
+- Sleep apnea: PCOS increases risk (ask about snoring, daytime sleepiness)
+- Depression/anxiety: Common, affects quality of life
+
+MONITORING DURING TREATMENT:
+- Menstrual cycles: Track to assess response
+- Metabolic markers: Annual glucose, lipids
+- Androgen levels: Check every 6-12 months (if on treatment)
+- Ultrasound: Not needed routinely once diagnosis confirmed
+- BMI and waist circumference: Track weight loss progress
+
+WHEN TO SEE DOCTOR:
+- Severe acne not responding to oral contraceptive
+- Severe hirsutism affecting quality of life (may increase spironolactone)
+- Not ovulating after 3-6 months of lifestyle changes
+- Infertility > 1 year
+- Weight loss plateau despite adherence
+- Depression or anxiety symptoms
+- Suspected pregnancy complications
+
+SPECIAL CONSIDERATIONS:
+- Infertility: Often requires specialist (reproductive endocrinologist)
+- Pregnancy: Continue lifestyle changes; some medications stopped (contraceptives), others appropriate
+- Miscarriage risk elevated: May need progesterone support in first trimester
+- Gestational diabetes risk: Increased; gestational diabetes screening essential
+- Breastfeeding: Some medications safe (metformin, inositol), others not (contraceptives if solely breastfeeding)
+- Long-term: PCOS doesn't disappear but is manageable with lifestyle + medication
+- Mental health: PCOS affects body image, fertility concerns, depression; counseling often helpful

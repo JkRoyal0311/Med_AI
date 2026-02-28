@@ -1,0 +1,322 @@
+DISEASE: Myocardial Infarction / Heart Attack
+CATEGORY: Cardiovascular / Cardiac Emergency
+ICD-10: I21
+SEVERITY: Critical/Life-threatening; medical emergency
+
+DESCRIPTION:
+Myocardial infarction (MI) is death of heart muscle due to blocked coronary artery (lack of blood
+flow/oxygen). Leading cause of death in men and women. Occurs when atherosclerotic plaque ruptures,
+causing thrombosis. Time-critical emergency: "Time is muscle" — every minute matters. Rapid
+reperfusion (thrombolysis or angioplasty) saves life and preserves heart function. Symptoms often
+described as crushing chest pain, but presentation variable.
+
+PATHOPHYSIOLOGY:
+- Atherosclerotic plaque: Cholesterol accumulation in coronary artery
+- Plaque rupture: Exposed lipid core initiates clotting cascade
+- Thrombosis: Blood clot completely blocks artery
+- Myocardial necrosis: Heart muscle dies from lack of oxygen
+- Timing: Irreversible damage begins ~20-30 minutes, extensive by 3-4 hours
+- Collateral vessels: Pre-existing good collaterals may limit damage
+
+TYPES:
+
+STEMI (ST-Elevation MI):
+- Complete coronary occlusion: Full-thickness myocardial infarction
+- ST elevation on EKG: Indicates full-thickness injury
+- High risk of complications (cardiogenic shock, arrhythmia)
+- Typically anterior MI (LAD) more serious than inferior
+
+NSTEMI (Non-ST Elevation MI):
+- Partial occlusion or spontaneous thrombolysis
+- No ST elevation but elevated troponin
+- Usually subendocardial infarction (partial thickness)
+- Better prognosis than STEMI but still serious
+
+RISK FACTORS:
+
+MODIFIABLE:
+- Smoking: Oxygen reduction, plaque irritability
+- High cholesterol: Atherosclerotic plaque formation
+- Hypertension: Vessel wall stress, plaque growth
+- Diabetes: Accelerates atherosclerosis, increases clot risk
+- Obesity: Inflammation, metabolic dysfunction
+- Physical inactivity: Cardiovascular deconditioning
+- High stress: Emotional stress can trigger MI
+- Excessive alcohol: Cardiomyopathy, arrhythmias
+- Cocaine/methamphetamine: Vasospasm, tachycardia
+- Oral contraceptives: Thrombotic risk (minimal with modern formulations)
+- Hormone replacement therapy: Slight thrombotic risk
+
+NON-MODIFIABLE:
+- Age: Increases with age (men >45, women >55)
+- Male gender: Higher risk in men
+- Family history: Premature CAD in relatives
+- Race/ethnicity: Variations by ethnicity
+- Prior MI: Recurrent risk high (~10% per year without prevention)
+
+SYMPTOMS:
+
+CLASSIC PRESENTATION (Chest pain):
+- Chest pain/pressure: Central, crushing ("like elephant on chest")
+- Quality: Often described as tightness, squeezing, pressure
+- Location: Substernal (behind breastbone), can radiate
+- Radiation: To left arm, jaw, neck, back, epigastrium
+- Duration: >20 minutes (unlike angina which resolves with rest)
+- Associated: Diaphoresis (sweating), nausea, dyspnea
+
+ASSOCIATED SYMPTOMS:
+- Shortness of breath: Most common symptom in women, elderly
+- Nausea/vomiting: Especially inferior MI
+- Lightheadedness/syncope: From hypotension, arrhythmia
+- Palpitations: From arrhythmia
+- Extreme fatigue: Profound weakness
+- Anxiety: Sense of impending doom
+
+ATYPICAL PRESENTATIONS (Often delayed diagnosis):
+- Women: Often atypical (back pain, nausea, fatigue more common than chest pain)
+- Elderly: Dyspnea, weakness rather than chest pain
+- Diabetics: Often asymptomatic or minimal pain ("silent MI" — autonomic neuropathy)
+- Asian populations: May present later (cultural attitudes toward seeking care)
+
+DIAGNOSIS:
+
+ELECTROCARDIOGRAM (EKG) — URGENT:
+- ST elevation: In anatomic distribution (STEMI)
+- ST depression: Posterior wall or reciprocal changes
+- T wave changes: Inversion or flattening
+- Arrhythmias: Frequent in acute phase
+
+CARDIAC BIOMARKERS:
+- Troponin I/T: Most sensitive (elevated within 3-4 hours, peak 2-3 days)
+  * Normal troponin in first hour doesn't exclude MI (serial testing needed)
+  * Extremely specific for myocardial necrosis
+- CKMB: Older marker, less specific, faster rise/fall (2-3 hours)
+- Myoglobin: Non-specific, earliest rise (1-2 hours)
+- Serial troponins: If first negative, repeat in 3 hours and 6-9 hours
+
+IMAGING:
+- Echocardiography: Within 10 minutes
+  * Shows wall motion abnormality (hypokinesis/akinesis in occluded vessel territory)
+  * Assesses LV function, complications (VSD, papillary muscle rupture, free wall rupture)
+  * Guides management
+- Coronary angiography: During cardiac catheterization
+  * Gold standard for identifying culprit lesion
+  * Part of emergent management (PCI)
+- Chest X-ray: Assess for pulmonary edema, cardiac silhouette size
+
+OTHER TESTS:
+- CBC: Check hemoglobin (anemia can precipitate MI, complicate treatment)
+- Metabolic panel: Kidney function, electrolytes
+- Lipid panel: Later (after acute phase)
+- BNP/NT-proBNP: Prognostication
+
+MEDICATIONS USED:
+
+EMERGENT (Pre-hospital/ER):
+
+1. ASPIRIN:
+   - Dosage: 300-325 mg chewed (or 160-325 mg IV)
+   - IMMEDIATELY: Antiplatelet, reduces mortality ~25%
+   - Unless contraindication
+   - Brand names: Generic
+
+2. ANTICOAGULATION (LMWH or UFH):
+   - Enoxaparin: 0.3-0.5 mg/kg IV, then 1 mg/kg SC every 12 hours
+   - OR Unfractionated heparin (UFH): 60-70 U/kg IV bolus, then infusion
+   - Prevents thrombus expansion
+
+3. P2Y12 INHIBITORS:
+   - Clopidogrel (Plavix): 300-600 mg loading dose
+   - Prasugrel: 60 mg loading (30 mg if <60 kg)
+   - Ticagrelor: 180 mg loading dose
+   - Dual antiplatelet therapy (DAPT): With aspirin
+   - Reduces stent thrombosis, recurrence
+
+REPERFUSION (URGENT):
+
+4. REPERFUSION STRATEGY (Time-sensitive):
+
+   A. PRIMARY PCI (Preferred if <12 hours, door-to-balloon <90 min):
+      - Percutaneous coronary intervention
+      - Catheter-based angioplasty ± stent placement
+      - Reopens occluded artery
+      - Success rate 95% in expert centers
+      - Requires cardiac catheterization lab
+      
+   B. FIBRINOLYTIC THERAPY (Thrombolysis — if PCI unavailable):
+      - Alteplase (tPA): 15 mg IV bolus, then infusion
+      - Reteplase: 10 units IV twice
+      - Tenecteplase: Weight-based dosing single bolus
+      - Dissolves thrombus: Within 12 hours of onset (ideal <3 hours)
+      - Success: 50-60% achieve TIMI-3 flow
+      - Risk: Bleeding (0.7-0.8% intracranial hemorrhage)
+      - Contraindications: Active bleed, recent surgery, coagulopathy, uncontrolled HTN
+
+ACUTE MANAGEMENT:
+
+5. ANTIANGINALS:
+   - Nitroglycerin: 0.3-0.6 mg sublingual, can repeat every 5 minutes
+     * Dilates coronary/peripheral vessels
+     * Reduces preload
+     * Usually given IV in acute MI
+   - Morphine: 2-4 mg IV for pain, anxiety, venodilation
+     * Pain relief critical (psychological + physiologic)
+
+6. BETA-BLOCKERS (Early, if no contraindication):
+   - Metoprolol: IV 25-50 mg, then oral
+   - Atenolol: IV 5 mg, repeat x 2
+   - Reduces oxygen demand, arrhythmia risk
+   - CAUTION: Contraindicated in cardiogenic shock, bradycardia, heart block
+
+7. ACE INHIBITORS:
+   - Lisinopril: 5 mg initially, then daily dosing
+   - Ramipril: Similar dosing
+   - Improves LV remodeling, reduces mortality
+   - Start within 24 hours
+
+8. ALDOSTERONE ANTAGONISTS:
+   - Spironolactone: 25 mg daily (if LVEF <35%)
+   - Reduces mortality in post-MI heart failure
+
+INTENSIVE CARE:
+
+9. ICU MONITORING:
+   - Continuous EKG monitoring: Detect arrhythmias
+   - Oxygen: To maintain O2 sat >94%
+   - IV fluids: Carefully (monitor for pulmonary edema)
+   - Catheterization: For hemodynamic monitoring if needed
+
+10. ARRHYTHMIA MANAGEMENT:
+    - Amiodarone: For VF/VT
+    - Transcutaneous pacing: If bradycardia with hypotension
+
+SECONDARY PREVENTION (Long-term post-MI):
+
+11. DUAL ANTIPLATELET:
+    - Aspirin 81 mg + Clopidogrel/Prasugrel/Ticagrelor
+    - Duration: 12 months standard
+
+12. HIGH-INTENSITY STATIN:
+    - Atorvastatin 80 mg daily
+    - Rosuvastatin 40-80 mg
+    - Reduces LDL goal <70 mg/dL (or <55 mg/dL for very high risk)
+
+13. BETA-BLOCKER (Long-term):
+    - Carvedilol, metoprolol succinate, bisoprolol
+    - Indefinite unless contraindication
+    - Reduces mortality
+
+14. ACE-I/ARB (Indefinite):
+    - Lisinopril, ramipril, captopril
+    - Especially if LVEF <40%
+    - Cardioprotective
+
+15. CARDIAC REHABILITATION:
+    - Exercise training: 2-3 months program
+    - Improves exercise capacity, reduces depression
+    - Risk factor modification
+    - Psychological support
+
+FOODS TO EAT (Cardiac recovery, secondary prevention):
+- Vegetables: Leafy greens, broccoli, carrots
+- Fruits: Berries, apples, oranges (vitamin C)
+- Fatty fish: Salmon, sardines (omega-3, reduce inflammation)
+- Whole grains: Brown rice, oats, whole wheat
+- Legumes / Dal: Protein, fiber, low glycemic
+- Nuts: Almonds, walnuts (omega-3, but portion control)
+- Olive oil: Unsaturated fat, anti-inflammatory
+- Low-fat dairy: If tolerated
+- Turmeric / Haldi: Anti-inflammatory
+- Ginger / Adrak
+- Garlic / Lahsun
+
+FOODS TO AVOID/STRICTLY LIMIT:
+- Red meat: Excess (high saturated fat)
+- Trans fats: Processed, fried foods
+- High-sodium foods: Salt restriction (<2 g/day)
+- High-cholesterol: Organ meats, egg yolks
+- Excess alcohol: Cardiomyopathy risk
+- Simple sugars: Refined carbs, sweets
+- Full-fat dairy: High saturated fat
+
+LIFESTYLE MODIFICATIONS:
+
+EXERCISE (Cardiac rehabilitation):
+- Supervised program: 2-3 months
+- Gradual increase: Walking → cycling → running
+- Goal: 150 min/week moderate activity
+- Strength training: 2-3 times weekly
+- Exercise increases post-MI (protects, improves quality of life)
+
+STRESS MANAGEMENT:
+- Major triggers: Stress, anger, emotional shock can precipitate MI
+- Techniques: Meditation, yoga, counseling
+- Depression screening: Common post-MI, treat aggressively
+
+SMOKING CESSATION:
+- Critical: Smoking increases cardiac events 2-4x
+- Never too late to quit
+
+WEIGHT MANAGEMENT:
+- Target BMI <25
+- Weight loss if overweight
+
+SLEEP:
+- 7-9 hours nightly
+- Sleep apnea screening: Treat if present
+
+SEXUAL ACTIVITY:
+- Usually can resume 4-6 weeks post-MI
+- Discuss timing with cardiologist
+
+WHEN TO SEEK EMERGENCY IMMEDIATELY:
+
+[CALL EMERGENCY (100/111/999) IMMEDIATELY]:
+- Chest pain or pressure
+- Shortness of breath
+- Pain in jaw, neck, arm, back
+- Nausea with dyspnea
+- Diaphoresis (sweating)
+- Loss of consciousness
+
+[DO NOT DELAY — EVERY MINUTE COUNTS]
+
+DO NOT:
+- Wait to see if it goes away
+- Drive yourself (unless absolutely necessary)
+- Minimize symptoms
+- Wait for other people
+
+COMPLICATIONS:
+
+EARLY (<48 hours):
+- Cardiogenic shock: Hypotension from severe LV damage
+- Acute pulmonary edema: From LV dysfunction
+- Ventricular arrhythmias: VF, VT (can be fatal)
+- Bradycardia/heart block: From sinus node/conduction damage
+
+LATE (Days-weeks):
+- Ventricular septal defect (VSD): Septal rupture
+- Papillary muscle rupture: Acute severe MR
+- Free wall rupture: Catastrophic, rapid death
+- Dressler syndrome: Post-MI pericarditis (weeks-months)
+- LV thrombus: From dyskinetic/akinetic region (stroke risk)
+
+CHRONICALLY:
+- Heart failure: LV remodeling, systolic dysfunction
+- Recurrent MI: Without secondary prevention
+
+PROGNOSIS:
+- STEMI: 2-6% in-hospital mortality (varies with care, comorbidities)
+- NSTEMI: 3-5% in-hospital mortality
+- With rapid reperfusion: Much better outcomes
+- Long-term: 5-year mortality ~20-30% (decreases with prevention)
+- Quality of life: Most return to activities, some permanent limitation (depends on damage extent)
+
+SPECIAL CONSIDERATIONS:
+- Women: Often present later, atypical symptoms delay diagnosis
+- Diabetics: Higher mortality, more complications
+- Elderly: Higher mortality, more complications, more drug interactions
+- Cocaine users: Increased recurrence risk, special management
+
+[MYOCARDIAL INFARCTION IS ALWAYS A MEDICAL EMERGENCY — RAPID TREATMENT IS LIFE-SAVING]

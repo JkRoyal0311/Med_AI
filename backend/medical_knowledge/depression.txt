@@ -1,0 +1,248 @@
+DISEASE: Depression (Major Depressive Disorder)
+CATEGORY: Psychiatric / Mental Health
+ICD-10: F32, F33
+SEVERITY: Chronic — can be disabling, suicide risk in severe cases
+
+DESCRIPTION:
+Depression is a common mental health disorder characterized by persistent sadness, loss of interest
+in activities, and various physical and cognitive changes. Affects mood, thoughts, and physical health.
+Caused by combination of genetics, brain chemistry (neurotransmitters), and life events. Different from
+normal sadness — persistent for at least 2 weeks and interferes with daily functioning.
+
+TYPES:
+- Major Depressive Disorder (MDD): Single or recurrent episodes, most common
+- Persistent Depressive Disorder (Dysthymia): Chronic, milder but long-lasting (≥2 years)
+- Seasonal Affective Disorder: Occurs seasonally (winter severity)
+- Postpartum depression: Occurs after childbirth
+
+RISK FACTORS:
+- Family history of depression
+- Previous depressive episodes
+- Chronic medical conditions
+- Chronic stress or major life events (loss, trauma)
+- Social isolation
+- Substance abuse (alcohol, drugs)
+- Brain chemistry imbalance
+- Hormonal changes (menstrual, menopause)
+- Certain medications (beta-blockers, some anticonvulsants)
+
+SYMPTOMS (At least 5 for 2 weeks for diagnosis):
+
+MOOD/EMOTIONAL:
+- Persistent sadness or empty feeling
+- Loss of interest/pleasure in activities (anhedonia)
+- Difficulty experiencing any joy
+- Irritability and anger (especially in men)
+- Crying spells (or inability to cry despite sadness)
+- Hopelessness and helplessness
+- Guilt and worthlessness feelings
+- Suicidal thoughts or death preoccupation
+
+COGNITIVE:
+- Difficulty concentrating and making decisions
+- Indecisiveness
+- Memory problems
+- Negative thinking patterns
+- Rumination (dwelling on negative thoughts)
+- Difficulty organizing thoughts
+
+PHYSICAL:
+- Fatigue and low energy (despite adequate sleep)
+- Sleep disturbance: Insomnia or hypersomnia (sleeping too much)
+- Appetite changes: Increased or decreased
+- Weight gain or loss (beyond 5% body weight)
+- Physical aches and pains (back, head, muscles)
+- Digestive problems
+- Reduced libido and sexual dysfunction
+- Psychomotor retardation: Slow movements, slurred speech
+- Agitation: Restlessness, inability to sit still
+
+SEVERITY:
+- Mild: Few symptoms beyond minimum, minimal impact
+- Moderate: Multiple symptoms, noticeable impact on functioning
+- Severe: Many symptoms, significantly impaired, possible psychotic features
+- With psychotic features: Hallucinations or delusions (lose touch with reality)
+- With suicidal ideation: Thought of harming self
+
+MEDICATIONS USED:
+
+First-line antidepressants (SSRIs — Selective Serotonin Reuptake Inhibitors):
+1. SERTRALINE
+   - Dosage: 50 mg once daily, increase to 100-200 mg
+   - Onset: 4-6 weeks for full effect
+   - Brand names: Zoloft, Setra
+   - Generally well-tolerated
+   - SIDE EFFECTS: Sexual dysfunction (delayed orgasm, erectile dysfunction), sleep disturbance, nausea (usually transient)
+
+2. FLUOXETINE
+   - Dosage: 20-40 mg once daily (or split dose)
+   - Long half-life (takes weeks to clear)
+   - Brand names: Prozac, Fluoxat
+   - SIDE EFFECTS: Same as sertraline, activating (take morning for insomnia-prone)
+
+3. ESCITALOPRAM
+   - Dosage: 10-20 mg once daily
+   - Most selective SSRI for serotonin (fewer side effects)
+   - Brand names: Lexapro, Esitalo
+   - Good efficacy, good tolerability
+
+4. PAROXETINE
+   - Dosage: 20-40 mg once daily
+   - More sedating (good if insomnia)
+   - Brand names: Paxil, Parotin
+   - Slightly higher withdrawal symptoms if stopped abruptly
+
+Second-line antidepressants (Different mechanisms):
+5. VENLAFAXINE (SNRI — Serotonin-Norepinephrine Reuptake Inhibitor)
+   - Dosage: 75-150 mg once daily (or split)
+   - For moderate-severe depression
+   - Also helps with anxiety
+   - SIDE EFFECTS: Like SSRIs, plus slight blood pressure increase (monitor)
+   - Brand names: Effexor, Venlift
+
+6. BUPROPION (Norepinephrine-Dopamine Reuptake Inhibitor)
+   - Dosage: 150-300 mg daily
+   - Activating (energizing), helpful with fatigue
+   - DOES NOT cause sexual dysfunction (opposite problem: increased libido)
+   - CAUTION: Increases seizure risk (avoid if seizure disorder)
+   - Brand names: Wellbutrin, Bupropion
+
+7. TRICYCLIC ANTIDEPRESSANTS (OLDER CLASS)
+   - Amitriptyline: 25-100 mg at night
+   - Imipramine, Nortriptyline: Similar dosing
+   - Effective but more side effects than SSRIs
+   - SIDE EFFECTS: Dry mouth, constipation, urinary retention, orthostatic hypotension, weight gain
+   - ADVANTAGE: Overdose can be dangerous (avoid in suicidal patients)
+   - Still used for depression with chronic pain or insomnia
+
+AUGMENTATION STRATEGIES (If not responding):
+8. ANTIPSYCHOTICS (Low-dose adjunct)
+   - Aripiprazole 2-5 mg daily added to SSRI
+   - Quetiapine 50-100 mg nightly
+   - Improves response in 30-40% of treatment-resistant cases
+   - SIDE EFFECTS: Weight gain, metabolic syndrome risk
+
+9. THYROID HORMONE (Liothyronine)
+   - 25 mcg daily added to antidepressant
+   - Augments antidepressant effect
+
+ANXIOLYTICS (For anxiety coexisting with depression):
+10. BENZODIAZEPINES (Short-term only)
+    - Lorazepam 0.5-1 mg twice daily
+    - For acute anxiety while antidepressant takes effect
+    - CAUTION: Risk of dependence; use ≤2-4 weeks
+    - Long-term benzodiazepines contraindicated in depression
+
+MEDICATIONS TO AVOID:
+- Alcohol: Worsens depression, interacts with antidepressants
+- Stimulants: May worsen anxiety (if present)
+- Corticosteroids: Can trigger depression with long-term use
+
+MEDICATIONS THAT MAY CAUSE DEPRESSION (Discuss alternatives):
+- Beta-blockers: Especially propranolol
+- Isotretinoin (for acne): High suicide risk
+- Interferon-alpha
+- Some anticonvulsants: Phenobarbital
+- Hormonal contraceptives: In susceptible women
+
+THERAPY (ESSENTIAL COMPONENT):
+- Cognitive Behavioral Therapy (CBT): Most evidence-based
+- Interpersonal Therapy (IPT): Effective for depression
+- Psychodynamic therapy: Addresses underlying conflicts
+- Combination therapy (medication + therapy): Most effective for moderate-severe
+
+FOODS AND LIFESTYLE:
+
+FOODS THAT SUPPORT MOOD:
+- Omega-3 rich: Fish (salmon), walnuts, flaxseed (reduces depression risk)
+- Complex carbohydrates: Brown rice, oats, whole wheat (increases serotonin)
+- Protein with tryptophan: Chicken, turkey, eggs, cheese, nuts (serotonin precursor)
+- Folate-rich: Green leafy vegetables, asparagus, beans (low folate linked to depression)
+- Vitamin D sources: Fish, egg yolks, mushrooms (deficiency linked to depression)
+- Fermented foods: Yogurt, kimchi (gut-brain axis, probiotics)
+- Dark chocolate: Phenylethylamine, magnesium (mood boosters)
+- Leafy greens / Palak, methi: Folate, vitamins
+- Berries: Antioxidants
+- Legumes / Dal: Folate, protein
+- Turmeric / Haldi: Curcumin shows antidepressant properties in studies
+
+FOODS/SUBSTANCES TO AVOID:
+- Alcohol: Worsens depression, impairs sleep
+- Excess caffeine: Can increase anxiety if present
+- Processed foods: Nutrient-poor, may worsen mood
+- Sugar excess: Causes energy crashes, mood dips
+- Fried foods: Pro-inflammatory
+
+SUPPLEMENTS THAT MAY HELP:
+- Vitamin D: 1000-4000 IU daily (check levels; deficiency common in depression)
+- Omega-3: 1000-2000 mg daily EPA (evidence for depression)
+- B-complex vitamins: Support neurotransmitter synthesis
+- Magnesium: 300-400 mg daily (mood support)
+- Probiotics: Gut-brain axis influence
+- SAM-e: 400-1600 mg daily (some evidence)
+- 5-HTP: 50-100 mg daily (precursor to serotonin)
+- NOTE: Some supplements interact with antidepressants (especially St. John's Wort), discuss with doctor
+
+LIFESTYLE MODIFICATIONS (CRITICAL):
+- Aerobic exercise: 30 min, 5 days/week (as effective as some antidepressants for mild depression)
+- Strength training: 2-3 times weekly
+- Sleep: 7-9 hours, consistent schedule (insomnia worsens depression)
+- Sunlight exposure: At least 30 minutes daily (vitamin D, mood improvement)
+- Social contact: Maintain relationships (isolation worsens depression)
+- Purpose and meaning: Engage in meaningful activities
+- Stress management: Yoga, meditation
+- Limit social media: Reduces mood disturbance
+- Limit news consumption: Particularly negative news reduces mood
+- Structure: Maintain daily routine (depression disrupts structure)
+- Self-compassion: Reduce self-criticism and perfectionism
+
+SUICIDE RISK ASSESSMENT:
+High-risk indicators:
+- Suicidal thoughts with plan and means
+- Recent loss or major life stressor
+- Social isolation
+- Substance abuse
+- Previous suicide attempts
+- Access to means (firearms, medications)
+
+IMMEDIATE ACTION IF SUICIDAL:
+- CALL EMERGENCY SERVICES (112 in India) or go to emergency room
+- Tell someone: Family, friend, healthcare provider
+- DO NOT leave person alone if actively suicidal
+- Ask directly: "Are you thinking of harming yourself?" (asking doesn't increase risk)
+- Remove means: Secure medications, firearms
+- Crisis line: Aasra (9820466726), iCall (9152987821), helpline (Vandrevala Foundation)
+
+WHEN TO SEEK URGENT ATTENTION:
+- Suicidal thoughts or self-harm urges
+- Severe depression worsening despite medication
+- Psychotic symptoms (hearing voices, paranoia)
+- Not eating or drinking for extended period
+- Complete inability to carry out daily tasks
+
+WHEN TO SEEK DOCTOR APPOINTMENT:
+- Starting antidepressant: 4-6 week follow-up to assess effect
+- Side effects from medication: May need adjustment or alternative
+- After 6-8 weeks If no improvement: May need different medication or higher dose
+- Regularly on medication: Monitor every 3-6 months
+
+TIMELINE OF TREATMENT:
+- First 1-2 weeks: Sleep may improve, energy may increase slightly
+- Weeks 2-4: Anxiety may improve (if present)
+- Weeks 4-8: Mood and motivation gradual improvement
+- Weeks 8-12: Full effect usually seen
+- DON'T STOP: If not working by week 4, discuss adjustments (don't jump between medications too rapidly)
+
+DISCONTINUATION:
+- Do NOT stop abruptly: Causes withdrawal symptoms (flu-like, dizziness, brain zaps)
+- Taper gradually: Reduce over 4-6 weeks
+- Plan with doctor: When to stop (ideally when mood stable for 6-12 months)
+- Risk of relapse: 40-50% relapse if stop after first episode; higher if previous episodes
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Some antidepressants safer than others; untreated depression also risky; discuss with OB
+- Breastfeeding: Most SSRIs safe; sertraline and paroxetine have least infant exposure
+- Elderly: More sensitive to side effects; lower doses; higher falls risk
+- Children/adolescents: Increased suicidal ideation risk in early weeks of SSRI; close monitoring
+- Chronic medical conditions: Depression impacts diabetes, heart disease (treat both)
+- Substance abuse: Higher depression rates; address both for success

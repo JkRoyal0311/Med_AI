@@ -1,0 +1,120 @@
+DISEASE: Common Cold (Upper Respiratory Tract Infection)
+CATEGORY: Infectious / Respiratory
+ICD-10: J00, J06
+SEVERITY: Acute — self-limiting, resolves in 7-10 days
+
+DESCRIPTION:
+Common cold is a viral infection of the upper respiratory tract caused by rhinoviruses (most common),
+coronaviruses, or other respiratory viruses. Highly contagious, spreads through respiratory droplets.
+No specific cure — treatment is supportive. Most people recover within a week without complications.
+
+SYMPTOMS:
+- Runny or stuffy nose (most common first symptom)
+- Sneezing
+- Sore throat (mild to moderate)
+- Cough (usually dry initially, becomes productive)
+- Mild fever (around 100-101°F / 37.8-38.3°C)
+- Fatigue and body aches
+- Watery eyes
+- Headache
+- Loss of appetite
+- Nasal congestion worse at night
+
+SYMPTOMS TIMELINE:
+Days 1-3: Sore throat, sneezing, congestion
+Days 3-7: Peak congestion and cough
+Days 7-10: Gradual improvement
+
+MEDICATIONS FOR SYMPTOM RELIEF:
+1. PARACETAMOL (Aspirin alternative)
+   - For fever and body aches
+   - Dosage: 500 mg every 6 hours (max 2g/day)
+   - Brand names: Crocin, Dolo, Tylenol
+   - AVOID: In liver disease
+
+2. PSEUDOEPHEDRINE (Decongestant)
+   - For nasal congestion
+   - Dosage: 30-60 mg every 4-6 hours
+   - Brand names: Sudafed, in various cold formulas
+   - AVOID: With hypertension, heart disease
+
+3. DEXTROMETHORPHAN (DXM)
+   - For cough suppression
+   - Found in: Robitussin, many combination cold medicines
+   - AVOID: Do not suppress cough for first 3 days (helps clear mucus)
+
+4. ANTIHISTAMINES (for runny nose, sneezing)
+   - Cetirizine (Cetaphil, Allercet): Non-drowsy
+   - Diphenhydramine: Older, causes drowsiness
+   - Used 7-10 days max
+
+5. GUAIFENESIN / MUCINEX
+   - For productive cough (with phlegm)
+   - Helps thin mucus so it's easier to cough out
+   - Dosage: 200-400 mg every 4 hours
+
+IMPORTANT: Most "combination cold medicines" contain multiple ingredients
+— check labels and do NOT double-dose by taking multiple products
+
+MEDICATIONS TO AVOID WITH COMMON COLD:
+- Antibiotics: Do NOT use — cold is viral, not bacterial. Antibiotics won't help.
+- Aspirin in children: Increases Reye's syndrome risk
+- NSAIDs (Ibuprofen, Diclofenac): May worsen symptoms; use Paracetamol instead
+- Alcohol: Dehydrates and worsens congestion
+
+HOME REMEDIES THAT HELP:
+- Ginger / Adrak: Boil with honey (2 cups water, 1-inch ginger, 1 tbsp honey)
+- Turmeric milk / Haldi doodh: 1/4 tsp turmeric, 1 cup warm milk, 1 tsp honey
+- Chicken soup: Warm fluids help congestion
+- Garlic: 2-3 raw cloves or in hot water with jaggery
+- Honey (1 tbsp): Soothing for cough and throat
+- Steam inhalation: Boil water, inhale steam for 10 minutes
+- Warm salt water gargle: 1/2 tsp salt in 8 oz warm water, gargle 3-4 times daily
+
+FOODS TO EAT:
+- Citrus fruits (Orange, Mosambi): Vitamin C supports immune system
+- Turmeric / Haldi: Anti-inflammatory, antimicrobial
+- Ginger / Adrak: Anti-inflammatory, warming
+- Garlic / Lahsun: Antimicrobial
+- Honey / Shahad: Soothing for throat
+- Warm broths: Clear or chicken, helps hydration
+- Eggs: Protein to help immune response
+- Yogurt / Dahi: Probiotics support immunity
+- Almonds: Vitamin E for immunity
+- Vegetable soup (light): Warm, hydrating, nutrients
+
+FOODS TO AVOID:
+- Dairy (if mucus production is high): May thicken secretions
+- Fried and oily foods: Harder to digest when sick
+- Spicy food: May irritate throat initially (mild spice OK after days 5-7)
+- Sugar and sweets: Suppress immune function
+- Alcohol: Dehydrating
+- Caffeine in excess: Dehydrating (1-2 cups tea is OK)
+- Very cold foods: May increase congestion
+- Hard candies: Risk of choking when coughing
+
+WHEN TO SEE A DOCTOR:
+- Fever above 103°F / 39.4°C
+- Symptoms lasting more than 10 days
+- Severe sore throat (difficulty swallowing, white spots)
+- Green or yellow sputum with chest pain (possible pneumonia)
+- Shortness of breath or chest tightness
+- Severe ear pain
+- In children: Wheezing, difficulty breathing, lethargy
+
+RED FLAGS FOR PNEUMONIA:
+- High fever that does NOT come down with Paracetamol
+- Shortness of breath, even at rest
+- Chest pain when breathing or coughing
+- Persistent productive cough with colored sputum
+- Confusion or difficulty concentrating
+- Emergency: Fast breathing, bluish lips/fingernails
+
+PREVENTION:
+- Wash hands frequently, especially before eating
+- Avoid touching face with unwashed hands
+- Maintain 3-6 feet distance from coughing/sneezing people
+- Use tissues when sneezing/coughing, dispose immediately
+- Stay home while contagious (first 3-4 days)
+- Keep hands away from eyes, nose, mouth
+- Avoid sharing cups, utensils, towels

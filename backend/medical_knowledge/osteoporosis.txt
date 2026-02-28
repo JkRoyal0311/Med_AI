@@ -1,0 +1,273 @@
+DISEASE: Osteoporosis (Bone Loss)
+CATEGORY: Metabolic / Rheumatological
+ICD-10: M81
+SEVERITY: Mild-Moderate; serious if fractures occur; can be progressive
+
+DESCRIPTION:
+Osteoporosis is decreased bone mineral density (BMD) and deterioration of bone microarchitecture
+increasing fracture risk. Affects 1 in 3 women and 1 in 5 men over age 50. Often asymptomatic
+until fracture occurs. Preventable and treatable with medication and lifestyle changes.
+
+PATHOPHYSIOLOGY:
+
+BONE REMODELING:
+- Continuous process: Old bone removed, new bone formed
+- Balanced in young adults
+- Imbalance in osteoporosis: Bone loss > bone formation
+- Results in porous, weaker bone
+
+CAUSES:
+
+PRIMARY OSTEOPOROSIS:
+- Postmenopausal: Estrogen loss accelerates bone loss (10% loss in first 5 years)
+- Age-related: Decreased bone forming capacity with aging
+- Genetic: Family history, ethnicity (Caucasian, Asian higher risk)
+
+SECONDARY OSTEOPOROSIS (From underlying conditions):
+- Endocrine:
+  * Hyperthyroidism: Excess thyroid hormone increases bone turnover
+  * Hypogonadism: Low testosterone (men), low estrogen (women)
+  * Hyperparathyroidism: PTH increases bone resorption
+  * Diabetes: Type 1 (loss of insulin-like growth factor), Type 2 (paradoxical despite high BMD)
+  * Cushing's syndrome: Excess cortisol inhibits bone formation
+- GI:
+  * Celiac disease: Malabsorption of calcium/vitamin D
+  * Crohn's disease: Inflammation, malabsorption
+  * Post-gastrectomy: Reduced intrinsic factor
+  * Inflammatory bowel disease: Multiple mechanisms
+- Rheumatological:
+  * Rheumatoid arthritis: Inflammatory cytokines, disease-modifying drugs
+  * Systemic lupus erythematosus (SLE)
+  * Ankylosing spondylitis
+- Medications:
+  * Corticosteroids: Most common medication cause
+  * Some anticonvulsants: Phenytoin
+  * Thyroxine (excess): If over-replacing
+  * GnRH agonists: Prostate cancer treatment
+  * Some antiretrovirals: HIV treatment
+
+RISK FACTORS:
+- Female: 1 in 3 fracture risk
+- "FRAX" score: Online tool for fracture risk assessment
+- Age >50 years
+- Family history
+- Low body weight: BMI <19
+- Smoking: Reduces bone formation, increases resorption
+- Alcohol: Excess (>2-3 drinks daily)
+- Physical inactivity: Weight-bearing exercise protective
+- Calcium/vitamin D deficiency: Critical for bone health
+- Recurrent falls: From balance, vision, medication issues
+
+SYMPTOMS:
+
+EARLY STAGES:
+- Asymptomatic: No symptoms, discovered on screening
+
+HEIGHT LOSS:
+- Kyphosis: "Dowager's hump" (forward curvature of spine)
+- Progressive height loss: From vertebral compression fractures
+- Can lose 3-6 inches over decades
+
+LATE STAGES (After fractures):
+- Acute pain: With fracture (sudden, severe)
+- Chronic pain: From vertebral compression deformities
+- Functional impairment
+
+DIAGNOSIS:
+
+BONE MINERAL DENSITY (BMD):
+- DXA scan (Dexa scan): Dual-energy X-ray absorptiometry
+  * Gold standard screening
+  * T-score: Compare to young adult
+    - +1 to -1: Normal
+    - -1 to -2.5: Osteopenia (low bone mass)
+    - < -2.5: Osteoporosis
+    - < -2.5 with fracture: Severe osteoporosis
+
+FRACTURE RISK ASSESSMENT:
+- FRAX: WHO tool calculates 10-year fracture probability
+- Consider: Age, sex, BMI, smoking, alcohol, corticosteroid use, RA, parent fracture history
+
+OTHER TESTS:
+- Serum calcium, vitamin D, alkaline phosphatase
+- 24-hour urine calcium (assess absorption)
+- Thyroid function: Rule out hyper/hypothyroidism
+- Celiac serology: If GI symptoms
+
+MEDICATIONS USED:
+
+FIRST-LINE: BISPHOSPHONATES
+
+1. ALENDRONATE (Fosamax)
+   - Dosage: 70 mg weekly OR 10 mg daily
+   - Oral: MUST take on empty stomach with full glass of water
+   - Stay upright 30 minutes after taking (prevent esophageal irritation)
+   - Reduces hip/vertebral fracture risk by ~50%
+   - SIDE EFFECTS: GI upset, jaw necrosis (osteonecrosis of jaw — rare), atypical fractures (very rare)
+   - Well-tolerated, widely used
+
+2. RISEDRONATE (Actonel)
+   - Dosage: 35 mg weekly OR 5 mg daily
+   - Similar to alendronate
+   - May be better tolerated GI-wise
+   - Same efficacy
+
+3. IBANDRONATE (Boniva)
+   - Dosage: 150 mg monthly oral OR 3 mg IV quarterly
+   - Convenience of monthly dosing
+   - Similar efficacy
+
+4. ZOLEDRONIC ACID (Reclast)
+   - Dosage: 5 mg IV infusion once yearly
+   - Most convenient (once yearly)
+   - Similar efficacy
+   - SIDE EFFECTS: Acute phase reaction with first infusion (flu-like symptoms), osteonecrosis of jaw
+
+SECOND-LINE: OTHER AGENTS
+
+5. DENOSUMAB (Prolia)
+   - Dosage: 60 mg SC injection every 6 months
+   - Monoclonal antibody against RANKL
+   - Mechanism different from bisphosphonates
+   - Slightly superior hip fracture reduction
+   - SIDE EFFECTS: Hypocalcemia (rare), osteonecrosis of jaw
+   - Good alternative if bisphosphonate intolerant
+
+6. HORMONE REPLACEMENT THERAPY (HRT)
+   - Estrogen + progesterone (in women with uterus)
+   - Estrogen alone (in hysterectomy women)
+   - Preserves bone, BUT cardiovascular/cancer risks limit use
+   - Mostly used for short-term menopausal symptom relief
+   - NOT first-line for osteoporosis (due to risk-benefit)
+
+7. SELECTIVE ESTROGEN RECEPTOR MODULATOR (SERM):
+   - Raloxifene: 60 mg daily
+   - Estrogen-like on bone, antagonist on breast/uterus
+   - Reduces spine fracture risk but not hip fracture
+   - May reduce breast cancer risk (benefits offset with other risks)
+
+PTH ANALOGS (Anabolic agents — Build bone):
+
+8. TERIPARATIDE (Forteo)
+   - Dosage: 20 mcg SC daily
+   - Stimulates bone FORMATION (not resorption inhibition)
+   - Increases BMD faster than bisphosphonates
+   - SIDE EFFECTS: Nausea, leg cramps, injection site reaction
+   - Maximum 2 years use (then switch to bisphosphonate)
+   - Expensive
+   - For severe osteoporosis or bisphosphonate failure
+
+CALCIUM and VITAMIN D (Fundamental):
+
+9. CALCIUM SUPPLEMENTATION
+   - Dosage: 1000-1200 mg/day (total, from diet + supplement)
+   - Divided doses (absorption better)
+   - TUMS (calcium carbonate) or separate supplement
+   - Sources: Dietary preferred when possible
+
+10. VITAMIN D (Cholecalciferol)
+    - Dosage: 1000-2000 IU daily (or 1-2 mcg/day)
+    - Critical for calcium absorption
+    - Many deficient (especially elderly, dark-skinned in Northern climates)
+    - Once-weekly: 7000 IU
+    - Toxicity rare (requires >10,000 IU daily for prolonged period)
+
+MEDICATIONS TO AVOID:
+- Excessive corticosteroids: If necessary, use lowest dose shortest duration
+- Anticonvulsants: If possible alternatives exist
+- Thyroxine excess: Avoid over-replacement
+- Lithium: Affects PTH regulation
+
+FOODS TO EAT (Calcium/vitamin D support):
+- Dairy: Milk, yogurt (dahi), cheese — if tolerated
+- Dark leafy greens / Palak, methi: Calcium, magnesium
+- Fortified plant-based milk: Calcium (check label)
+- Almonds: Calcium, magnesium
+- Sesame seeds: Calcium
+- Sardines: Calcium + vitamin D (if bones consumed)
+- Salmon: Vitamin D, omega-3
+- Fortified cereals: Check labels for calcium + vitamin D
+- Eggs: Vitamin D (yolks)
+- Mushrooms: Vitamin D (if sun-exposed)
+- Orange juice (fortified): Calcium, vitamin D
+- Beans / Dal: Plant sources of calcium + magnesium
+
+FOODS TO AVOID/LIMIT:
+- High sodium: Increases urinary calcium loss
+- High caffeine: Excess (>400 mg daily) inhibits calcium absorption
+- High phosphate: From processed foods, carbonated drinks
+- Alcohol: Excess (inhibits vitamin D metabolism)
+- High protein: Very high excess worsens calcium loss (normal amounts ok)
+
+LIFESTYLE MODIFICATIONS:
+
+WEIGHT-BEARING EXERCISE:
+- Walking: 30 minutes daily
+- Jogging/running: High-impact, effective
+- Dancing: Enjoyable weight-bearing
+- Stair climbing: Practical
+- Tai Chi: Gentle, balance improvement
+- Resistance training: 2-3 times weekly (weights, bands)
+- Frequency: Daily or 5x weekly optimal
+
+IMPACT EXERCISE:
+- Jumping: Teens/young adults (builds bone stronger)
+- Running: If no contraindication
+- Dancing: Fun, weight-bearing
+
+BALANCE/FALL PREVENTION:
+- Important if already osteoporotic (prevent fractures)
+- Tai Chi: Balance, strength, proprioception
+- Yoga: Balance, flexibility
+- Strength training: Muscle support for bones
+- HOME SAFETY: Remove rugs, adequate lighting, grab bars
+- Vision check: Correct refractive errors, cataracts
+- Medication review: Avoid fall-risk medications
+
+SMOKING CESSATION:
+- Critical: Smoking accelerates bone loss
+
+LIMIT ALCOHOL:
+- <2 drinks daily for men, <1 for women
+- Excess alcohol inhibits bone formation
+
+MONITORING:
+- Baseline DXA: Age 65 for women, 70 for men
+- Postmenopausal women <65: If risk factors
+- Recheck DXA: Every 2 years on treatment, then every 2-3 years if stable
+- Monitor fracture risk: FRAX score annually
+- Serum calcium/vitamin D: Baseline and if symptoms (fatigue from vitamin D deficiency)
+
+LIFESTYLE FACTORS FOR BONE HEALTH:
+- Adequate sleep: 7-9 hours (bone remodeling occurs in sleep)
+- Stress reduction: Cortisol elevation from stress increases bone loss
+- Regular sunlight: Vitamin D synthesis (15-30 minutes daily)
+
+WHEN TO SEEK DOCTOR:
+- Height loss: 1-2 inches loss from young adulthood
+- Screening age: 65+ women, 70+ men
+- Fracture risk: Calculate FRAX score
+- New medications: If any anti-bone drugs started
+- Fracture: Even minor (indicates osteoporosis severity)
+
+PREVENTION:
+- Adolescence/young adulthood: Build peak bone mass
+  * Adequate calcium/vitamin D
+  * Weight-bearing exercise
+  * Don't smoke, minimize alcohol
+- Perimenopause: Monitor, consider estrogen if loss rapid (though usually trial-based)
+- Postmenopause: Active prevention (as above)
+
+SPECIAL CONSIDERATIONS:
+- Postmenopausal women: Accelerated loss first 5-10 years
+- Men >70: Under-screened (risk increases with age)
+- Celiac disease: Treat celiac, improve absorption
+- Kidney disease: Vitamin D metabolism impaired
+- Diabetes (Type 1): Higher fracture risk despite normal/high BMD
+- Prior vertebral fracture: Significantly increases refracture risk
+- GERD: If on long-term PPI, may impair calcium absorption
+
+TREATMENT DURATION:
+- Bisphosphonates: Generally 5 years initial, then drug holiday discussion
+- After 5 years: Reassess need, risk of atypical fractures with extended use
+- Many patients: Remain on indefinitely if fracture risk remains high

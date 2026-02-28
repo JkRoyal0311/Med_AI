@@ -1,0 +1,253 @@
+DISEASE: Rheumatoid Arthritis (RA)
+CATEGORY: Rheumatological / Autoimmune
+ICD-10: M05
+SEVERITY: Mild-Severe; progressive if untreated
+
+DESCRIPTION:
+Rheumatoid arthritis is chronic autoimmune disease causing joint inflammation, pain, stiffness. Affects
+1% population, more common in women (3:1). Autoantibodies (RF, anti-CCP) attack synovial joint lining.
+Can progressively destroy joint cartilage/bone. Extra-articular manifestations common (eyes, heart,
+lungs, anemia). Early diagnosis and aggressive treatment prevent joint damage.
+
+PATHOPHYSIOLOGY:
+- Autoimmune attack: T and B cells target joint synovium
+- Inflammatory cascade: Cytokines (TNF, IL-6, IL-17)
+- Joint destruction: Pannus formation, cartilage loss
+- Systemic inflammation: Elevates cardiovascular risk
+
+RISK FACTORS:
+- Female: 3:1 female preponderance
+- Age: Typically 40-60 onset, can occur any age
+- Genetics: HLA-DR4 gene associated
+- Smoking: Significantly increases risk, worsens disease
+- Occupational: Some exposures trigger
+- Environmental: Infections implicated as triggers
+- Stress: May exacerbate
+- Obesity: Increases inflammation
+
+SYMPTOMS:
+
+JOINT INVOLVEMENT:
+- Pain: Bilateral, symmetric ("glove and stocking" pattern)
+  * Hands, wrists, feet most common (small joints)
+  * Knees, ankles, shoulders can be involved
+  * Gradual onset over weeks-months
+- Stiffness: Morning stiffness lasting >1 hour (versus OA <30 min)
+  * Severe stiffness early morning (hallmark)
+  * Improves with activity (unlike OA)
+- Swelling: Visible joint swelling
+- Warmth: Joint feels warm to touch
+- Limitation: Difficulty gripping, fine motor tasks
+- Deformity: Later (swan neck, boutonniere deformities)
+
+SYSTEMIC SYMPTOMS:
+- Fatigue: Often significant
+- Fever: Low-grade, intermittent
+- Weight loss: From inflammation
+- General malaise
+
+EXTRA-ARTICULAR MANIFESTATIONS (30% of patients):
+- Eyes: Scleritis, episcleritis (redness, pain)
+- Heart: Myocarditis, pericarditis
+- Lungs: Pulmonary nodules, interstitial lung disease
+- Anemia: From chronic inflammation
+- Felty syndrome: RA + hepatosplenomegaly + neutropenia (rare)
+- Heart disease: Increased cardiovascular mortality (50% risk)
+
+DIAGNOSIS:
+
+SEROLOGY:
+- Rheumatoid Factor (RF): Positive in 70-80% (not specific)
+- Anti-CCP (anti-cyclic citrullinated peptide): Positive in 95% RA
+  * More specific than RF
+  * Predicts joint damage
+  * Can be positive years before symptoms
+- ANA: May be positive
+- ESR (Erythrocyte sedimentation rate): Elevated in active disease
+- CRP (C-reactive protein): Elevated
+
+JOINT IMAGING:
+- X-rays: Early normal, later shows joint space narrowing, bone erosions
+- Ultrasound: Detects synovitis, smaller erosions than X-ray
+- MRI: Most sensitive, detects early joint damage
+
+CLINICAL CRITERIA:
+- ACR/EULAR criteria: Joint symptoms + serology + inflammation markers
+
+MEDICATIONS USED:
+
+DISEASE-MODIFYING ANTIRHEUMATIC DRUGS (DMARDs) — Must use:
+
+CONVENTIONAL SYNTHETIC (csDMARD):
+
+1. METHOTREXATE
+   - Dosage: 15-25 mg weekly (IV, SC, or oral)
+   - Gold standard first-line agent
+   - Takes 6-12 weeks for effect
+   - Most effective, best studied
+   - SIDE EFFECTS: Hepatotoxicity, bone marrow suppression, GI upset
+   - Requires: Monthly LFTs + CBC monitoring
+   - PREGNANCY: Teratogenic (women must use contraception)
+   - Brand names: Rheumatrex (generic available)
+
+2. SULFASALAZINE
+   - Dosage: 500 mg twice daily, increase to 1000 mg twice daily
+   - Often used with methotrexate for synergy
+   - Takes 6-12 weeks for effect
+   - SIDE EFFECTS: GI upset (more than others), skin reactions, Steven-Johnson syndrome (rare)
+   - Monitor CBC
+   - Often used as adjunct
+
+3. HYDROXYCHLOROQUINE
+   - Dosage: 200-400 mg daily
+   - Takes 6-12 weeks for effect
+   - Mild effect, often combined with other DMARDs
+   - SIDE EFFECTS: Retinopathy (rare, requires eye exams), GI upset
+   - Usually used in combination, less effective monotherapy
+   - Brand names: Plaquenil
+
+BIOLOGIC DMARDS (Second-line or earlier if aggressive disease):
+
+4. TNF-ALPHA INHIBITORS:
+   - ETANERCEPT (Enbrel): 25-50 mg SC weekly
+   - INFLIXIMAB (Remicade): 3 mg/kg IV infusion every 8 weeks
+   - ADALIMUMAB (Humira): 40 mg SC every other week
+   - Dosage varies by agent
+   - Very effective: 50-60% achieve low disease activity
+   - SIDE EFFECTS: Infection risk (TB reactivation — screen first), injection site reactions, immunosuppression
+   - Requires TB testing before starting
+   - Used with or without methotrexate
+
+5. IL-6 INHIBITORS:
+   - Tocilizumab: IV infusion 4-8 mg/kg monthly or SC 162 mg weekly
+   - JAK inhibitors: Baricitinib, tofacitinib (oral)
+   - Very effective, especially if TNF-inhibitor failure
+   - SIDE EFFECTS: Infection risk, lipid elevation, GI perforation
+
+FIRST-LINE AGENT SELECTION:
+- Early RA (diagnosis <6 months): DMARDs should start immediately
+- Monotherapy: Methotrexate standard
+- Dual therapy: Often methotrexate + biologics for better response
+- Goal: Low disease activity or remission (modern target)
+
+SYMPTOM RELIEF (Adjunctive):
+
+6. NSAIDs:
+   - Ibuprofen: 400-600 mg every 6 hours
+   - Naproxen: 500 mg twice daily
+   - Indomethacin: 25-50 mg daily
+   - Provides inflammation relief, pain control
+   - Used short-term (weeks-months) until DMARD effect
+   - CAUTION: GI complications, cardiovascular risk (with RA, doubled risk anyway)
+   - If long-term needed: Use lowest effective dose, PPI protection
+
+7. CORTICOSTEROIDS (Low-dose, short-term):
+   - Prednisone: 5-10 mg daily initially
+   - Taper as DMARD takes effect
+   - Avoid long-term (osteoporosis, infection risks)
+   - Bridge therapy while awaiting DMARD effect
+   - Intra-articular injections: Tri-amcinolone for single joint flare
+
+MEDICATIONS TO AVOID:
+- Stopping DMARD therapy: Increases flare risk
+- Long-term excessive corticosteroids: Secondary effects dominate
+- Excess NSAIDs: GI, cardiovascular complications
+
+FOODS TO EAT (Anti-inflammatory):
+- Fatty fish: Salmon, sardines, mackerel (omega-3, anti-inflammatory)
+- Vegetable oils: Olive oil, walnut oil (omega-3, polyphenols)
+- Vegetables: Leafy greens, broccoli, cauliflower, carrots
+- Fruits: Berries (antioxidants), citrus, apples
+- Whole grains: Brown rice, oats, whole wheat
+- Legumes / Dal: Fiber, plant protein
+- Nuts and seeds: Almonds, walnuts (omega-3)
+- Turmeric / Haldi: Curcumin (anti-inflammatory, take with black pepper for absorption)
+- Ginger / Adrak: Gingerols (anti-inflammatory)
+- Garlic / Lahsun: Allicin (anti-inflammatory)
+- Green tea: Polyphenols, EGCG (anti-inflammatory)
+- Tomato: Lycopene
+
+FOODS TO AVOID/LIMIT:
+- Red meat: High in arachidonic acid (inflammatory)
+- Processed foods: Trans fats, refined carbs
+- High-omega-6 foods: Vegetable oils (soy, corn, safflower)
+- Alcohol: Excess (interferes with methotrexate)
+- High-fat dairy: Butter, cream
+- Fried foods: Trans fats
+- Sugar: Inflammatory
+- Salt: May exacerbate
+
+LIFESTYLE MODIFICATIONS:
+
+EXERCISE:
+- Regular, moderate: Preserves joint function
+- Low-impact: Swimming, water aerobics, cycling (easier on joints than running)
+- Range-of-motion: Gentle stretching daily
+- Strength training: 2-3 times weekly (maintains muscle, supports joints)
+- Consistency: More important than intensity
+- Pain guide: Should not increase joint pain
+
+PHYSICAL/OCCUPATIONAL THERAPY:
+- Joint protection: Proper body mechanics
+- Assistive devices: Jar openers, ergonomic utensils
+- Adaptive strategies: Reducing fine motor demands
+- Heat/cold: Warm baths reduce morning stiffness, cold for acute inflammation
+
+STRESS REDUCTION:
+- Meditation, yoga, tai chi: Reduce stress, improve flexibility
+- Adequate sleep: 7-8 hours nightly (inflammation worsens with sleep deprivation)
+
+SMOKING CESSATION:
+- Critical: Smoking worsens disease, reduces DMARD efficacy
+- Increases extra-articular disease
+
+WEIGHT MANAGEMENT:
+- Obesity increases inflammation
+- Weight loss improves disease activity
+
+MONITORING:
+
+CLINICAL ASSESSMENT:
+- Every 4-12 weeks: Disease activity assessment (joint count, pain, function)
+- Goal: Low disease activity or remission (current target)
+- DAS28 score: Disease activity calculation (swollen/tender joints, CRP/ESR, global assessment)
+
+LABORATORY MONITORING:
+- Monthly initially: CBC, LFTs, creatinine (especially on methotrexate)
+- Every 3 months: Once stable
+- RF, anti-CCP: Yearly (not for monitoring activity, but for prognosis)
+
+IMAGING MONITORING:
+- Baseline: X-rays of hands, feet (assess damage)
+- Repeat: Annually if progressive, less often if stable
+- Ultrasound: More sensitive for early erosions
+
+CARDIOVASCULAR MONITORING:
+- Baseline lipids: Biologics can raise cholesterol
+- HTN assessment: RA increases cardiovascular risk
+- Consider: Aspirin, statin consideration in some patients
+
+WHEN TO SEEK DOCTOR:
+- Joint pain/swelling lasting >6 weeks
+- Morning stiffness >1 hour
+- Systemic symptoms: Fever, weight loss, fatigue
+- Extra-articular symptoms: Eye redness, shortness of breath, rash
+- During treatment: Disease not improving on DMARD after 3 months
+
+WHEN TO SEEK URGENT ATTENTION:
+- Acute eye redness and pain (scleritis)
+- Severe fever with joint swelling
+- Chest pain or severe shortness of breath
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Some DMARDs teratogenic (methotrexate), others safe (sulfasalazine, biologics)
+- Males: Rarer, similar disease but less studied
+- Young-onset: Often aggressive, early biologic therapy beneficial
+- Seronegative RA (RF-, anti-CCP-): Subset, similar treatment response
+- Secondary infections: Higher risk on biologics (TB, fungal infections screening critical)
+
+PROGNOSIS:
+- With modern DMARDs: 70-80% achieve low disease activity/remission
+- Without treatment: Progressive joint destruction (30% have severe disability at 5 years)
+- With early aggressive treatment: 50% achieve drug-free remission
+- Extra-articular disease: Requires treating specific manifestations

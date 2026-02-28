@@ -1,0 +1,252 @@
+DISEASE: Prostate Enlargement (Benign Prostatic Hyperplasia — BPH)
+CATEGORY: Urological 
+ICD-10: N40
+SEVERITY: Mild-Moderate; affects quality of life, not life-threatening
+
+DESCRIPTION:
+Benign prostatic hyperplasia is noncancerous enlarged prostate gland common in aging men. Prostate surrounds
+urethra; enlargement compresses urethra, causes urinary symptoms. Extremely common (>50% men age 60,
+>90% age 85). Distinct from prostate cancer (though can coexist). Treatable with medications or surgery.
+
+PATHOPHYSIOLOGY:
+- Age-related hyperplasia: Normal aging process
+- Testosterone/DHT: Dihydrotestosterone drives growth
+- Estrogen: Age-related changes increase estrogen effect
+- Smooth muscle proliferation: Increased stromal/epithelial tissue
+- Dynamic obstruction: Both mechanical (enlarged gland) + smooth muscle tone
+
+RISK FACTORS:
+- Age: Primary determinant (rare <40, common >60)
+- Family history: Some genetic predisposition
+- Higher androgens: Genetic sensitivity to testosterone
+- Obesity: Some studies suggest association
+- Metabolic syndrome: Insulin resistance possibly involved
+- Cardiovascular disease: Some association
+
+SYMPTOMS:
+
+LOWER URINARY TRACT SYMPTOMS (LUTS):
+
+OBSTRUCTIVE (from compression):
+- Weak urinary stream: Reduced force
+- Hesitancy: Difficulty initiating stream
+- Intermittency: Stream stops/starts
+- Straining: Need abdominal pressure to void
+- Incomplete emptying: Feeling bladder not fully emptied
+- Prolonged voiding: Takes longer than normal
+- Post-void dribbling: Leakage after voiding
+
+IRRITATIVE (from unstable bladder contractions):
+- Frequency: >8 voids per day
+- Nocturia: Waking to urinate at night (≥2x/night concerning)
+  * Major quality-of-life impact (sleep disruption)
+- Urgency: Strong urge to urinate
+- Urgency incontinence: Unable to delay (urge incontinence)
+
+SEVERE COMPLICATIONS (Rare):
+- Urinary retention: Inability to void (painful, requires catheterization)
+- Bladder stones: From stagnant urine
+- Upper urinary tract dilation: From back-pressure
+- Acute kidney injury: From chronic obstruction
+
+SYMPTOM SEVERITY SCORING:
+- AUA-SI (American Urological Association Symptom Index): 0-35 scale
+  * <8: Mild
+  * 8-19: Moderate
+  * >20: Severe
+
+DIAGNOSIS:
+
+CLINICAL ASSESSMENT:
+- History: Onset, symptom progression
+- Voiding diary: Frequency, nocturia patterns
+- AUA symptom score: Standardized assessment
+
+PHYSICAL EXAMINATION:
+- Digital rectal exam (DRE): Feel enlarged prostate
+  * Size: Small nubbins vs large gland
+  * Consistency: Should be bosselated, not nodular (cancer concern)
+  * Symmetry: May be asymmetric
+  * NOTE: Size doesn't correlate with symptoms
+
+TESTING:
+- Post-void residual (PVR): Ultrasound of bladder after voiding
+  * Normal <50 mL, concerning >100 mL
+- Uroflow study: Measures stream strength, void time
+  * Low peak flow (<10 mL/s) suggests obstruction
+- Urinalysis: Check for infection, hematuria
+- PSA (Prostate Specific Antigen): Screen for cancer
+  * Elevated in BPH and cancer
+  * >4 ng/mL needs evaluation
+  * Shared decision-making regarding screening (not universally recommended)
+- Cystoscopy: Only if hematuria, inability to distinguish cancer risk
+
+MEDICATIONS USED:
+
+ALPHA-BLOCKERS (First-line agent):
+
+1. TAMSULOSIN (Most selective for prostate):
+   - Dosage: 0.4 mg daily (taken 30 minutes after meal)
+   - Relaxes smooth muscle in prostate + bladder neck
+   - Onset: 1-2 weeks for full effect
+   - SIDE EFFECTS: Dizziness, orthostatic hypotension (especially first dose), retrograde ejaculation (~5%), headache
+   - Effective: 30-50% symptom improvement
+   - Brand names: Flomax
+
+2. DOXAZOSIN:
+   - Dosage: Start 1 mg, increase to 4-8 mg daily
+   - Also lowers blood pressure (benefit if hypertensive)
+   - SIDE EFFECTS: Dizziness, orthostatic hypotension
+   - Generic available
+
+3. TERAZOSIN:
+   - Dosage: 2-5 mg daily
+   - Also lowers BP (benefit if hypertensive)
+   - Similar efficacy to doxazosin
+   - Generic available
+
+5-ALPHA REDUCTASE INHIBITORS (For larger glands):
+
+4. FINASTERIDE:
+   - Dosage: 5 mg daily
+   - Reduces DHT (blocks conversion of testosterone)
+   - Slower onset: 3-6 months for full effect
+   - Reduces prostate size 20-30%
+   - Better for larger glands (>40 mL)
+   - SIDE EFFECTS: Decreased sexual function (~5%), decreased libido, erectile dysfunction
+   - PREGNANCY: Teratogenic if pregnant woman exposed (contraceptive use essential in female partners)
+   - Generic available
+
+   Brand name: Proscar (5 mg for BPH; Propecia 1 mg for hair loss)
+
+5. DUTASTERIDE:
+   - Dosage: 0.5 mg daily
+   - Blocks both DHT conversion pathways (more complete)
+   - Slightly more effective than finasteride
+   - Same side effect profile
+   - Generic available
+   - Brand names: Avodart
+
+COMBINATION THERAPY (For moderate-severe):
+- Alpha-blocker + 5-alpha reductase inhibitor: For larger glands (>40 mL)
+  * Tamsulosin + finasteride (or dutasteride)
+  * Better symptom control than either alone
+
+6. BETA-3 AGONIST (Newer option):
+   - Mirabegron: 25-50 mg daily
+   - Relaxes bladder smooth muscle (different mechanism)
+   - For urgency/frequency symptoms
+   - No erectile dysfunction
+   - SIDE EFFECTS: Hypertension (monitor BP)
+   - Effective for irritative symptoms
+
+7. PHOSPHODIESTERASE-5 INHIBITORS (If erectile dysfunction coexists):
+   - Tadalafil (Cialis): 5 mg daily
+   - FDA-approved for LUTS/BPH
+   - Improves erectile function + urinary symptoms
+   - SIDE EFFECTS: Back pain, myalgia, headache
+   - If both ED and BPH, good option
+
+MEDICATIONS TO AVOID:
+- Anticholinergics: Problematic (worsen retention)
+  * Antihistamines (diphenhydramine )
+  * Decongestants (pseudoephedrine)
+  * Antidepressants with anticholinergic effects
+- Over-the-counter cold medicines: Many contain alpha-stimulants (worsen symptoms)
+
+OVER-THE-COUNTER SUPPLEMENTS (Uncertain efficacy):
+- Saw palmetto: Limited evidence, modest benefit
+- Beta-sitosterol: Some evidence, modest benefit
+- Pygeeum africanum: Mixed evidence
+- Pumpkin seed: Anecdotal
+
+SURGICAL/PROCEDURAL OPTIONS (If medical failure):
+- TURP (Transurethral resection of prostate): Gold standard surgical option
+- Laser procedures: HOLEP, PVP (less morbidity than TURP)
+- Minimally invasive: UroLift, water vapor ablation (newer, office-based)
+
+FOOD/LIFESTYLE:
+
+FOODS TO EAT:
+- Lycopene sources: Tomato, watermelon (lycopene may help)
+- Fatty fish: Omega-3s
+- Vegetables: Leafy greens, peppers
+- Whole grains: Brown rice, oats
+- Legumes / Dal
+- Nuts: Moderation (high calorie)
+- Berries: Antioxidants
+- Turmeric / Haldi: Anti-inflammatory
+
+FOODS/SUBSTANCES TO AVOID/LIMIT:
+- Caffeine: Stimulates bladder, increases frequency/urgency
+- Alcohol: Diuretic, irritates bladder
+- Spicy foods: Irritate bladder
+- Large fluid intake in evening: Causes nocturia
+- High-fat foods: Some studies suggest association
+
+HYDRATION TIMING:
+- Adequate daytime: 2-3 liters
+- Restrict evening: Reduce after dinner to minimize nocturia
+- Bedtime routine: Void completely before sleep
+
+LIFESTYLE MODIFICATIONS:
+
+VOIDING BEHAVIOR:
+- Double-void technique: After finishing, wait 30 seconds, void again (help empty residual urine)
+- Scheduled voiding: Set times to prevent urgency
+- Avoid straining: Relax abdominal muscles, take time
+
+ACTIVITY:
+- Regular exercise: Physical activity improves symptoms
+- Walking: Helps bladder function
+
+STRESS REDUCTION:
+- Stress worsens urinary symptoms
+- Relaxation techniques
+
+NOCTURIA MANAGEMENT:
+- Elevate legs during day: Reduces fluid in legs at night
+- Compression stockings: If peripheral edema
+- Diuretic timing: If on HTN medications, take in morning
+- Sleep position: Supine reduces nocturia slightly
+
+BEHAVIORAL STRATEGIES:
+- Pelvic floor exercises: Limited evidence but safe
+  * Kegel exercises: Strengthen urethral sphincter
+  * Difficult to teach/perform correctly
+
+WHEN TO SEEK DOCTOR:
+- Symptoms developing: Urinary hesitancy, weak stream, frequency
+- Nocturia affecting sleep quality
+- Worsening despite treatment
+- Hematuria: Blood in urine (need cancer evaluation)
+- Symptoms of infection: Dysuria, frequency
+
+WHEN URGENT:
+- Complete retention: Unable to void (painful, requires catheterization)
+- Severe hematuria: Bright red bleeding (usually benign but rule out cancer)
+- Fever with urinary symptoms: Possible UTI/prostatitis
+
+MONITORING:
+- Symptom tracking: AUA-SI periodically
+- Medication efficacy: Assess at 4-6 weeks initial
+- PSA: Screening questionable, but if baseline high, follow trends
+- Post-void residual: If symptoms not improving (check if mechanical obstruction)
+
+TIMELINE TO IMPROVEMENT:
+- Alpha-blockers: 1-2 weeks
+- 5-alpha inhibitors: 3-6 months for max effect
+- Combination: 6-12 months to see benefit
+
+SPECIAL CONSIDERATIONS:
+- Diabetes: Can worsen symptoms (elevated glucose, dehydration)
+- Cardiovascular disease: Orthostatic hypotension risk (use alpha-blockers cautiously)
+- OSA (Sleep apnea): Nocturia may be related, treating OSA may improve
+- Insomnia: Nocturia major cause; treating BPH may improve sleep quality
+- Erectile dysfunction: Coexists in >50%; some treatments overlap (tadalafil beneficial)
+
+PROGNOSIS:
+- Without treatment: Gradual progression (30-40% over 5 years)
+- With medication: 30-50% symptom improvement (variable)
+- Medical failure: 15-20% progress to surgery within 4-5 years
+- Surgical success: 80-90% symptom improvement, durable effect

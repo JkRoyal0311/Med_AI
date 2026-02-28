@@ -1,0 +1,204 @@
+DISEASE: Pneumonia (Bacterial)
+CATEGORY: Infectious / Pulmonary
+ICD-10: J13-J18
+SEVERITY: Serious — can be life-threatening if untreated
+
+DESCRIPTION:
+Pneumonia is infection of the lung alveoli (air sacs) causing inflammation and fluid/pus accumulation.
+Prevents oxygen exchange. Can be caused by bacteria (most common), viruses, or fungi. Severity ranges from
+"walking pneumonia" (mild, outpatient) to severe requiring hospitalization. Most common cause of death
+from infectious disease in India.
+
+RISK FACTORS:
+- Age: >65 years or <5 years
+- Smoking: Damages lung defenses
+- Chronic lung disease: COPD, asthma
+- Chronic heart disease
+- Diabetes: Impaired immune response
+- Immunosuppression: HIV/AIDS, medications
+- Recent hospitalization
+- Aspiration: From swallowing difficulties, unconsciousness
+- Alcoholism
+- Malnutrition
+
+COMMON BACTERIA:
+- Streptococcus pneumoniae: Most common community-acquired
+- Haemophilus influenzae
+- Legionella: From contaminated water
+- Staphylococcus aureus: Hospital-acquired often
+
+SYMPTOMS:
+RESPIRATORY:
+- Cough: Initially dry, becomes productive with phlegm
+- Sputum: Often green, yellow, or rust-colored
+- Shortness of breath: Even at rest in severe cases
+- Rapid breathing: >20 breaths/minute
+- Chest pain: When breathing or coughing
+- Wheezing or crackles on examination
+
+SYSTEMIC:
+- Fever: Usually >101°F / 38.3°C
+- Chills and sweating
+- Severe fatigue and weakness
+- Malaise: General feeling of illness
+- Loss of appetite
+- Myalgia: Muscle aches
+- Headache
+
+PROGRESSION:
+- May start as upper respiratory infection
+- Progresses to lower respiratory symptoms
+- Untreated: Can progress to sepsis, respiratory failure
+
+SEVERITY:
+
+MILD (Outpatient treatment possible):
+- Alert, cooperative
+- Respiratory rate <30/min
+- Oxygen sat >90% on room air
+- Systolic BP >90 mmHg
+
+SEVERE (Hospitalization):
+- Respiratory rate >30/min
+- Altered mental status
+- Shock or sepsis signs
+- Respiratory failure
+
+DIAGNOSIS:
+- Chest X-ray: Shows infiltrates (consolidation)
+- Sputum culture: Identifies organism, guides antibiotics
+- Blood culture: If febrile (prognostic)
+- Complete blood count: WBC elevation
+- Lactate: Elevated in severe pneumonia (prognostic)
+- COVID-19/Influenza testing: If acute cough/fever (differentiate from viral)
+
+MEDICATIONS USED:
+
+FIRST-LINE ANTIBIOTICS (Community-acquired pneumonia):
+1. AMOXICILLIN-CLAVULANATE
+   - Dosage: 500/125 mg three times daily for 7 days (oral)
+   - For outpatient mild-moderate pneumonia
+   - Brand names: Augmentin
+   - Covers pneumococcus and H. influenzae
+
+2. FLUOROQUINOLONES (Respiratory)
+   - Levofloxacin: 750 mg once daily for 5 days (IV or oral)
+   - Moxifloxacin: 400 mg once daily for 5 days
+   - Excellent lung penetration
+   - For community-acquired if beta-lactam allergy or resistant organism suspected
+   - Brand names: Levaquin, Avelox
+
+3. AZITHROMYCIN (macrolide)
+   - Dosage: 500 mg day 1, then 250 mg daily for 4 days
+   - Often combined with amoxicillin
+   - For atypical organisms (Mycoplasma, Chlamydia)
+
+SEVERE PNEUMONIA (Hospitalization):
+4. CEFTRIAXONE (3rd generation cephalosporin)
+   - Dosage: 1-2 grams IV every 12 hours
+   - Broad spectrum, excellent lung penetration
+   - Added macrolide (azithromycin) for atypical coverage
+   - Brand names: Rocephin
+
+5. PIPERACILLIN-TAZOBACTAM
+   - Dosage: 4.5-gram dose IV every 6-8 hours
+   - For severe or hospital-acquired pneumonia
+   - Broader spectrum, covers pseudomonas
+
+SEPTIC SHOCK:
+6. Combination broad-spectrum: Often vancomycin + cephalosporin + fluoroquinolone
+
+SUPPORTIVE CARE:
+7. OXYGEN therapy: To maintain oxygen saturation >90%
+8. Mechanical ventilation: If respiratory failure
+9. Fluids: IV hydration
+10. Fever management: Paracetamol (aspirin avoided — risk of fluid worsening)
+
+MEDICATIONS TO AVOID:
+- Antihistamines: Can dry secretions (worsen pneumonia)
+- Cough suppressants: Suppress cough needed to clear secretions (avoid)
+
+FOODS TO EAT (Support immune function):
+- Protein: Fish, chicken, eggs, legumes / Dal (rebuild strength)
+- Citrus fruits: Orange, lemon, Mosambi (vitamin C, immune support)
+- Ginger / Adrak tea: Anti-inflammatory
+- Garlic / Lahsun: Antimicrobial
+- Turmeric / Haldi milk: Anti-inflammatory
+- Honey / Shahad: Soothing for cough
+- Leafy greens / Palak, methi: Nutrients
+- Whole grains: Brown rice (energy)
+- Nuts and seeds: Magnesium, vitamins
+- Warm broths: Chicken or vegetable broth (hydrating, comforting)
+- Bean soup: High protein, easy to digest
+
+FOODS TO AVOID:
+- Very cold foods: Can increase congestion
+- Excess dairy: May increase mucus (controversial)
+- Fried foods: Difficult to digest when ill
+- Spicy foods: Initially irritating
+- Alcohol: Impairs immunity, increases dehydration
+
+HYDRATION:
+- Drink plenty of fluids: 2-3 liters daily
+- Warm fluids preferred: Help loosen secretions
+- Avoid caffeine excess: Dehydrating
+
+LIFESTYLE MODIFICATIONS:
+- Rest: Critical for recovery; sleep as much as possible
+- Fresh air: But avoid cold drafts
+- Humidified environment: Moisture helps breathing
+- Avoid smoking: Impairs recovery
+- Avoid exposure to others: Prevent spread (contagious first 24-48 hours after antibiotics)
+- Elevation: Sleep with head elevated 30-45 degrees (aids breathing)
+- Monitor: Check temperature, breathing rate
+
+PROPHYLAXIS (Prevention):
+- Pneumococcal vaccine: PCV13, then PPSV23 (high-risk patients)
+- Influenza vaccine: Annual (prevents secondary bacterial pneumonia)
+- Smoking cessation: Reduces risk significantly
+- Avoid aspiration: Proper swallowing, avoid lying down while eating
+
+WHEN TO SEEK URGENT ATTENTION:
+- Severe shortness of breath: Difficulty speaking in sentences
+- Cyanosis: Blue lips or fingertips
+- Confusion or altered mental status
+- Chest pain
+- High fever not improving with antibiotics after 48-72 hours
+- Bloody sputum: May indicate lung tissue damage
+
+WHEN TO SEE DOCTOR:
+- Cough >2 weeks (not improving)
+- Signs of pneumonia: Fever, cough with productive sputum
+- At-risk patients: Elderly, chronic disease, immunocompromised
+- Not improving on antibiotics: May need different agent or imaging
+- Complications suspected: Empyema (pus in space around lungs), abscess
+
+COMPLICATIONS:
+- Sepsis: Bacteria in bloodstream (life-threatening)
+- Respiratory failure: Requiring mechanical ventilation
+- Acute respiratory distress syndrome (ARDS): Severe respiratory failure
+- Empyema: Pus collection around lungs (may need drainage)
+- Lung abscess: Cavity with pus inside lung
+- Aspiration pneumonia: From inhalation of vomit/food
+- Secondary pneumonia: Fungal (in immunocompromised)
+
+TREATMENT OUTCOMES:
+- Mild pneumonia: Often improves in 1-2 weeks with antibiotics
+- Severe pneumonia: May require 2-4 weeks hospitalization, ICU
+- Mortality: 5-15% in hospitalized patients, varies by age/severity/organism
+
+MONITORING DURING TREATMENT:
+- Clinical improvement: Fever resolves, energy increases (24-48 hours typical)
+- If not improving: Redo chest X-ray, reassess antibiotics
+- Repeat CXR at end of treatment: Some patients need repeat imaging
+- Follow-up: Ensure complete resolution (prevent relapse)
+
+SPECIAL CONSIDERATIONS:
+- Elderly: Often presents with atypical symptoms (confusion, no fever)
+- Diabetes + pneumonia: Complications higher, hospitalization often needed
+- COPD + pneumonia: More serious, may need stronger antibiotics
+- Pregnancy: Treatment tailored to safe medications
+- Children: Different treatment, vaccinations important
+- Aspiration pneumonia: Often mixed organisms, may include anaerobes
+- Healthcare-associated pneumonia: Different organisms (antibiotic coverage adjusted)
+- Immunocompromised: May need additional antimicrobials (fungi, viruses)

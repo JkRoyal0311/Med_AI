@@ -1,0 +1,157 @@
+DISEASE: Asthma (Bronchial Asthma)
+CATEGORY: Respiratory / Chronic
+ICD-10: J45
+SEVERITY: Chronic — can be life-threatening if not controlled
+
+DESCRIPTION:
+Asthma is chronic inflammation of the airways causing recurrent breathing problems.
+Airways become swollen and narrowed, producing extra mucus. Can be triggered by allergens,
+exercise, infections, cold air, pollution. Symptoms range from mild (occasional wheezing) to severe (acute attacks).
+
+RISK FACTORS:
+- Family history of asthma or allergies
+- Childhood allergic diseases (eczema, allergic rhinitis)
+- Environmental exposure: pollution, smoke, pet dander
+- Obesity
+- Hormonal changes in women (worsens around menstruation)
+
+SYMPTOMS (ACUTE ATTACK):
+- Shortness of breath (dyspnea) — even at rest
+- Wheezing: high-pitched whistling sound when breathing
+- Chest tightness or chest pain
+- Coughing — worse at night, during play, or after exercise
+- Fatigue
+- Difficulty speaking (severe — must finish sentences in gasps)
+- Blue lips or fingernails (cyanosis) — EMERGENCY
+
+SYMPTOMS (BETWEEN ATTACKS):
+- Frequent cough
+- Cough triggered by cold, exercise, allergen exposure
+- Fatigue during physical activity
+- Sleep disturbance from coughing or wheezing
+
+MILD PERSISTENT ASTHMA vs SEVERE:
+- Mild: Symptoms 2-4 days/week, nighttime waking 2-4 times/month
+- Moderate: Symptoms daily, nighttime waking 1-2 times/week
+- Severe: Symptoms throughout day, nighttime waking 7+ times/week, frequent attacks
+
+MEDICATIONS USED:
+
+QUICK-RELIEF (RESCUE) INHALERS — For acute attacks:
+1. SALBUTAMOL / ALBUTEROL (Beta-2 Agonist)
+   - Fast-acting, works in 5-15 minutes
+   - Use during acute attack: 2 puffs, wait 5 minutes, repeat if needed
+   - Brand names: Ventolin, Asthalin, Cipla
+   - Use 1-2 times per week: If more, indicates poor control — see doctor
+   - SAFE in pregnancy
+
+LONG-TERM CONTROLLER INHALERS — Daily use to prevent attacks:
+1. FLUTICASONE / BECLOMETHASONE (Inhaled Corticosteroid)
+   - Reduces airway inflammation
+   - Used daily — MUST use even when feeling well
+   - Take with mouth wash after use (prevents oral thrush)
+   - Brand names: Flovent, Beclazone
+   - SAFE in pregnancy
+
+2. SALMETEROL (Long-acting Beta-2 Agonist)
+   - Used twice daily
+   - NEVER use alone — always combine with inhaled corticosteroid
+   - Prevents nighttime symptoms and exercise-induced asthma
+
+3. COMBINATION INHALERS
+   - Fluticasone + Salmeterol (Seretide)
+   - Beclomethasone + Formoterol
+   - Convenient single inhaler for daily control
+
+4. MONTELUKAST (Leukotriene Antagonist - tablet)
+   - Tablet form, once daily in evening
+   - Especially helpful for exercise-induced asthma
+   - Brand name: Singulair, Montair
+
+ACUTE ATTACK TREATMENT:
+- Sit upright, loosen tight clothing
+- Use rescue inhaler immediately (2 puffs)
+- If no improvement in 15 minutes: Repeat 2 more puffs
+- If still no improvement: SEEK EMERGENCY CARE IMMEDIATELY
+
+MEDICATIONS TO AVOID WITH ASTHMA:
+- Beta-blockers (affects asthma, avoid if possible): Atenolol, Metoprolol
+- NSAIDs: Ibuprofen, Diclofenac (can trigger attacks in some patients)
+- ACE inhibitors: May cause persistent cough (triggers asthma)
+- Aspirin: Contraindicated in aspirin-sensitive asthma
+- Antigen blockers: Some have asthma/wheezing as side effect
+
+ASTHMA TRIGGERS TO AVOID:
+- Allergens: Dust mites, pet dander, pollen, mold
+- Smoke: Tobacco, incense, air pollution, fireplace smoke
+- Air pollution: Smog, vehicle exhaust, factory pollution
+- Cold air: Wear scarf over mouth in winter
+- Strong odors: Perfumes, paint, cleaning chemicals, incense
+- Exercise: Use rescue inhaler 15 minutes before exercise
+- Stress and emotional upset
+- Infections: Colds, flu
+- Gastroesophageal reflux (acid reflux)
+- Menstrual cycle: Symptoms worse around period in some women
+
+FOODS TO EAT:
+- Omega-3 rich foods (Fish, Flaxseed): Anti-inflammatory
+- Ginger / Adrak: Anti-inflammatory, reduces airway constriction
+- Garlic / Lahsun: Has antimicrobial and anti-inflammatory properties
+- Turmeric / Haldi: Curcumin reduces inflammation
+- Onions / Pyaaz: Quercetin reduces airway inflammation
+- Citrus fruits (Orange, Mosambi): Vitamin C helps immunity
+- Honey / Shahad: Soothing for throat, antimicrobial
+- Nuts and seeds: Vitamin E, antioxidants
+- Green leafy vegetables / Palak, methi: Antioxidants, magnesium
+- Whole grains: B vitamins, magnesium
+- Dairy (if not allergic): Calcium, Vitamin D
+
+FOODS TO STRICTLY AVOID:
+- Dairy excess (if milk-sensitive): Some asthmatics worsen with excess dairy
+- Eggs (if allergic): Common allergen in some asthmatic patients
+- Peanuts and tree nuts (if allergic): Can trigger severe asthma
+- Seafood (if allergic): Can trigger attack
+- Food additives: MSG, food dyes, sulfites (in dried fruits, wine)
+- Excess salt: May increase airway reactivity
+- Processed foods: Often contain triggers and lack nutrients
+
+EXERCISE WITH ASTHMA:
+- Do NOT avoid exercise — stay active!
+- Use rescue inhaler 15 minutes BEFORE exercise
+- Warm up gradually for 10 minutes
+- Cool down slowly for 5-10 minutes
+- Avoid exercise in cold, dry air without scarf
+- Swimming is excellent (warm, humid environment)
+- Avoid dry air sports (cross-country skiing, ice hockey in very cold conditions)
+
+ASTHMA ACTION PLAN:
+ZONE GREEN (WELL): No symptoms, peak flow 80-100%
+- Take daily controller inhaler
+- Avoid triggers
+
+ZONE YELLOW (CAUTION): Mild symptoms, peak flow 50-80%
+- Use rescue inhaler (2 puffs)
+- Increase controller medication
+- Monitor closely
+- Call doctor if not improving in 1-2 hours
+
+ZONE RED (DANGER): Severe symptoms, peak flow below 50%
+- Use rescue inhaler (2-4 puffs)
+- Return to normal activity only after 4 hours symptom-free
+- Call doctor immediately
+- If no improvement in 15 minutes: SEEK EMERGENCY CARE
+
+EMERGENCY SIGNS:
+- Cannot finish sentences due to shortness of breath
+- Difficulty walking or talking
+- Skin retractions (between ribs, at neck, at belly showing)
+- Severe wheezing or no wheezing with severe distress (bad sign)
+- Blue lips or fingernails
+- Confusion or altered consciousness
+- Peak flow less than 40% of personal best
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Many asthma controllers are safe. Consult doctor — uncontrolled asthma is riskier than medication
+- Menstrual-related asthma: Symptoms worse around period — adjust medication timing
+- Occupational asthma: Triggered by workplace allergens (chemicals, dust, animal products)
+- Status asthmaticus: Severe, life-threatening asthma attack not responding to treatment — ICU admission required

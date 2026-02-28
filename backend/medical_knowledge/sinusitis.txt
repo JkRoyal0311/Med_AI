@@ -1,0 +1,263 @@
+DISEASE: Sinusitis (Acute Rhinosinusitis)
+CATEGORY: ENT / Respiratory
+ICD-10: J01
+SEVERITY: Mild-Moderate; usually self-limiting but can progress
+
+DESCRIPTION:
+Sinusitis is inflammation of paranasal sinuses (maxillary, ethmoid, sphenoid, frontal). Extremely
+common, affects 37 million Americans yearly. Most acute cases follow URI (viral). Can be viral,
+bacterial, or fungal. Symptoms typically resolve in 7-10 days viral; bacterial may need antibiotics.
+Chronic sinusitis if symptoms persist >12 weeks.
+
+ANATOMY:
+- Paranasal sinuses: Air-filled spaces around eyes, nose, forehead
+- Function: Lighten skull, filter/warm air, voice resonance
+- Ostium: Small opening connecting sinuses to nasal cavity
+- Obstruction causes fluid accumulation, bacterial overgrowth
+
+CAUSES:
+
+VIRAL (Most common — 90%):
+- Common cold: URI viral infection
+- Influenza: Flu virus
+- Other respiratory viruses
+
+BACTERIAL (Secondary to viral, or primary):
+- Streptococcus pneumoniae
+- Haemophilus influenzae
+- Moraxella catarrhalis
+- Anaerobes
+- Often polymicrobial
+
+RISK FACTORS:
+- URI: Preceding viral infection
+- Nasal obstruction: Deviated septum, polyps
+- Allergic rhinitis: Allergies obstructing sinus drainage
+- Smoking: Ciliary dysfunction
+- Immunocompromised: HIV, chemotherapy, diabetes
+- Dental infection: Upper molar peri-apical infection (spreads to maxillary sinus)
+- Cystic fibrosis: Abnormal secretions
+- Aspirin sensitivity/NSAID intolerance
+- Barotrauma: Flying, diving (pressure changes)
+
+SYMPTOMS:
+
+NASAL/FACIAL:
+- Nasal congestion: Stuffy nose
+- Nasal discharge: Purulent (yellow/green), posterior drainage
+- Facial pain/pressure: Worse with bending forward
+  * Distribution: Usually unilateral if localized to one sinus
+  * Maxillary: Upper cheek, teeth pain
+  * Frontal: Forehead
+  * Ethmoid: Between eyes, bridge of nose
+  * Sphenoid: Behind eyes, top of head
+- Headache: Often dull, constant
+- Otalgia: Referred ear pain
+
+SYSTEMIC:
+- Fever: Variable (viral none/low, bacterial higher)
+- Fatigue: General malaise
+- Cough: From postnasal drip
+- Sore throat: From drainage
+- Bad breath: From infection
+- Anosmia: Loss of smell (from obstruction)
+
+SEVERE (Need urgent evaluation):
+- Periorbital edema: Swelling around eyes
+- Proptosis: Eye bulging
+- Vision changes
+- Altered mental status
+- Severe headache: Concerning for intracranial complication
+
+DIAGNOSIS:
+
+CLINICAL DIAGNOSIS:
+- Symptom history: Suggest sinusitis if 3+ major symptoms for ≥5 days
+- Major symptoms: Facial pain/pressure, nasal obstruction, nasal discharge, postnasal drip, cough, fever
+- Minor symptoms: Headache, ear pain, halitosis, dental pain
+
+IMAGING (Usually not needed for uncomplicated acute):
+- CT scan: Shows sinus involvement, extent of inflammation
+  * Recommended if: Severe symptoms, need to rule out complications, frequent recurrences
+  * Shows fluid levels, mucosal thickening
+- MRI: Reserved for complications (intracranial extension)
+- Plain X-rays: Less sensitive, usually not recommended
+
+NASAL ENDOSCOPY:
+- Direct visualization: See polyps, drainage, obstruction
+- Allows culture collection if needed
+- Usually office-based
+
+MEDICATIONS USED:
+
+DECONGESTANTS:
+
+1. PSEUDOEPHEDRINE (Oral decongestant):
+   - Dosage: 30-60 mg every 4-6 hours (max 240 mg/day)
+   - Reduces nasal congestion
+   - SIDE EFFECTS: Jitteriness, insomnia, palpitations, HTN elevation
+   - AVOID: If HTN, cardiac disease
+   - Short-term use (3-7 days) — rebound congestion if longer
+   - Brand names: Sudafed
+
+2. NASAL DECONGESTANTS (Topical spray):
+   - Oxymetazoline: Spray every 12 hours
+   - Phenylephrine: Spray every 4 hours
+   - Works faster than oral (15 minutes)
+   - IMPORTANT: Use only 3 days max (rebound congestion with longer use)
+
+NASAL IRRIGATION:
+
+3. SALINE NASAL DROPS/SPRAY:
+   - Normal saline (0.9%): 2-3 drops each nostril 4-6 times daily
+   - Neti pot: Fill with saline, irrigate nostrils (Jala neti — traditional)
+   - Benefits: Clears drainage, reduces congestion, no side effects
+   - Safe long-term
+   - No medications needed
+
+NASAL CORTICOSTEROIDS:
+
+4. FLUTICASONE NASAL SPRAY:
+   - Dosage: 1-2 sprays in each nostril once daily
+   - Reduces inflammation, improves drainage
+   - Takes 3-7 days for full effect
+   - SIDE EFFECTS: Local irritation, rare systemic effects
+   - Brand names: Avamys, Flovent (used off-label)
+
+5. MOMETASONE:
+   - Similar to fluticasone
+   - Well-tolerated
+
+ANTIBIOTICS (Only if bacterial suspected/confirmed):
+
+6. AMOXICILLIN-CLAVULANATE:
+   - Dosage: 500-875 mg three times daily x 10-14 days
+   - First-line for bacterial sinusitis
+   - Covers common gram-positives + anaerobes
+   - SIDE EFFECTS: GI upset, yeast infection, rash
+   - Brand names: Augmentin
+
+7. AZITHROMYCIN (Z-pack):
+   - Dosage: 500 mg day 1, then 250 mg daily x 4 days
+   - Alternative if penicillin allergy
+   - Used for 5-day course
+
+8. LEVOFLOXACIN:
+   - Dosage: 500 mg once daily x 10-14 days
+   - For resistant organisms
+   - SIDE EFFECTS: Tendon rupture (rare), QT prolongation
+
+PAIN MANAGEMENT:
+
+9. ACETAMINOPHEN:
+   - 500-1000 mg every 6 hours (max 2g/day)
+   - Fever reduction, pain relief
+
+10. IBUPROFEN:
+    - 400-600 mg every 6 hours
+    - Better anti-inflammatory
+    - Helps with facial pain/pressure
+
+MUCOLYTICS:
+
+11. GUAIFENESIN:
+    - Dosage: 200-400 mg every 4 hours
+    - Thins secretions, helps drainage
+    - Found in many cough syrups
+
+ANTIHISTAMINES (If allergic component):
+- Cetirizine, loratadine: Non-sedating
+- Can worsen congestion paradoxically (some people)
+
+FOODS TO EAT (Recovery support):
+- Broths: Warm, hydrating, nourishing
+- Chicken soup / Murgh soup: Traditional remedy
+- Ginger / Adrak: Anti-inflammatory, decongestant
+- Turmeric / Haldi: Anti-inflammatory
+- Honey / Shahad: Soothing, antimicrobial
+- Garlic / Lahsun: Antimicrobial
+- Lemon: Vitamin C, mucolytic
+- Spicy foods: Capsaicin (decongestant) — some tolerate
+- Hot beverages: Steam helpful
+- Fruits: Citrus for vitamin C
+- Vegetables: Leafy greens
+
+FOODS TO AVOID:
+- Dairy excess: Some believe milk increases mucus (debated)
+- Alcohol: Dehydrating
+- High sugar: Impairs immunity
+- Very hot foods: Can irritate
+- Processed foods: Low nutrients
+
+HYDRATION:
+- Most important: 2-3 liters fluids daily
+- Water primary
+- Warm liquids: Steam beneficial
+- Avoid: Caffeine (diuretic)
+
+LIFESTYLE MODIFICATIONS:
+
+STEAM INHALATION:
+- Most effective home remedy
+- Boil water, place face over bowl with towel
+- 10-15 minutes, 2-3 times daily
+- Loosens secretions, helps drainage
+- Add eucalyptus oil optional (helps decongestant)
+
+HUMIDIFICATION:
+- Humidifier in room: 40-60% humidity
+- Helps mucous membrane function
+- Avoid excessive (>60% promotes mold)
+
+SLEEP POSITION:
+- Elevate head: Improves sinus drainage
+- Sleep position: Side opposite sinus involvement if unilateral
+
+NASAL HYGIENE:
+- Regular saline drops: Essential
+- Neti pot: Traditional, effective (ensure sterile water)
+- Nasal bulb irrigation: Gentle
+
+AVOID IRRITANTS:
+- Cigarette smoke: Ciliary dysfunction
+- Pollution exposure
+- Chlorine: Swimming pools
+
+WHEN TO SEEK DOCTOR:
+- Symptoms >10 days: May need antibiotics
+- Severe pain: Localized, intense
+- Fever >38.5°C: Suggests bacterial
+- Worsening symptoms: After partial improvement
+- Frequent recurrent sinusitis: Needs evaluation
+
+WHEN URGENT:
+- Periorbital edema: Swelling around eyes
+- Vision changes
+- Severe frontal headache: Could be intracranial
+- Fever + severe symptoms
+
+[SEEK EMERGENCY CARE IF VISION CHANGES, SEVERE HEADACHE, ALTERED MENTAL STATUS, EYE SWELLING]
+
+COMPLICATIONS (Rare):
+- Meningitis: Sphenoid sinus extension
+- Epidural abscess: Frontal sinus extension
+- Brain abscess: Hematogenous spread
+- Osteomyelitis: Bone infection
+- Cavernous sinus thrombosis: Severe, life-threatening
+- Periorbital cellulitis: Eye area infection
+
+DURATION:
+- Viral: 7-10 days typically (even without treatment)
+- Bacterial: 10-14 days with antibiotics
+- Symptom improvement: Should see within 3-5 days of starting antibiotics
+
+CHRONIC SINUSITIS:
+- Definition: Symptoms >12 weeks
+- More aggressive treatment needed: May require imaging, ENT referral
+- Possible surgery: FESS (Functional Endoscopic Sinus Surgery)
+
+SPECIAL CONSIDERATIONS:
+- Children: Different presentation, adenoid hypertrophy common
+- Immunocompromised: Risk of fungal, atypical organisms
+- Dental disease: Upper molars causing sinusitis (requires dental treatment)
+- Recurrent: Imaging, nasal polyp evaluation, allergy assessment

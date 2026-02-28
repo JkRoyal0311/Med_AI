@@ -1,0 +1,278 @@
+DISEASE: Allergies (Allergic Rhinitis, Allergic Dermatitis, Hay Fever)
+CATEGORY: Immunological
+ICD-10: J30, L20-L25
+SEVERITY: Mild-Moderate usually; can be severe in some patients
+
+DESCRIPTION:
+Allergies are immune system overreactions to harmless substances (allergens). The immune system
+mistakenly identifies a substance as dangerous and produces antibodies (IgE), triggering release
+of histamine and other chemicals. This causes inflammation and symptoms. Can be seasonal (hay fever)
+or perennial (year-round). Severity ranges from mild annoyance to severe (anaphylaxis with certain allergens).
+
+TYPES OF ALLERGIES:
+
+1. ALLERGIC RHINITIS (Hay fever, nasal allergies)
+   - Most common type
+   - Seasonal: Tree pollen (spring), grass pollen (summer), ragweed (fall)
+   - Perennial: Dust mites, pet dander, mold
+
+2. ALLERGIC DERMATITIS / ECZEMA
+   - Itchy, inflamed skin
+   - Contact dermatitis: From direct contact with allergen
+   - Atopic dermatitis: Genetic predisposition, environmental triggers
+
+3. FOOD ALLERGIES
+   - Immediate reaction (anaphylaxis in severe cases)
+   - Common: Peanuts, tree nuts, shellfish, eggs, dairy, sesame
+
+4. DRUG ALLERGIES
+   - Include penicillin allergy (most common)
+
+5. INSECT ALLERGIES
+   - Bee/wasp sting anaphylaxis
+   - Dust mite allergy
+
+SYMPTOMS (vary by type and severity):
+
+ALLERGIC RHINITIS:
+- Sneezing: Repeated, sudden
+- Nasal congestion: Stuffy nose, difficulty breathing through nose
+- Nasal discharge: Clear, watery (allergic rhinitis) vs. thick colored (bacterial infection)
+- Itching: Nose, eyes, throat, ears
+- Watery eyes: Tears without crying
+- Darkening under eyes: "Allergic shiners" from nasal congestion and inflammation
+- Postnasal drip: Drainage running down back of throat
+- Cough: From postnasal drip
+- Fatigue: From poor sleep due to congestion
+- Headache: From sinus congestion
+- Loss of taste/smell: From nasal congestion
+
+ALLERGIC DERMATITIS:
+- Itching: Intense, sometimes intolerable
+- Rash: Red, raised, scaly
+- Blisters: In acute cases, may weep fluid
+- Oozing/crusting: Infected skin from scratching
+- Dry, cracked skin: In chronic cases
+- Location: Depends on allergen (linear rash from plant contact, areas of frequent touching)
+
+FOOD ALLERGIES (Immediate type):
+- Oral itching/tingling: Lips, mouth, throat
+- Lip/tongue swelling: Angioedema
+- Nausea and vomiting
+- Abdominal cramping and diarrhea
+- Skin hives/urticaria
+- Anaphylaxis (severe): Wheezing, throat tightness, difficulty breathing, hypotension, shock
+  [SEEK EMERGENCY CARE IMMEDIATELY for anaphylaxis]
+
+URTICARIA (Hives):
+- Itchy welts/wheals on skin
+- May appear and disappear in hours
+- Triggered by allergen exposure
+
+ANGIOEDEMA:
+- Deep tissue swelling, especially face, lips, tongue
+- Serious if involves throat (airway compromise)
+
+RISK FACTORS:
+- Family history of allergies
+- Early childhood infections reduce allergy risk (hygiene hypothesis)
+- Eczema or asthma (increased allergy risk)
+- Elevated IgE levels
+
+MEDICATIONS USED:
+
+ANTIHISTAMINES (Block histamine, relieve symptoms):
+
+First-Generation (Older, cause drowsiness):
+1. DIPHENHYDRAMINE (Benadryl)
+   - Dosage: 25-50 mg every 4-6 hours (max 300 mg/day)
+   - Onset: 15-30 minutes
+   - Duration: 4-6 hours
+   - SIDE EFFECT: Drowsiness (anticholinergic)
+   - USES: Good for nighttime itch relief, sedation effect useful
+   - AVOID: Before driving or machinery; in elderly (confusion risk)
+
+Second-Generation (Newer, non-drowsy):
+2. CETIRIZINE (Zyrtec)
+   - Dosage: 10 mg once daily
+   - Onset: 20-30 minutes
+   - Duration: 24 hours
+   - Minimal drowsiness
+   - Brand names: Cetaphil, Allercet
+   - Good first choice
+
+3. LORATADINE (Claritin)
+   - Dosage: 10 mg once daily
+   - Onset: 1-3 hours
+   - Duration: 24 hours
+   - Non-drowsy
+   - Brand names: Loratadine, Claratine
+
+4. FEXOFENADINE (Allegra)
+   - Dosage: 180 mg once daily
+   - Non-drowsy
+   - Takes slightly longer to work than others
+
+DECONGESTANTS (Reduce nasal congestion):
+5. PSEUDOEPHEDRINE
+   - Dosage: 30-60 mg every 4-6 hours (max 120 mg/day)
+   - Reduces blood vessel swelling in nasal passages
+   - Onset: 30 minutes
+   - Duration: 4-6 hours
+   - SIDE EFFECTS: Can increase heart rate, blood pressure, anxiety
+   - AVOID if: Hypertension, heart disease, anxiety disorder
+   - Brand names: Sudafed (formulas vary by region)
+
+6. OXYMETAZOLINE (Nasal spray)
+   - Decongests nasal passages topically
+   - Dosage: 1-2 sprays each nostril, twice daily
+   - AVOID: Regular use > 3 days (causes rebound congestion/rhinitis medicamentosa)
+   - Use only as directed
+
+INTRANASAL CORTICOSTEROIDS (Most effective for allergic rhinitis):
+7. FLUTICASONE / MOMETASONE / TRIAMCINOLONE
+   - Reduce inflammation in nasal passages
+   - Fluticasone: 1-2 sprays each nostril once or twice daily
+   - Mometasone: 2 sprays each nostril daily
+   - Onset: 12-24 hours
+   - Duration: Builds up with regular use; takes 2-3 days for full effect
+   - Brand names: Flonase, Avamys, Nasonex
+   - SAFE: Minimal systemic absorption if used as directed
+   - Most effective single agent for allergic rhinitis
+
+LEUKOTRIENE ANTAGONISTS (Block inflammatory pathway):
+8. MONTELUKAST (Singulair)
+   - Dosage: 10 mg once daily in evening
+   - Works for nasal allergies, especially if asthma coexistent
+   - Takes 1-2 weeks for full effect
+   - Fewer side effects than earlier formulations
+
+NASAL SALINE RINSE:
+9. NASAL SALINE IRRIGATION
+   - Neti pot or saline spray
+   - Flushes allergens and mucus from nasal passages
+   - No side effects, safe long-term use
+   - Helps reduce medication dependence
+
+TOPICAL TREATMENTS (For skin allergies):
+10. HYDROCORTISONE CREAM
+    - Dosage: 1% cream, apply 2-4 times daily
+    - For mild dermatitis
+    - Brand names: Various
+
+11. STRONGER TOPICAL CORTICOSTEROIDS (Prescription)
+    - For moderate-severe dermatitis
+
+12. EMOLLIENTS / MOISTURIZERS
+    - Cetaphil, Eucerin
+    - Apply multiple times daily
+    - Prevention and treatment of dry skin
+
+IMMUNOTHERAPY (Long-term treatment):
+13. ALLERGY SHOTS (Immunosuppression)
+    - Gradually increasing allergen exposure builds tolerance
+    - Takes 3-5 years of regular injections
+    - 60-90% effective when completed
+    - For specific allergen sensitivities
+
+14. SUBLINGUAL TABLETS
+    - Allergen tablets placed under tongue
+    - Becoming popular alternative to shots
+
+MEDICATIONS TO AVOID:
+- Decongestants in hypertension or heart disease (pseudoephedrine can spike BP)
+- NSAIDs in some patients (can worsen allergic reactions)
+- Beta-blockers if anaphylaxis risk (can worsen anaphylaxis)
+- Beta-blockers with epinephrine treatment controversy (consult doctor)
+
+ALLERGEN AVOIDANCE (Most important step):
+
+FOR POLLEN ALLERGIES:
+- Keep windows closed during high pollen seasons
+- Wear sunglasses outdoors (protects eyes)
+- Shower and shampoo after being outdoors (removes pollen)
+- Wash clothes separately from other laundry (minimize pollen spread)
+- Use pollen filters in car
+- Monitor pollen count, plan outdoor activities accordingly
+- Dry laundry indoors (not on clothesline)
+
+FOR DUST MITE ALLERGIES:
+- Encase mattress and pillow in allergy-proof covers
+- Wash bedding in hot water weekly (>130°F kills dust mites)
+- Reduce humidity (dust mites thrive in moisture)
+- Use HEPA filters in vacuum and air purifier
+- Minimize stuffed animals and plush toys
+- Regular cleaning reduces dust accumulation
+
+FOR PET DANDER ALLERGIES:
+- Ideally, avoid pets if severe allergy
+- If keeping pet: Keep out of bedroom, vacuum frequently with HEPA filter
+- Bathe pet regularly (reduces dander)
+- Use air purifier in bedroom
+
+FOR MOLD ALLERGIES:
+- Fix leaks and prevent moisture accumulation
+- Use dehumidifier (keep humidity <50%)
+- Clean bathrooms with bleach solution
+- Remove moldy materials
+- Increase ventilation
+
+FOR FOOD ALLERGIES:
+- Strict avoidance of allergen
+- Check food labels carefully
+- Inform restaurants of allergies
+- Severe allergies: Carry EpiPen (epinephrine auto-injector)
+- Medical alert identification
+
+FOR DRUG ALLERGIES:
+- Maintain list of allergic medications
+- Inform healthcare providers
+- Consider allergy testing to clarify true allergy vs. side effect
+- Some non-cross-reacting alternatives often available
+
+FOODS TO EAT (Anti-inflammatory, supportive):
+- Quercetin-rich: Apples, onions, green tea (natural antihistamine)
+- Omega-3: Fish, flaxseed (anti-inflammatory)
+- Vitamin C: Citrus, kiwi (natural antihistamine, not proven but supportive)
+- Turmeric / Haldi: Curcumin is anti-inflammatory
+- Ginger / Adrak: Anti-inflammatory
+- Leafy greens / Palak, methi: Antioxidants
+- Honey (local): Anecdotal evidence of desensitization (not proven)
+- Probiotics: Yogurt, fermented foods (supporting evidence for immunity)
+
+FOODS TO AVOID (May worsen allergies or contain allergens):
+- Histamine-rich foods: Aged cheeses, cured meats, fermented foods (in histamine intolerance)
+- Cross-reactivity foods: If allergic to birch pollen, may react to apple, hazelnut, carrot raw
+  (cooking often prevents reaction)
+- High-histamine foods: Avocado, eggplant, tomato, chocolate (if sensitive)
+- Food additives: Sulfites, food dyes
+- Excess alcohol (increases histamine)
+
+LIFESTYLE MODIFICATIONS:
+- Air filtration: HEPA filters in bedroom and living areas
+- Humidity control: 40-50% relative humidity (dust mites and mold thriving range)
+- Regular laundering: Allergen-free bedding, pillowcases weekly
+- Furnishing choices: Hardwood/tile instead of carpet (if possible), washable curtains
+- Pets: Consider dander-free pets or no pets if severe allergy
+- Regular cleaning: Vacuum with HEPA filter 1-2 times weekly
+- Strategic planning: Check pollen counts before outdoor activities
+- Stress management: Stress exacerbates allergies
+
+WHEN TO SEEK MEDICAL ATTENTION:
+- Anaphylaxis: Difficulty breathing, swelling of throat/tongue, hypotension — SEEK EMERGENCY CARE IMMEDIATELY
+- Severe skin reactions: Extensive blistering, skin infection (signs of weeping, pus)
+- Allergies not controlled after 2 weeks treatment
+- Allergic rhinitis causing sleep problems and fatigue
+- Considering immunotherapy (allergy shots) — requires allergy testing and specialist
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Avoid first-generation antihistamines; second-generation and intranasal corticosteroids generally safe
+- Children: Different dosing; avoid first-generation sedating antihistamines (behavior/learning effects)
+- Elderly: Age increases allergy risk; second-generation antihistamines preferred
+- Comorbid asthma: Control allergies to reduce asthma triggers; montelukast helps both
+- Anaphylaxis: EpiPen prescription, self-injection training, emergency action plan essential
+
+LONG-TERM MANAGEMENT:
+- Regular preventive medication during allergy season
+- Allergy testing to identify specific allergens (allergy shots if indicated)
+- Combination approach most effective: Avoidance + medication + immunotherapy

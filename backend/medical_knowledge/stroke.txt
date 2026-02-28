@@ -1,0 +1,246 @@
+DISEASE: Stroke (Cerebrovascular Accident — CVA)
+CATEGORY: Neurological / Cardiovascular / Emergency
+ICD-10: I63 (ischemic), I61 (hemorrhagic)
+SEVERITY: Critical/Life-threatening
+
+DESCRIPTION:
+Stroke is sudden loss of blood flow to brain causing brain cell death. Leading cause of disability
+in adults, third leading cause of death globally. Two types: ischemic (85% — blood clot) and
+hemorrhagic (15% — bleeding). Time-critical emergency: "Time is brain" — every minute matters.
+Thrombolysis effective if given within 4.5 hours of symptom onset. Prevention crucial.
+
+RISK FACTORS:
+
+MODIFIABLE:
+- Hypertension: Single biggest risk factor
+- Diabetes: 2-4x increased risk
+- Smoking: Increases clot risk
+- High cholesterol: Atherosclerosis
+- Obesity: BMI >30
+- Physical inactivity: Sedentary lifestyle
+- Excessive alcohol: Especially binge drinking
+- Cocaine use: Causes vasospasm, increases clot risk
+- Atrial fibrillation: Irregular heartbeat promoting clots
+- Patent foramen ovale (PFO): Allows clots to bypass lungs
+
+NON-MODIFIABLE:
+- Age: Increases with age (doubling each decade after 55)
+- Male: Higher risk in males
+- Race/ethnicity: African Americans, Hispanics at higher risk
+- Family history: Genetic predisposition
+- Prior stroke: Previous stroke increases risk
+
+TYPES:
+
+ISCHEMIC STROKE (85%):
+- Thrombotic: Clot forms in brain artery (emboli from heart, plaque rupture in vessel)
+- Embolic: Clot travels from heart/other source, lodges in brain artery
+- Lacunar: Small vessel disease affecting deep brain structures
+
+HEMORRHAGIC STROKE (15%):
+- Intracerebral: Bleeding within brain tissue (hypertension, amyloid angiopathy)
+- Subarachnoid: Bleeding in space between arachnoid/pia (aneurysm rupture)
+
+SYMPTOMS (RECOGNIZE IMMEDIATELY):
+
+REMEMBER "FAST":
+- FACE: Drooping on one side (ask to smile)
+  * Arm: Numbness, weakness (raise both arms — one drifts down)
+  * Speech: Slurred, difficulty speaking or understanding
+  * Time: If any symptom, CALL EMERGENCY (111/100/90 India)
+
+OTHER COMMON SYMPTOMS:
+- Sudden onset unilateral weakness: Arm, leg, face
+- Sudden numbness: Usually one side of body
+- Sudden vision changes: Blurred, loss in one eye
+- Sudden difficulty walking: Unsteady, loss of coordination
+- Sudden severe headache: Worst headache of life (hemorrhagic)
+- Sudden confusion: Difficulty understanding
+- Sudden trouble speaking: Slurred speech, can't find words
+- Sudden loss of consciousness
+- Sudden incontinence
+
+TIMING:
+- SUDDEN ONSET: That's KEY — stroke symptoms come on suddenly
+- Non-stroke conditions are gradual
+
+DIAGNOSIS:
+
+EMERGENT CT/MRI BRAIN:
+- CT non-contrast: Rules out hemorrhagic stroke (first test usually)
+  * Shows blood as white
+  * Takes minutes
+- MRI brain: DWI (diffusion-weighted imaging) shows ischemic stroke
+  * More sensitive for early ischemia
+  * Takes longer (20 minutes) — if available and no hemorrhage
+- CT angiography: Shows vessels
+- CT perfusion: Shows tissue at risk
+
+LABORATORY:
+- Blood glucose: Can mimic stroke, must rule out
+- Coagulation studies: PT, INR, PTT
+- Troponin: Check for cardiac cause
+- CBC: Check for infection, polycythemia
+- Liver/kidney function
+
+EKG:
+- Check for atrial fibrillation, MI (cardiac source of clot)
+
+MEDICATIONS USED:
+
+ACUTE ISCHEMIC STROKE (Time-sensitive):
+
+1. THROMBOLYTIC (tPA — Tissue Plasminogen Activator):
+   - Dosage: 0.9 mg/kg (max 90 mg)
+     * 10% as IV bolus
+     * Remaining over 1 hour
+   - MUST be given within 4.5 hours of symptom onset
+     * 3 hours standard window
+     * 4.5 hours extended window if proper criteria
+   - Dissolves blood clot
+   - Improves outcome 30% (increases good recovery)
+   - CONTRAINDICATIONS: Active bleeding, recent surgery, coagulopathy
+   - SIDE EFFECTS: Bleeding (serious), must monitor closely
+
+2. THROMBECTOMY:
+   - Mechanical removal of clot via catheter
+   - Indicated within 24 hours of large vessel occlusion (if candidate)
+   - More effective than thrombolytics for large clots
+   - Requires specialized center (intervention radiology)
+   - Can be done alone or with thrombolysis
+
+ACUTE HEMORRHAGIC STROKE:
+
+3. BLOOD PRESSURE MANAGEMENT:
+   - Goal: <180/105 mm Hg (balance cerebral perfectusion vs hematoma expansion)
+   - Labetalol: 20 mg IV, can repeat every 10 minutes (max 80 mg)
+   - Nicardipine: 2.5 mg IV every 5-15 minutes (up to 15 mg/hr)
+
+4. HEMOSTASIS:
+   - Stop anticoagulation: If on warfarin/DOAC
+   - Reversal agents: Idarucizumab (Praxbind) for dabigatran, FFP for warfarin
+   - Platelet transfusion: If on antiplatelet agents
+   - Tranexamic acid: May reduce hematoma expansion (controversial)
+   - FFP (Fresh frozen plasma): Coagulation factor replacement
+
+ACUTE STROKE CARE (Both types):
+
+5. ASPIRIN:
+   - Dosage: 325 mg (or 500 mg) chewed immediately post-confirmation
+   - Reduces risk of recurrent stroke by 10-13%
+   - Give unless contraindication or thrombolysis planned
+
+6. BLOOD SUGAR CONTROL:
+   - Insulin: If hyperglycemia (adverse outcome if high glucose)
+   - Goal glucose: 140-180 mg/dL
+
+7. TEMPERATURE MANAGEMENT:
+   - Avoid fever: Fever worsens outcome
+   - Acetaminophen: Keep temperature normal
+   - Cooling measures if febrile
+
+8. SUPPORTIVE CARE:
+   - IV fluids: Hydration important
+   - Oxygen: If hypoxic
+   - Bed rest initially
+   - Head of bed elevated: 30 degrees
+   - Monitor vitals closely
+
+SECONDARY PREVENTION (After initial stroke):
+
+9. ANTIPLATELET AGENTS:
+   - Aspirin: 75-100 mg daily
+   - Clopidogrel (Plavix): 75 mg daily (if aspirin intolerant)
+   - Aspirin + Dipyridamole: For additional protection
+
+10. ANTICOAGULATION (If cardioembolic source):
+    - Warfarin: INR 2-3, if atrial fibrillation, cardiac thrombus
+    - DOACs (Dabigatran, apixaban, rivaroxaban): If atrial fibrillation
+    - Enoxaparin: Initially, then transition to warfarin/DOAC
+
+11. STATIN (HIGH-DOSE):
+    - Atorvastatin: 80 mg daily
+    - Reduces cardiovascular events, recurrent stroke
+
+12. BLOOD PRESSURE MANAGEMENT:
+    - Antihypertensives: Goal <130/80 for secondary prevention
+    - ACE inhibitor or ARB
+    - Beta-blocker
+    - Calcium channel blocker
+    - Thiazide diuretic
+    - Combination often needed
+
+13. TYPE 2 DIABETES MANAGEMENT:
+    - Intensive glucose control: Reduces stroke risk
+    - Metformin: First-line
+    - SGLT2 inhibitors: Additional cardiovascular benefits
+
+REHABILITATION:
+
+14. PHYSICAL THERAPY:
+    - Start early (within 24 hours)
+    - Improve strength, mobility, function
+
+15. OCCUPATIONAL THERAPY:
+    - Activities of daily living
+    - Adaptive equipment training
+
+16. SPEECH/SWALLOW THERAPY:
+    - If aphasia or dysphagia
+    - Critical early (prevent aspiration pneumonia)
+
+FOODS TO EAT (Recovery, secondary prevention):
+- Vegetables: Leafy greens (DASH diet)
+- Fruits: Berries, citrus
+- Fatty fish: Salmon, sardines (omega-3)
+- Whole grains: Brown rice, oats
+- Legumes / Dal: Beans
+- Nuts: Almonds, walnuts (omega-3)
+- Olive oil: Heart-healthy
+- Low-fat dairy: Yogurt
+
+FOODS TO STRICTLY AVOID:
+- High-sodium foods: Restrict salt (<2 g/day)
+- Trans fats: Processed, fried foods
+- Red meat: Limit
+- Alcohol: Can increase BP, especially excess
+
+WHEN TO SEEK EMERGENCY IMMEDIATELY:
+
+CALL EMERGENCY (100/111/999):
+- Sudden facial drooping
+- Sudden arm numbness/weakness
+- Sudden trouble speaking
+- Sudden vision change
+- Sudden difficulty walking, dizziness
+- Sudden severe headache
+
+[EVERY MINUTE COUNTS — DON'T WAIT — CALL EMERGENCY IMMEDIATELY]
+
+SPECIAL CONSIDERATIONS:
+- Age: Younger strokes often cardioembolic (PFO, atrial fibrillation)
+- Pregnancy/Postpartum: Increased stroke risk (hypercoagulability)
+- Oral contraceptives: Increase risk (especially with smoking)
+- Migraine with aura: Slightly increased stroke risk
+- Sickle cell disease: Vasculopathy increases risk
+- Vasculitis: Inflammatory, can cause stroke
+
+PROGNOSIS:
+- With rapid thrombolysis: 30% chance of minimal/no disability
+- Outcomes worsen with delay: 60% have significant disability if delayed treatment
+- Recovery: Best in first 3 months, then plateaus
+- Many recover substantially with rehabilitation
+- Recurrent stroke: 10% per year if untreated secondary prevention
+
+PREVENTION (MOST IMPORTANT):
+- Blood pressure: Aggressive control <130/80
+- Cholesterol: Statins
+- Diabetes: Glucose control
+- Smoking: Cessation critical
+- Atrial fibrillation: Anticoagulation if high risk
+- Exercise: 150 min/week
+- Healthy diet: Low sodium, Mediterranean/DASH
+- Weight: Healthy BMI
+- Alcohol: Minimize
+
+[STROKE IS A MEDICAL EMERGENCY — RAPID TREATMENT IS LIFE-SAVING]

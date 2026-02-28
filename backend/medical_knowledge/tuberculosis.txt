@@ -1,0 +1,181 @@
+DISEASE: Tuberculosis (TB)
+CATEGORY: Infectious / Pulmonary
+ICD-10: A15-A19
+SEVERITY: Serious — life-threatening if untreated
+
+DESCRIPTION:
+Tuberculosis is a serious infectious disease caused by Mycobacterium tuberculosis bacteria.
+Spreads through airborne droplets when infected person coughs, sneezes, or speaks.
+Primarily affects lungs (pulmonary TB) but can affect any organ. Two forms: latent TB (dormant,
+non-infectious) and active TB (disease). Major health problem in India — one of highest TB burden countries globally.
+
+RISK FACTORS:
+- Close contact with TB patient
+- Weak immune system (HIV/AIDS, immunosuppressive medications)
+- Malnutrition and poverty
+- Diabetes
+- Smoking
+- Alcohol abuse
+- Overcrowding conditions
+- Homeless or incarcerated populations
+
+SYMPTOMS (Pulmonary TB):
+- Persistent cough: >3 weeks, often worse in morning
+- Cough with sputum: Initially dry, later with phlegm
+- Blood in sputum / Hemoptysis: Indicates cavitary disease
+- Chest pain: When breathing or coughing
+- Fever: Low-grade, usually afternoon/evening
+- Chills and night sweats: Drenching, especially at night
+- Fatigue and weakness
+- Weight loss and loss of appetite
+- Shortness of breath: In advanced disease
+
+PROGRESSION:
+- Early: Mild cough, attributed to cold
+- Progressive: Worsening cough, weight loss, sweats
+- Advanced: Hemoptysis, severe dyspnea, cavitary disease on X-ray
+
+DIAGNOSIS:
+- Sputum AFB (Acid-Fast Bacilli) smear microscopy: Gold standard in endemic areas
+- GeneXpert MTB/RIF: Rapid WHO-recommended test
+- Chest X-ray: Shows infiltrates, cavitations (usually upper lobes)
+- Tuberculin skin test (TST): Mantoux test (positive doesn't distinguish active vs latent)
+- TB IGRA blood test: More specific than TST
+
+MEDICATIONS USED (All TB drugs must be taken together for full duration):
+
+FIRST-LINE TB DRUGS (Standard regimen):
+1. ISONIAZID
+   - Dosage: 300 mg daily or 900 mg twice weekly
+   - Duration: 6 months total
+   - Penetrates lung tissue well
+   - SIDE EFFECT: Peripheral neuropathy (prevented by vitamin B6 supplementation)
+
+2. RIFAMPICIN (Rifampin)
+   - Dosage: 450-600 mg daily
+   - Duration: 6 months total
+   - Most potent TB drug
+   - Turns body fluids orange/red color (normal, harmless)
+   - CAUTION: Reduces birth control pill effectiveness
+
+3. PYRAZINAMIDE
+   - Dosage: 1.5-2 grams daily
+   - Duration: First 2 months only
+   - SIDE EFFECT: Hyperuricemia (elevated uric acid, may worsen gout)
+   - CAUTION: Liver toxicity — monitor LFTs
+
+4. ETHAMBUTOL
+   - Dosage: 15 mg/kg/day
+   - Duration: First 2 months
+   - SIDE EFFECT: Color blindness (red-green), reversible if stopped early
+   - Requires regular eye testing
+
+STANDARD REGIMEN:
+- Intensive Phase (First 2 months): Isoniazid + Rifampicin + Pyrazinamide + Ethambutol
+- Continuation Phase (Next 4 months): Isoniazid + Rifampicin
+- TOTAL: 6 months
+
+SECOND-LINE DRUGS (For drug-resistant TB):
+5. FLUOROQUINOLONES
+   - Levofloxacin, Moxifloxacin
+   - Used in MDR-TB (multidrug-resistant)
+   - Longer treatment duration (20-24 months)
+   - More side effects, more expensive
+
+MONITORING DURING TREATMENT:
+- Monthly clinical assessment
+- Monthly sputum testing (should become negative by 2 months)
+- Baseline and periodic LFTs (liver function tests) — TB drugs hepatotoxic
+- Visual testing if on ethambutol
+- Vitamin B6 supplementation: 25 mg daily (prevents isoniazid neuropathy)
+
+MEDICATIONS TO AVOID:
+- Alcohol: Increases hepatotoxicity risk
+- Hepatotoxic drugs: Avoid if possible (acetaminophen, other TB drugs)
+
+FOODS TO EAT (Support immune function):
+- Protein-rich: Chicken, fish, eggs, meat (rebuild lost weight)
+- Legumes / Dal: Protein, iron, vitamins
+- Nuts and seeds: Energy-dense, micronutrients
+- Citrus fruits: Vitamin C boosts immunity
+- Leafy greens / Palak, methi: Nutrition essential
+- Whole grains: B vitamins
+- Eggs: Complete protein
+- Milk and dairy / Dahi: Calcium, protein
+- Honey / Shahad: Energy, antimicrobial
+- Turmeric / Haldi: Anti-inflammatory
+- Ginger / Adrak: Anti-inflammatory
+
+FOODS TO AVOID:
+- Alcohol: Increases hepatitis risk, impairs immunity
+- Excess salt: Avoid considering any hypertension
+- Very spicy foods: May irritate lungs if coughing
+- Excess sugar: Impairs immune function
+- Processed foods: Lack nutrients needed
+
+LIFESTYLE MODIFICATIONS:
+- Complete adherence to medications: CRITICAL for cure and preventing resistance
+- Take all medications every day for full 6 months (even if feeling well by month 2-3)
+- Medical reminder systems: Alarms, calendar markings
+- Contact tracing: Family members need testing and preventive therapy if latent TB
+- Infection control: Cover mouth/nose when coughing (first 2 weeks of treatment)
+- Isolation: Not needed after 2 weeks of appropriate treatment + clinical improvement
+- Nutritious diet: Essential for immune recovery
+- Avoid smoking and alcohol
+- Rest: Adequate sleep while body fights infection
+
+LATENT TB INFECTION (No symptoms):
+- Positive TST/IGRA but normal chest X-ray, no symptoms
+- Risk of reactivation 5-10% lifetime (higher with immunosuppression)
+- Preventive therapy: Isoniazid 300 mg daily for 6-9 months (or shorter regimens available)
+- Family members of TB patient: Get tested for latent TB, may need preventive therapy
+
+TB/HIV COINFECTION:
+- Major cause of death in HIV patients
+- Drug interactions complex (rifampicin reduces antiretroviral levels)
+- Requires coordination with HIV specialist
+- Co-trimoxazole prophylaxis often added
+
+MDR-TB (Multidrug-resistant TB):
+- Resistant to both isoniazid and rifampicin
+- Requires second-line drugs
+- Treatment 20-24 months
+- Higher cost, more side effects, lower success rates
+- Reason: Incomplete treatment, counterfeit drugs, initial infection with resistant strain
+
+XDR-TB (Extensively drug-resistant TB):
+- Resistant to fluoroquinolones and injectable drugs
+- Even more serious
+- Newer drugs (bedaquiline, linezolid) needed
+
+COMPLICATIONS:
+- TB meningitis: CNS involvement, very serious
+- TB peritonitis: Abdominal TB
+- TB pericarditis: Heart sac involvement
+- Disseminated/miliary TB: Bloodstream spread to multiple organs
+- TB-associated diabetes: Complication, requires insulin
+- Post-TB pulmonary fibrosis: Scarring after cure
+
+TREATMENT OUTCOME DEFINITIONS:
+- Cured: Completed treatment + bacteriological evidence of cure
+- Completed: Completed treatment without evidence of cure (but clinically improved)
+- Died: Death during treatment
+- Failed: Smear/culture positive at 5 months
+- Lost to follow-up: Interruption of treatment >2 months
+
+WHEN TO SEEK IMMEDIATE ATTENTION:
+- Coughing up large amounts of blood
+- Severe chest pain with breathing
+- High fever (>101°F) unresponsive to treatment after 2 weeks
+- Signs of meningitis: Stiff neck, high fever, confusion
+- Allergic reaction to medication: Rash, itching, difficulty breathing
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: TB treatment safe in pregnancy; untreated TB is more dangerous
+- Children: Can develop TB from adult exposure (close contact); preventive therapy if latent TB
+- Elderly: Similar treatment but monitor more closely
+- Diabetes + TB: Worsens diabetes control, slower TB healing, higher mortality
+- Alcoholism: Increased hepatotoxicity, poor compliance
+- Homeless: Partner with social services for treatment adherence
+- Counterfeit drugs: Major problem in India; use government/certified providers
+- DOT (Directly Observed Therapy): Healthcare worker observes patient taking each dose (gold standard)

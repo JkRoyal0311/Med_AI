@@ -1,0 +1,184 @@
+DISEASE: Hyperlipidemia (High Cholesterol)
+CATEGORY: Metabolic / Cardiovascular
+ICD-10: E78
+SEVERITY: Chronic — often asymptomatic but serious risk for heart disease
+
+DESCRIPTION:
+Hyperlipidemia is elevated cholesterol and/or triglycerides in the blood. Cholesterol
+accumulates in artery walls forming fatty plaques (atherosclerosis), narrowing arteries
+and increasing risk of heart attack and stroke. Often called "silent killer" — no symptoms
+until significant damage occurs. Can be genetic, dietary, or lifestyle-related.
+
+TYPES OF CHOLESTEROL:
+1. LDL ("Bad" cholesterol): Deposits in arteries
+   - Normal: < 100 mg/dL
+   - At risk: 100-129 mg/dL
+   - High: 130-159 mg/dL
+   - Very high: > 160 mg/dL
+
+2. HDL ("Good" cholesterol): Removes cholesterol from arteries
+   - Normal: > 40 mg/dL (men), > 50 mg/dL (women)
+   - Low: < 40 mg/dL (men), < 50 mg/dL (women)
+
+3. Triglycerides: Energy storage form of fat
+   - Normal: < 150 mg/dL
+   - Borderline high: 150-199 mg/dL
+   - High: 200-499 mg/dL
+   - Very high: > 500 mg/dL
+
+4. Total Cholesterol: LDL + HDL + (Triglycerides/5)
+   - Desirable: < 200 mg/dL
+   - Borderline: 200-239 mg/dL
+   - High: > 240 mg/dL
+
+SYMPTOMS:
+- NO symptoms typically (asymptomatic)
+- Only discovered through blood test
+- Xanthomas: Fatty deposits on skin (indicate very high cholesterol)
+- Corneal arcus: White ring around eye edge (very high cholesterol)
+
+RISK FACTORS FOR HIGH CHOLESTEROL:
+- Age: Increases with age (men 45+, women 55+)
+- Family history: Genetic predisposition
+- Sedentary lifestyle: Lack of exercise
+- Poor diet: High saturated fat, trans fat, cholesterol intake
+- Obesity: BMI > 30
+- Smoking: Damages blood vessels
+- Diabetes: Impairs cholesterol metabolism
+- Hypothyroidism: Affects cholesterol processing
+- Chronic kidney disease
+- Medications: Corticosteroids, some antipsychotics
+
+MEDICATIONS USED:
+
+STATINS (Most common, first-line):
+1. ATORVASTATIN / ROSUVASTATIN / SIMVASTATIN
+   - Inhibit cholesterol production in liver
+   - Reduce LDL by 30-55%
+   - Atorvastatin: 10-80 mg once daily (evening preferred)
+   - Simvastatin: 10-40 mg once daily at night
+   - Brand names: Lipitor, Rosulip, Simvaheart
+   - EFFECT: Takes 2-4 weeks to reach full effect
+   - SIDE EFFECTS: Muscle pain (myalgia) in 5-10%, liver enzyme elevation (monitor)
+   - Also raise HDL and lower triglycerides slightly
+
+2. LOVASTATIN / PRAVASTATIN
+   - Alternatives if intolerant to atorvastatin
+
+SECOND-LINE AGENTS (If statins insufficient):
+3. EZETIMIBE (Zetia)
+   - Reduces cholesterol absorption from intestine
+   - Dosage: 10 mg once daily
+   - Often combined with statin (Vytorin = Simvastatin + Ezetimibe)
+   - Lowers LDL 15-20% additionally to statin
+
+4. FIBRATES (For high triglycerides)
+   - Fenofibrate: 145-160 mg once daily
+   - Gemfibrozil: 600 mg twice daily
+   - Brand names: Tricore, Gesfiber
+   - Reduce triglycerides 30-50% and raise HDL
+   - Risk: Muscle problems, increased liver enzymes
+   - Caution with statins (myopathy risk)
+
+5. BEMPEDOIC ACID (Newest agent)
+   - For patients unable to tolerate statins
+   - Reduces uric acid and LDL
+   - Once daily dosing
+
+6. PCSK9 INHIBITORS (For very high cholesterol, genetic)
+   - Very expensive, for treatment-resistant cases
+   - Injectables: Evolocumab (Repatha), Alirocumab
+   - Reduce LDL 50-60%
+
+NIACIN (Vitamin B3):
+7. NIACIN / NICOTINIC ACID
+   - Raises HDL, lowers triglycerides
+   - Dosage: 500-1500 mg daily in divided doses
+   - SIDE EFFECT: Flushing (hot flashes), itching
+   - Extended-release formulations less flushing
+   - Take with low-fat meal to reduce flushing
+
+MEDICATIONS THAT INCREASE CHOLESTEROL:
+- Anabolic steroids: Raise cholesterol
+- Corticosteroids: Raise cholesterol with long-term use
+- Some antipsychotics: Clozapine, olanzapine
+- Thiazide diuretics: Raise cholesterol (find alternatives)
+- Beta-blockers: Non-cardioselective ones less problematic
+- Some progestin-only contraceptives
+
+FOODS TO EAT:
+- Fatty fish: Salmon, mackerel, sardine (omega-3 lowers triglycerides)
+- Soluble fiber: Oats, barley, beans/dal (reduces cholesterol absorption)
+- Nuts and seeds: Almonds, walnuts, flaxseed (nuts reduce LDL 10-15%)
+- Olive oil: Monounsaturated fat, use 2 tbsp daily
+- Avocado / Butter fruit: Monounsaturated fat, sterols lower cholesterol
+- Plant sterols: Found in fortified foods, nuts (2g/day reduces LDL 10%)
+- Green leafy vegetables / Palak, methi: Fiber, vitamins
+- Whole grains: Brown rice, whole wheat, oats
+- Garlic / Lahsun: 2-3 cloves daily (modest effect)
+- Turmeric / Haldi: Curcumin reduces cholesterol
+- Ginger / Adrak: Anti-inflammatory effect
+- Dark chocolate (70%+ cocoa): Flavanols improve cholesterol ratios
+- Red wine (optional): Resveratrol, but limited evidence (1 glass/day max)
+- Soy products: Protein + plant compounds
+- Legumes / Dal: Very high fiber
+
+FOODS TO STRICTLY AVOID:
+- Trans fats: Packaged snacks, fried foods, margarine (MOST harmful)
+- Saturated fat: Fatty meat, ghee, butter (limit to <7% calories)
+- High-cholesterol foods: Eggs (whole), organ meats, fatty meat
+- Refined carbs: White bread, white rice (worsen cholesterol and triglycerides)
+- Sugary foods and drinks: Soda, sweets (increase triglycerides)
+- Alcohol excess: Raises triglycerides and blood pressure
+- Full-fat dairy: Whole milk, cream, butter (use low-fat alternatives)
+- Coconut oil: High saturated fat (contrary to recent hype)
+- Processed meats: Sausage, salami, bacon (high saturated fat + sodium)
+
+DIETARY PATTERNS FOR CHOLESTEROL REDUCTION:
+- Mediterranean diet: Most studied and effective (30% CV risk reduction)
+- DASH diet: For cholesterol + hypertension
+  
+KEY PRINCIPLES:
+- Reduce saturated fat to <7% of daily calories (about 15g/day if 2000 cal)
+- Increase fiber to 10g/day minimum from soluble sources
+- Increase plant-based foods
+- Use healthy oils (olive, canola)
+
+LIFESTYLE MODIFICATIONS (Usually tried before medication):
+- Weight loss: 5-10% reduction improves cholesterol
+- Exercise: 150 minutes moderate activity weekly, raises HDL 3-5%
+- Smoking cessation: Raises HDL
+- Mediterranean diet: Most effective dietary approach
+- Stress management: Chronic stress increases cholesterol
+- Sleep: 7-9 hours nightly (poor sleep raises cholesterol)
+
+EXERCISE RECOMMENDATIONS:
+- Aerobic: 150 min/week moderate intensity (walking, cycling, swimming)
+- Strength: 2-3 times/week (raises HDL)
+- Flexibility: Daily stretching
+- Combined approach most effective
+
+MONITORING:
+- Baseline lipid panel before starting statin
+- Recheck 4-12 weeks after starting statin or dose change
+- Annual monitoring once at goal
+- LFTs (liver function) at baseline and periodically with statin
+- CK (creatine kinase) only if muscle symptoms develop
+
+GOALS (LDL target depends on risk):
+- Low risk: LDL < 160 mg/dL
+- Moderate risk: LDL < 130 mg/dL
+- High risk (diabetes, prior MI): LDL < 100 mg/dL
+- Very high risk (prior MI + other risk factors): LDL < 70 mg/dL
+
+WHEN TO SEEK DOCTOR:
+- Muscle pain or weakness while on statin (myalgia)
+- Persistent nausea, abdominal pain
+- Jaundice (yellowing of skin/eyes) — liver problem
+- Not achieving target cholesterol after 3 months of treatment
+
+SPECIAL CONSIDERATIONS:
+- Genetic: Familial hypercholesterolemia (FH) very high cholesterol from birth — requires aggressive treatment
+- Pregnancy: Stop statin during pregnancy (risks with ACE inhibitors); resume post-breastfeeding
+- Elderly: Benefits of statin still present; goal is individualized
+- Diabetes: Always treat cholesterol (high CV risk)

@@ -1,0 +1,180 @@
+DISEASE: Anemia (Iron Deficiency Anemia)
+CATEGORY: Hematological / Metabolic
+ICD-10: D50
+SEVERITY: Mild-Moderate usually treatable; severe anemia is serious
+
+DESCRIPTION:
+Anemia occurs when there are insufficient healthy red blood cells (RBCs) to carry oxygen
+to body tissues. Iron deficiency anemia is the most common type globally, caused by low iron stores.
+Blood with low hemoglobin cannot carry adequate oxygen, causing fatigue and weakness.
+Common causes: Poor diet, blood loss, pregnancy, malabsorption.
+
+CAUSES OF IRON DEFICIENCY ANEMIA:
+- Insufficient iron in diet (vegetarian, low meat intake)
+- Chronic blood loss: Heavy menstrual bleeding, GI bleeding (ulcers, hemorrhoids)
+- Poor absorption: Celiac disease, Crohn's disease, surgical removal of part of intestine
+- Pregnancy and breastfeeding: Increased iron demands
+- Blood donation frequency: Especially in regular donors
+- Parasitic infections: Hookworm (common in India)
+- Medications: Some reduce iron absorption
+
+SYMPTOMS (depend on severity & speed of onset):
+MILD ANEMIA (Hemoglobin 10-12 g/dL):
+- Often no symptoms initially
+- Mild fatigue with strenuous activity
+- Slight shortness of breath with exertion
+
+MODERATE ANEMIA (Hemoglobin 7-10 g/dL):
+- Fatigue and weakness (most common)
+- Shortness of breath with normal activity
+- Dizziness and lightheadedness
+- Frequent headaches
+- Pale skin and pale inner eyelid (conjunctiva)
+- Pale nail beds
+- Cold hands and feet
+- Rapid or irregular heartbeat
+- Difficulty concentrating ("brain fog")
+- Irritability
+- Sore or swollen tongue (glossitis)
+- Difficulty swallowing (dysphagia)
+
+SEVERE ANEMIA (Hemoglobin < 7 g/dL):
+- Severe shortness of breath even at rest
+- Chest pain or pressure
+- Severe fatigue — difficulty doing basic tasks
+- Fainting
+- Tachycardia (rapid heart rate > 100 bpm)
+- Heart palpitations
+- Mental confusion
+- RISK: Heart failure if untreated
+
+CURIOUS SYMPTOMS OF IRON DEFICIENCY:
+- Pica: Craving non-food items (ice, dirt, chalk) — indicates severe deficiency
+- Restless leg syndrome: Uncomfortable sensation in legs at night
+
+DIAGNOSIS:
+- Hemoglobin level: Normal 13.5-17.5 g/dL (men), 12-15.5 g/dL (women)
+- Iron studies: Serum ferritin, serum iron, TIBC
+- Mean corpuscular volume (MCV): Low in iron deficiency
+- If below 12 g/dL or symptoms present: Medical evaluation needed
+
+MEDICATIONS USED:
+
+IRON SUPPLEMENTS:
+1. IRON FERROUS SULFATE (Oral)
+   - First-line treatment
+   - Dosage: 325 mg (65 mg elemental iron) once daily, preferably morning
+   - Best absorbed on empty stomach, but can take with food if GI upset
+   - Take with vitamin C (orange juice) for better absorption
+   - Brand names: Ferroglobin, Hemalate, Ferofort
+   - SIDE EFFECTS: Dark colored stools (normal), constipation, abdominal discomfort
+   - Takes 2-4 weeks to see improvement, 2-3 months for full response
+
+2. IRON FERRIC HYDROXIDE POLYMALTOSE
+   - Better tolerated, fewer GI side effects
+   - Dosage: 100-200 mg once daily
+   - Brand names: Avaglim, Hemobax
+
+3. IRON INTRAVENOUS (IV)
+   - For severe anemia (Hb < 5 g/dL)
+   - For patients unable to tolerate oral iron
+   - Faster response than oral supplements
+   - Used in hospitals
+
+VITAMIN AND MINERAL SUPPLEMENTS:
+4. VITAMIN B12 (Cyanocobalamin)
+   - Often low with iron deficiency
+   - Dosage: 500-1000 mcg daily or weekly injections
+   - Brand names: Cycobal, Neurobion
+
+5. FOLIC ACID
+   - Works with iron to build RBCs
+   - Dosage: 1-5 mg daily
+   - Important in pregnancy
+
+6. VITAMIN C (Ascorbic Acid)
+   - Enhances iron absorption
+   - 100-200 mg daily with iron supplement
+   - Take together, any time
+
+TREATMENT OF UNDERLYING CAUSE:
+- If heavy menstrual bleeding: Hormonal birth control may help
+- If GI bleeding: Treat ulcers, control hemorrhoids
+- If poor diet: Dietary counseling
+
+MEDICATIONS THAT REDUCE IRON ABSORPTION:
+- Antacids: Reduce stomach acid (needed for iron absorption)
+- Proton pump inhibitors (PPI): Reduce acid further
+- Tetracycline antibiotics: Can bind to iron, inhibit absorption
+- Calcium supplements: If taken at same time as iron, reduce absorption
+
+IRON-RICH FOODS (most important!):
+- Red meat / Gosht: Highest iron content, best absorbed form (heme iron)
+- Chicken / Murgh: Moderate iron, enhances absorption of plant iron
+- Liver / Kaleja: Extremely high iron and B vitamins
+- Spinach / Palak: High iron (though some binds to oxalates)
+- Beans and lentils / Dal: Good source, but pair with meat to enhance absorption
+- Fortified cereals and grains
+- Pumpkin seeds / Kaddu ke beej: High iron
+- Cashews / Kaju: Moderate iron
+- Dates / Khajoor: Good sweet source
+- Raisins / Kishmish: Dried fruits concentrate iron
+- Eggs: Moderate iron (yolk), enhances plant iron absorption
+
+VEGETARIAN IRON SOURCES (plant-based/non-heme):
+- Legumes: Chickpeas / Chana, red lentils / Masoor
+- Leafy greens: Cooked spinach (cooking reduces oxalates that block iron)
+- Seeds: Sesame / Til, pumpkin, beetroot leaves
+- Whole grains: Brown rice, oats
+- Dried fruits: Apricots, prunes
+- Molasses (unsulfured)
+BOOST ABSORPTION: Eat with vitamin C (citrus), meat, or fish
+
+FOODS THAT REDUCE IRON ABSORPTION (avoid with iron-rich meals):
+- Tea and coffee: Tannins bind iron, reduce absorption
+- Calcium supplements: If taken simultaneously (separate by 2 hours)
+- Whole grains and high-fiber foods: Phytates bind iron when eaten together
+- Red wine (tannins)
+- Dairy excess: Less of a problem, but can interfere
+
+FOODS TO STRICTLY AVOID DURING TREATMENT:
+- Avoid restricting diet — ANY iron helps
+- Alcohol excess: Damages liver, reduces iron metabolism
+- Just avoid combining iron-blocking foods with iron-rich meals
+
+SPECIAL DIETARY COMBINATIONS FOR MAXIMUM ABSORPTION:
+- Spinach + Citrus (orange juice): Vitamin C enhances iron absorption
+- Lentils + Meat: Meat enhances plant iron absorption (heme iron enhances non-heme)
+- Red meat + Green vegetables: Best combination
+- Pulses + Vegetables: Daily combinations improve overall iron intake
+
+LIFESTYLE MODIFICATIONS:
+- Regular exercise: Promotes red blood cell production
+- Adequate sleep: 7-9 hours nightly
+- Stress reduction: Chronic stress impairs iron absorption
+
+PREGNANCY-SPECIFIC:
+- Iron requirements double during pregnancy (from 8 mg to 27 mg/day)
+- Universal iron supplementation recommended 3rd trimester
+- Anemia in pregnancy increases risk of preterm delivery and low birth weight
+- Postpartum hemorrhage risk higher if anemic during pregnancy
+
+MONITORING TREATMENT:
+- Hemoglobin checked 6-8 weeks after starting treatment
+- Should increase 1 g/dL every 2-3 weeks
+- After reaching normal, continue low-dose iron for 3 months to replete stores
+- Annual monitoring for someone with history of deficiency
+
+WHEN TO SEEK DOCTOR:
+- Persistent fatigue despite treatment (may indicate another cause)
+- GI symptoms: Severe constipation, abdominal pain
+- New symptoms: Chest pain, severe shortness of breath
+- Not improving after 2 months of treatment
+- For severe anemia: Hemoglobin < 7 g/dL
+
+SPECIAL CONSIDERATIONS:
+- Children: Can develop developmental delays if severely anemic
+- Elderly: May have underlying GI bleeding — investigate cause
+- Women of childbearing age: Screen regularly if heavy periods
+- Vegetarians: Need higher iron intake, consider supplementation
+- Chronic kidney disease: Leads to anemia (different cause, different treatment)

@@ -1,0 +1,219 @@
+DISEASE: Gastric Ulcer / Peptic Ulcer Disease (PUD)
+CATEGORY: Gastrointestinal
+ICD-10: K25 (gastric ulcer), K26 (duodenal ulcer)
+SEVERITY: Mild-Moderate; can be serious if complicated (bleeding, perforation)
+
+DESCRIPTION:
+Peptic ulcer disease is erosion of mucosa (inner lining) of stomach or duodenum creating open sore.
+Caused primarily by H. pylori infection (60%) or NSAIDs (25%). Can cause pain, bleeding, perforation.
+Once common, now less frequent in developed countries due to H. pylori treatment. Still significant in India.
+
+CAUSES:
+
+H. PYLORI INFECTION (Most common — ~60%):
+- Gram-negative bacterium colonizing stomach
+- Transmitted via contaminated food/water, poor hygiene
+- Causes chronic inflammation
+
+NSAID use (25%):
+- Aspirin, Ibuprofen, Diclofenac, Naproxen
+- Damage protective mucus layer and reduced PG synthesis
+
+RARE CAUSES:
+- Zollinger-Ellison syndrome: Gastrin-secreting tumor
+- Stress ulcers: From severe stress (now rare)
+- Crohn's disease: GI inflammation
+
+SYMPTOMS:
+
+PAIN:
+- Epigastric (upper abdominal) pain: Below ribs, center
+- Quality: Burning, gnawing, aching
+- Timing: Often 2-3 hours after eating or at night
+- Duration: Minutes to hours
+- Trigger: Foods, stress, NSAIDs
+- Relief: Food, antacids (initially, but worsens for duodenal ulcers with eating)
+
+GASTROINTESTINAL:
+- Nausea and vomiting
+- Loss of appetite
+- Early satiety: Feeling full quickly
+- Bloating and gas
+- Heartburn/regurgitation
+
+SIGNS OF COMPLICATIONS:
+- Severe pain: Sudden onset, severe (possible perforation)
+- Vomiting blood (hematemesis): Dark coffee-ground appearance
+- Melena: Black, tarry stools (upper GI bleeding)
+- Severe anemia symptoms: Fatigue, shortness of breath
+
+DIAGNOSIS:
+- H. pylori testing: Urea breath test (most sensitive), stool antigen, serology
+- Upper endoscopy (esophagogastroduodenoscopy / EGD): Direct visualization
+  * Gold standard, can biopsy, treat
+- Barium X-ray: Less common now (less diagnostic)
+- Gastric pH testing: Assess acid level
+
+MEDICATIONS USED:
+
+FOR H. PYLORI INFECTION (Triple or Quadruple therapy):
+1. OMEPRAZOLE (PPI)
+   - Dosage: 20 mg twice daily for 10-14 days
+   - PLUS:
+   
+2. AMOXICILLIN
+   - Dosage: 1000 mg twice daily for 10-14 days
+   - PLUS:
+
+3. CLARITHROMYCIN (Macrolide antibiotic)
+   - Dosage: 500 mg twice daily for 10-14 days
+   
+   [TRIPLE THERAPY — success rate ~80-85%]
+
+ALTERNATIVE (Quadruple therapy — higher success):
+1. Omeprazole: 20 mg twice daily
+2. Bismuth subsalicylate: 525 mg four times daily
+3. Metronidazole: 500 mg three times daily
+4. Tetracycline: 500 mg four times daily
+   [14 days — success rate ~90%]
+
+AFTER H. PYLORI ERADICATION:
+4. ACID SUPPRESSION (Continue for 4 weeks):
+   - Omeprazole: 20 mg once daily
+   - OR Lansoprazole: 30 mg once daily
+   - To allow ulcer healing
+
+FOR NSAID-INDUCED ULCER:
+- Stop NSAID (if possible)
+- Use PPI for 4-8 weeks for healing
+- Omeprazole: 20-40 mg daily (doubled dose)
+- Together with H2-blocker initially if severe
+
+SYMPTOM RELIEF:
+5. H2-RECEPTOR ANTAGONISTS (Less potent than PPI, for symptom relief):
+   - Ranitidine: 150 mg twice daily
+   - Famotidine: 20 mg twice daily
+
+ANTACIDS (For temporary relief):
+6. CALCIUM CARBONATE or ALUMINUM HYDROXIDE
+   - As needed for pain (up to 3-4 times daily)
+   - Works within 30 minutes but short duration (1-3 hours)
+
+PROTECTIVE AGENT:
+7. SUCRALFATE
+   - Dosage: 1 gram four times daily (1 hour before meals and bedtime)
+   - Creates protective coating over ulcer
+   - Takes 4-8 weeks for healing
+   - CAUTION: Interferes with absorption of other medications (take separately)
+
+PROKINETICS (If gastroparesis):
+8. METOCLOPRAMIDE
+   - Dosage: 10 mg three times daily before meals
+   - Enhances gastric emptying
+
+MEDICATIONS TO AVOID:
+- NSAIDs: If ulcer active; use acetaminophen for pain instead
+- Aspirin: Avoid during active ulcer
+- Steroids: Can worsen ulcer
+- Potassium chloride supplements: Can cause ulceration (if needed, use liquid/diluted)
+
+FOODS TO EAT:
+- Milk: Buffering effect (controversial, but generally safe moderation)
+- Plain yogurt / Dahi: Probiotics, calcium
+- Lean meats: Chicken, fish, turkey
+- Eggs: Gentle protein
+- Whole grains: Brown rice, whole wheat (fiber)
+- Legumes / Dal: Protein
+- Leafy greens / Palak, methi: Nutrients
+- Bananas: Soothing, potassium
+- Apples: Gentle fruit
+- Honey / Shahad: Antimicrobial, soothing
+- Turmeric / Haldi: Anti-inflammatory
+- Ginger / Adrak: Anti-inflammatory, improves digestion
+- Cabbage juice: Traditional remedy (antacid properties)
+- Garlic / Lahsun: Antimicrobial (but trigger for some people)
+- Licorice: DGL (deglycyrrhizinated) helps healing (not raw licorice)
+
+FOODS TO STRICTLY AVOID:
+- Coffee: Stimulates acid production (even decaf)
+- Chocolate: Cocoa stimulates acidic secretion
+- Citrus fruits: Orange, lemon (acidic)
+- Tomato and tomato products: Highly acidic
+- Spicy foods: Chili peppers, excess spices (trigger pain)
+- Fatty/fried foods: Delay gastric emptying, trigger acid
+- Alcohol: Irritates lining, increases acid
+- Caffeine: In tea, cola (stimulates acid)
+- Milk (excess): Can rebound with more acid
+- Refined sugars: Impairs healing
+- Carbonated beverages: Increase bloating, acid irritation
+- High-fat dairy: Full-fat cheese, cream (delay emptying)
+
+LIFESTYLE MODIFICATIONS:
+- Small, frequent meals: 5-6 small instead of 3 large
+- Avoid eating within 3 hours of bedtime: Increases nighttime acid
+- Stress reduction: Stress increases acid
+- Smoking cessation: Smoking increases acid, impairs healing
+- Limit alcohol: Or eliminate
+- Avoid NSAIDs: Or use lowest dose shortest duration with PPI protection
+- Elevate head of bed: 6 inches (reduces nocturnal acid reflux)
+- Avoid lying down after eating
+- Chew gum: Increases saliva (buffering effect) — sugar-free only
+- Manage stress: Meditation, yoga, exercise
+- Regular exercise: But not immediately after eating
+
+SPECIAL RECOMMENDATIONS:
+- Monitor symptoms: Even after treatment starts
+- Repeat H. pylori testing: 4 weeks after eradication therapy (confirm success)
+- Avoid re-infection: Hygiene practices, safe water in endemic areas
+
+WHEN TO SEEK URGENT ATTENTION:
+- Severe, sudden epigastric pain: Possible perforation
+  [SEEK EMERGENCY CARE IMMEDIATELY]
+- Vomiting blood (hematemesis): Upper GI bleeding
+  [SEEK EMERGENCY CARE IMMEDIATELY]
+- Black, tarry stools (melena): Upper GI bleeding
+  [SEEK EMERGENCY CARE IMMEDIATELY]
+- Signs of shock: Lightheadedness, rapid heart rate (from bleeding)
+  [SEEK EMERGENCY CARE IMMEDIATELY]
+
+WHEN TO SEE DOCTOR:
+- Epigastric pain >1 week
+- Symptoms not improving on antacids
+- Suspect H. pylori: Test and treatment if positive
+- Starting NSAID long-term: May need PPI prophylaxis
+- Severe pain: Need evaluation to rule out other causes
+
+COMPLICATIONS (If untreated):
+- Bleeding: From eroded blood vessels (hematemesis, melena)
+  * Can cause severe anemia
+  * Requires endoscopy for hemostasis
+- Perforation: Ulcer erodes through full thickness
+  * Sudden, severe pain
+  * Abdominal rigidity
+  * Peritonitis (life-threatening)
+  * Requires emergency surgery
+- Penetration: Ulcer erodes into adjacent organs (pancreas)
+  * Severe pain
+  * Elevated amylase
+- Obstruction: From scarring/strictures (rare now)
+  * Vomiting, early satiety
+  * May need surgery
+
+HEALING TIMELINE:
+- H. pylori treatment: Takes 10-14 days
+- Ulcer healing: 4-8 weeks after treatment starts
+- Symptom relief: Days to weeks (may persist even after ulcer heals)
+
+MONITORING:
+- Symptom improvement: Should see within 1-2 weeks
+- If not improving: Repeat testing for H. pylori, reassess diagnosis
+- Follow-up endoscopy: Generally NOT needed if H. pylori test confirms eradication
+- NSAID users: May need prophylactic PPI (discuss with doctor)
+
+SPECIAL CONSIDERATIONS:
+- H. pylori treatment compliance: Must take all antibiotics (don't stop early)
+- Antibiotic resistance: Increasing; some treatments failing (use recommended regimens)
+- Pregnancy: Most PPI/H2 blockers safe; bismuth-based therapy avoided
+- Elderly: Higher risk of complications, medication interactions
+- Chronic kidney disease: Dosing adjustment needed for many medications
+- Smoking: Doubles healing time, increases complications

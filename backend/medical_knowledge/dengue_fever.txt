@@ -1,0 +1,193 @@
+DISEASE: Viral Fever / Dengue Fever
+CATEGORY: Infectious / Viral
+ICD-10: A90 (Dengue), A91 (Hemorrhagic dengue)
+SEVERITY: Mild-Severe; can be life-threatening (dengue hemorrhagic fever)
+
+DESCRIPTION:
+Dengue fever is a mosquito-borne viral disease transmitted by Aedes mosquito (daytime biter).
+Endemic in tropical regions including India. Caused by one of 4 dengue virus serotypes. Can range
+from asymptomatic to severe dengue hemorrhagic fever (DHF) with shock. Most common arboviral disease
+affecting humans globally.
+
+TRANSMISSION:
+- Aedes aegypti mosquito: Daytime biter (unlike malaria mosquito)
+- Peak biting: Early morning and late afternoon
+- From infected person: Female mosquito bites, virus replicates in mosquito salivary glands
+- No person-to-person transmission (except rarely transplacental)
+- No animal reservoir: Humans main source
+
+SYMPTOMS:
+
+DENGUE FEVER (Classic):
+- Fever: Biphasic pattern (high fever 103-105°F / 39.4-40.5°C)
+  * Phase 1 (Days 1-3): High fever, chills, malaise
+  * Defervescence (Days 4-5): Fever drops, "critical period"
+  * Phase 2 (Days 6-8): Fever may return ("saddle-back fever pattern")
+- Headache: Severe, frontal, retro-orbital (behind eyes)
+- Eye pain: Pronounced ("break-bone fever" — severe pain)
+- Myalgia: Severe muscle/joint pain (worse in back, legs)
+- Arthralgia: Joint pain
+- Rash: Typically appears days 3-5 after fever onset
+  * Initially sparse maculopapular rash on trunk/limbs
+  * May involve face ("flushed" appearance)
+  * Can desquamate (peel) later
+- Nausea and vomiting
+- Loss of appetite
+- General malaise
+
+CRITICAL PERIOD (Days 4-7):
+- As fever resolves: Risk of plasma leakage, bleeding complications
+- Warning signs (need immediate attention):
+  * Persistent vomiting
+  * Severe abdominal pain
+  * Bleeding (gums, nose, skin, vomit/stool)
+  * Lethargy or restlessness
+  * Liver enlargement
+  * Rapid drop in platelet count + hematocrit rise
+
+DENGUE HEMORRHAGIC FEVER (DHF) — SEVERE:
+- All classic dengue symptoms PLUS:
+- Hemorrhagic manifestations:
+  * Petechiae: Small red/purple spots from bleeding
+  * Ecchymoses: Larger bruises/bleeding
+  * Bleeding from gums, nose (epistaxis), GI bleeding
+  * Hematuria: Blood in urine
+- Shock (dengue shock syndrome): Circulatory collapse
+  * Hypotension
+  * Rapid, weak pulse
+  * Cool skin
+  * Restlessness or lethargy
+  * Metabolic acidosis
+- Mortality: 5-10% untreated, <1% with supportive care
+
+DIAGNOSIS:
+- Dengue IgM antibody: Positive in acute phase (PCR more specific early on)
+- Platelet count: Thrombocytopenia (usually mild)
+- Hematocrit: Elevated (hemoconcentration from plasma leakage)
+- Liver enzymes: Transient elevation
+- Rapid diagnostic tests: Available
+
+MEDICATIONS USED (Supportive care only — no antiviral):
+
+NO SPECIFIC ANTIVIRAL:
+- Unlike bacterial infections, dengue is viral
+- No medication kills the virus
+- Treatment is supportive (help body fight it)
+
+PAIN AND FEVER MANAGEMENT:
+1. PARACETAMOL
+   - Dosage: 500 mg every 6 hours (max 2g/day)
+   - For fever and pain relief
+   - Brand names: Crocin, Dolo
+   - PREFERRED over NSAIDs (see below)
+
+AVOID THESE (IMPORTANT):
+- NSAIDs (Ibuprofen, Diclofenac, Naproxen): CONTRAINDICATED
+  * Increase bleeding risk in dengue
+  * Increase GI bleeding risk
+  * Can worsen symptoms
+  * STICK TO PARACETAMOL ONLY
+
+- Aspirin: Also increases bleeding risk
+
+SUPPORTIVE CARE:
+2. FLUID REPLACEMENT (Most important)
+   - Oral rehydration: If mild, able to drink
+     * ORS (Oral Rehydration Solution): 1 liter per day
+     * Or: Frequent small sips of water, juice, electrolyte drinks
+   - IV fluids: If severe, unable to drink, hemorrhagic features
+     * Normal saline or Ringer's lactate
+     * Depends on degree of dehydration/shock
+   - MONITOR: Urine output (should be adequate, not dark)
+
+3. BLOOD PRODUCTS (If hemorrhage/shock):
+   - Platelet transfusion: If critical bleeding or very low platelets
+   - Fresh frozen plasma: For coagulation support
+   - Packed RBCs: If significant hemorrhage/anemia
+
+FOODS TO EAT (Recovery support):
+- Water and oral rehydration: PRIMARY treatment
+- Fruits: Papaya (believed to support platelet count — no scientific proof but culturally used)
+- Citrus fruits: Orange, sweet lime (vitamin C)
+- Leafy greens / Palak, methi: Vitamins, minerals
+- Protein: Chicken, eggs, fish (rebuild from illness)
+- Coconut water: Natural electrolytes
+- Light broths: Nourishing, hydrating
+- Bananas: Potassium for electrolyte balance
+- Pomegranate: Iron, antioxidants
+- Whole grains: Brown rice, oats
+- Nuts and seeds: Magnesium
+- Honey: Energy
+
+FOODS TO AVOID:
+- High sugar foods: Strain body during recovery
+- Spicy foods: Initially irritating to inflamed mouth/throat
+- Greasy/fried foods: Difficult digestion during illness
+- Alcohol: Dehydrating, stressful on liver
+
+HYDRATION (CRITICAL):
+- Drink continuously: Even small sips
+- ORS preferred: Commercial packets or homemade
+- Monitor: Dark urine suggests inadequate hydration
+- Avoid: Caffeine (diuretic)
+
+WHEN TO SEEK URGENT ATTENTION:
+- Severe abdominal pain
+- Persistent vomiting (unable to keep fluids down)
+- Bleeding: From gums, nose, skin, vomit/stool
+- Lethargy or decreased consciousness
+- Rapid breathing
+- Very cold skin with drenching sweats
+- Seizures
+- Dropping platelet count (if known)
+- Suspected dengue shock syndrome
+[SEEK EMERGENCY CARE IMMEDIATELY FOR SEVERE SYMPTOMS]
+
+WHEN TO SEE DOCTOR:
+- Suspected dengue (fever + headache + myalgia + rash)
+- Day 4-7: Critical period (highest risk for deterioration)
+- Not improving after 3-5 days
+- Bleeding symptoms
+- Persistent vomiting
+- Anyone suspected dengue should be monitored closely
+
+COMPLICATIONS:
+- Dengue hemorrhagic fever: Intrinsic to dengue, higher with secondary infection
+- Dengue shock syndrome: Circulatory collapse, mortality high without treatment
+- Acute liver failure: Rare but possible
+- Encephalitis: CNS involvement (rare)
+- Myocarditis: Heart involvement (rare)
+- Pregnancy: Increased risk of fetal loss
+
+PREVENTION:
+- Mosquito avoidance: Most important
+  * Insect repellent: DEET-containing (25-30%)
+  * Long sleeves and pants: Especially early morning/late afternoon
+  * Window screens: Air conditioning if available
+  * Avoid stagnant water: Mosquito breeding sites
+- Dengue vaccine (Dengvaxia): Available in some countries (approved in India for age ≥9 years)
+  * Requires serological confirmation of prior dengue (not for naive individuals)
+  * 3 doses given
+  * Reduces symptomatic dengue by ~60%
+
+MONITORING:
+- Daily assessment: During acute phase, especially days 4-7
+- CBC: Watch platelet count trends
+- Hematocrit: Rising hematocrit suggests plasma leakage
+- Vitals: BP, HR (signs of shock)
+- Urine output: Indicator of hydration
+
+RECOVERY:
+- Prolonged fatigue: Common, can last weeks
+- Usually improvements in 7-10 days
+- Return to activities gradually
+- Inadequate rest increases relapse risk
+
+SPECIAL CONSIDERATIONS:
+- Secondary infection: Same serotype (homologous) provides lifelong immunity
+  * Different serotype (heterologous): Increases DHF risk (pathologic immunity)
+  * 2-5 times higher DHF risk with secondary dengue infection
+- Pregnancy: Vertical transmission rare; increased complications in pregnant women
+- Children: Milder symptoms often; better outcome
+- Elderly: More severe disease, worse outcomes
+- Preexisting conditions: Diabetes, heart disease increase severity

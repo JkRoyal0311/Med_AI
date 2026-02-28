@@ -1,0 +1,227 @@
+DISEASE: Appendicitis (Acute Appendicitis)
+CATEGORY: Gastrointestinal / Surgical Emergency
+ICD-10: K35
+SEVERITY: Serious; surgical emergency if not treated
+
+DESCRIPTION:
+Appendicitis is acute inflammation of appendix (small tube attached to colon). Classic surgical
+emergency. Most common indication for emergency abdominal surgery. Can progress to perforation,
+peritonitis, sepsis if untreated. Classic presentation with periumbilical pain relocating to RLQ.
+Diagnosis confirmed with imaging. Treatment is emergency appendectomy.
+
+PATHOPHYSIOLOGY:
+- Appendiceal obstruction: Lymphoid hyperplasia, fecal impaction, stricture, tumor
+- Increased intraluminal pressure: Leads to bacterial translocation
+- Mucosal ulceration: Bacterial invasion
+- Inflammation/infection: If untreated, gangrene and perforation
+- Perforation: Spills bacteria into peritoneal cavity (peritonitis)
+
+RISK FACTORS:
+- Young age: Peak 10-30 years (can occur any age, rare <5)
+- Male: Slight predominance
+- Family history: Rare
+- Genetics: Some familial clustering
+- Lymphoid hyperplasia: Post-viral infections (preceding URI common)
+- Increased lymphoid tissue: Foods with seeds increasing obstruction (debated)
+
+SYMPTOMS:
+
+CLASSIC PRESENTATION (Migrating pain):
+- Initial: Periumbilical (around belly button) pain
+  * Dull, crampy
+  * Lasts 2-12 hours
+  * Often accompanies nausea/vomiting
+- Then migrates to RLQ (right lower quadrant)
+  * Below inguinal ligament, medial to anterior superior iliac spine
+  * McBurney's point: Most tender area (one-third distance from anterior superior iliac spine to umbilicus)
+  * Pain becomes sharp, constant
+  * Worsened by movement, coughing, defecation
+
+ASSOCIATED SYMPTOMS:
+- Nausea and vomiting: 70-80% (usually after pain onset)
+- Fever: Usually mild (37.5-38.5°C) — high fever suggests perforation
+- Loss of appetite
+- Possible diarrhea or constipation
+- Urinary symptoms: If inflamed appendix near ureter
+
+ATYPICAL PRESENTATIONS (More difficult diagnosis):
+- Retrocecal appendix: Pain back/flank (not classically RLQ)
+- Pelvic appendix: Suprapubic pain, diarrhea
+- Left-sided: Very rare anatomical variation
+- Pregnant women: Appendix displaced upward by pregnancy
+- Elderly: Often subtle symptoms, delay in diagnosis
+
+SEVERE/PERFORATED (Emergency):
+
+- Sudden relief of pain (misleading — actually perforation!)
+  * Before generalized peritonitis develops
+- Then diffuse abdominal pain
+- Severe, generalized tenderness
+- Rigid abdomen: Hard, board-like ("surgical abdomen")
+- Fever: Usually higher >38.5°C
+- Septic appearance: Tachycardia, hypotension
+- Shock: If advanced peritonitis
+
+DIAGNOSIS:
+
+CLINICAL EXAM:
+- McBurney's point tenderness: Classic location
+- Rebound tenderness: Pain worse when pressing then releasing (peritoneal irritation)
+- Guarding: Involuntary muscle tension
+- Rovsing's sign: RLQ pain with LLQ palpation (visceral peritoneal irritation)
+- Psoas sign: Pain with hip extension (psoas muscle inflamed)
+- Obturator sign: Pain with hip internal rotation (obturator internus inflamed)
+
+IMAGING (Gold standard):
+- CT abdomen/pelvis: 95% sensitivity, specifically shows:
+  * Thickened appendiceal wall
+  * Appendiceal distension
+  * Periappendiceal inflammatory changes
+  * Fat stranding
+  * Fluid collection (if perforation/abscess)
+  * Best modality
+- Ultrasound: Operator-dependent, may miss
+  * Shows inflamed appendix (non-compressible, >6 mm diameter)
+  * Good for children, pregnant women (no radiation)
+- MRI: Useful in pregnancy (best safety profile)
+
+LABORATORY:
+- CBC: WBC elevation (usually 10,000-18,000) — not always present
+- CRP: Elevated (marker of inflammation)
+- Pregnancy test: In women of reproductive age (to guide imaging)
+- Urinalysis: Rule out UTI/kidney stone (similar pain)
+
+DIFFERENTIAL DIAGNOSIS (Important to consider):
+- Mesenteric adenitis: Viral inflammation of mesenteric lymph nodes
+  * Similar presentation, resolves conservatively
+  * Discovered on imaging as appendix normal
+- Crohn's disease: Ileitis mimicking appendicitis
+- Gastroenteritis: Viral gastroenteritis
+- Pelvic inflammatory disease (Women): PID, ovarian pathology
+- Kidney stone: Renal colic
+- Ectopic pregnancy: Women reproductive age
+
+MEDICATIONS USED:
+
+PREOPERATIVE:
+1. PAIN MANAGEMENT:
+   - Morphine: IV 2-4 mg every 2-4 hours
+   - Fentanyl: IV 25-50 mcg for acute pain
+   - Modern practice: Analgesia doesn't mask diagnosis if imaging done
+
+2. ANTIEMETICS:
+   - Ondansetron: IV 4 mg for nausea
+   - Metoclopramide: IV 10 mg
+
+3. IV FLUIDS:
+   - Normal saline: Large-bore IV
+   - Replace dehydration from vomiting
+   - NPO (nothing by mouth) until surgery
+
+4. PROPHYLACTIC ANTIBIOTICS:
+   - Ceftriaxone: 1-2 g IV every 8-12 hours
+   - Metronidazole: 500 mg IV every 6-8 hours
+   - OR: Piperacillin-tazobactam single-agent
+   - To reduce post-op infection risk
+
+PERIOPERATIVE:
+5. ANESTHESIA:
+   - General anesthesia with intubation
+   - Agents: Propofol, sevoflurane, etc. (anesthesiologist choice)
+
+6. OPERATIVE:
+   - APPENDECTOMY: Surgical removal of appendix
+   - Open: Standard midline/gridiron incision (becoming less common)
+   - Laparoscopic: 2-3 small incisions (current standard)
+     * Faster recovery
+     * Less pain
+     * Better visualization
+   - Single-port: Emerging technique via umbilicus
+
+POSTOPERATIVE:
+7. PROPHYLACTIC ANTIBIOTICS:
+   - Continue 24 hours post-op (or 48 hours if perforated)
+   - Cefazolin: Standard gram-positive coverage
+   - Metronidazole: If anaerobic coverage needed
+
+8. PAIN MANAGEMENT:
+   - IV opioids initially: Morphine, hydromorphone
+   - Transition to oral acetaminophen/NSAIDs
+   - Usually discharged to acetaminophen + codeine or similar
+
+FOODS (Post-operative):
+
+IMMEDIATELY AFTER SURGERY:
+- NPO: Until bowel function returns
+- IV fluids: Until ready for oral intake
+- Clear liquids: Once GI sounds return
+- Gradual advancement: To regular diet over days
+
+POST-HOSPITALIZATION:
+- Light meals initially
+- Gradually resume normal diet
+- Fiber: To prevent constipation post-op
+- Hydration: Important for recovery
+
+LIFESTYLE POST-OP:
+- Activity restriction: 1-2 weeks avoiding strenuous activity
+- Wound care: Keep incision clean, dry
+- Suture removal: 7-10 days post-op (if non-absorbing)
+- Return to work: 1-2 weeks for light duty, 4-6 weeks full activity
+
+WHEN TO SEEK EMERGENCY ATTENTION:
+[APPENDICITIS IS SURGICAL EMERGENCY — SEEK IMMEDIATE CARE IF SUSPECTED]
+
+Classic presentation RLQ pain + fever + vomiting:
+- CALL 911 / GO TO ER IMMEDIATELY
+- Do not eat/drink (NPO before surgery)
+- Do not apply heating pad (increases risk of perforation)
+
+COMPLICATIONS:
+
+PERFORATION (5-7% if diagnosis delayed):
+- Appendix ruptures into peritoneal cavity
+- Generalized peritonitis (life-threatening)
+- Sepsis, septic shock possible
+- Mortality: 5-10% if perforation (0.1-0.3% if uncomplicated)
+- Treatment: Emergency surgery, post-op antibiotics 7-14 days
+
+ABSCESS:
+- Walled-off infection from perforated appendix
+- Pain, fever persist post-op
+- May need percutaneous drainage
+- Can be managed conservatively with antibiotics in some cases
+
+PERITONITIS:
+- Diffuse peritoneal inflammation
+- Medical emergency requiring immediate surgery
+- Signs: Severe pain, rigid abdomen, fever, shock
+
+PROGNOSIS:
+- Uncomplicated appendicitis: >99% survival with appendectomy
+- 1-2 day hospital stay typical
+- Full recovery 4-6 weeks
+- Perforation: 5-10% mortality if delayed treatment
+
+WHEN TO SEE DOCTOR (Before emergency):
+- RLQ pain lasting >6 hours
+- Pain migrating from periumbilical to RLQ
+- Pain worsening
+- Associated fever, vomiting
+- Any concern: Getting imaging study ensures diagnosis
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Appendicitis still common during pregnancy
+  * Difficult diagnosis (displaced appendix, mimics pregnancy pain)
+  * Ultrasound/MRI preferred over CT (radiation concern)
+  * Appendectomy still safe if diagnosed; misdiagnosis risks fetal loss
+- Children: Present differently (more diffuse, less classic history)
+- Elderly: Atypical presentation, higher perforation rate (diagnosis delay)
+- Immunocompromised: Higher perforation risk, more aggressive course
+
+CHRONIC APPENDICITIS (Rare):
+- Recurrent RLQ pain from subclinical inflammation
+- Imaging normal or shows mild changes
+- Appendectomy may relieve symptoms (contentious diagnosis)
+
+[APPENDICITIS IS ALWAYS A SURGICAL EMERGENCY — TREATMENT IS APPENDECTOMY]

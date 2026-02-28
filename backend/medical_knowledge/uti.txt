@@ -1,0 +1,208 @@
+DISEASE: Urinary Tract Infection (UTI)
+CATEGORY: Infectious / Urological
+ICD-10: N39.0
+SEVERITY: Mild-Moderate; can become serious if untreated (urosepsis)
+
+DESCRIPTION:
+UTI is bacterial infection of any part of the urinary system: bladder (cystitis), urethra (urethritis),
+ureters, or kidneys (pyelonephritis). More common in women due to shorter urethra. Lower UTIs (bladder/urethra)
+more common than upper UTIs (kidney). Most commonly caused by E. coli bacteria.
+
+RISK FACTORS:
+- Female sex: 10x more common in women
+- Sexual activity: Introduces bacteria
+- Pregnancy: Urinary stasis increases risk
+- Urinary catheter
+- Enlarged prostate: In men
+- Kidney stones
+- Urinary retention: Incomplete bladder emptying
+- Diabetes: High glucose in urine, impaired immunity
+- Immunosuppression
+- Age: Increase in elderly, especially women > 65
+- Spermicide use: Alters vaginal flora
+- Anatomical abnormalities
+
+SYMPTOMS:
+
+LOWER UTI (Cystitis):
+- Dysuria: Painful urination (burning sensation)
+- Frequency: Urinating 8-15+ times daily
+- Urgency: Sudden urge to urinate immediately
+- Nocturia: Waking 2-3+ times at night to urinate
+- Suprapubic pain: Lower abdominal pain above pubic bone
+- Hematuria: Blood in urine (may appear clear or cloudy with bacteria)
+- Urine cloudiness or foul smell
+- Urge incontinence: Leakage with strong urge
+
+UPPER UTI (Pyelonephritis) — MORE SERIOUS:
+- High fever: Often >101.5°F / 38.6°C
+- Flank pain: One or both sides (costovertebral angle tenderness)
+- Nausea and vomiting
+- General malaise and fatigue
+- Chills
+- Can progress to sepsis (shock, hypotension, confusion)
+
+ASYMPTOMATIC BACTERIURIA:
+- Bacteria in urine but no symptoms
+- Usually requires treatment only if pregnant or before urologic procedures
+- Otherwise observe
+
+DIAGNOSIS:
+- Urinalysis: Pyuria (white blood cells), bacteriuria
+- Urine culture: Confirms diagnosis, identifies organism and antibiotic sensitivity
+- Positive culture >100,000 CFU/mL (colony-forming units)
+- Dipstick test: Nitrites and leukocyte esterase suggest UTI
+
+MEDICATIONS USED:
+
+FIRST-LINE ANTIBIOTICS:
+1. NITROFURANTOIN (Macrodantin)
+   - Dosage: 100 mg twice daily for 5-7 days
+   - For uncomplicated cystitis only (not pyelonephritis)
+   - Well-tolerated, minimal resistance
+   - SIDE EFFECTS: Nausea, peripheral neuropathy (long-term)
+   - Gives urine dark yellow/brown color (harmless)
+   - CAUTION: Avoid near term in pregnancy
+
+2. TRIMETHOPRIM-SULFAMETHOXAZOLE (TMP-SMX / Cotrimoxazole)
+   - Dosage: TMP 160 mg + SMX 800 mg twice daily for 3 days
+   - Effective, inexpensive
+   - Not recommended if resistance >20% locally
+   - ALLERGIC REACTION risk: Rash, Stevens-Johnson syndrome (rare)
+   - CAUTION: Folic acid deficiency with long-term use
+
+3. CEPHALEXIN (First-generation cephalosporin)
+   - Dosage: 250-500 mg four times daily for 7 days
+   - Broader spectrum
+   - Safe in pregnancy
+   - Cost-effective
+
+4. AMOXICILLIN-CLAVULANATE
+   - Dosage: 250-500 mg three times daily for 7 days
+   - Good choice in pregnancy
+
+FOR PYELONEPHRITIS (Upper UTI):
+5. FLUOROQUINOLONES
+   - Levofloxacin: 750 mg daily for 5 days
+   - Ciprofloxacin: 500 mg twice daily
+   - Excellent tissue penetration, good for kidney infections
+   - CAUTION: Tendon rupture risk, avoid in children if possible
+   - Only use if susceptibility confirmed
+
+6. CEFTRIAXONE (Third-generation cephalosporin)
+   - Dosage: 1-2 grams IV/IM daily
+   - For severe pyelonephritis, hospitalization often needed
+   - Broad spectrum, safe in pregnancy
+
+SYMPTOM RELIEF:
+7. PHENAZOPYRIDINE (Azo Dye)
+   - Dosage: 100-200 mg three times daily for 2-3 days only
+   - Analgesic for urinary tract pain
+   - Turns urine orange/red (stains clothes)
+   - Only numbs symptoms (not a cure)
+   - Stop after 2-3 days and continue antibiotics
+
+ANTISPASMODICS (For pain/urgency, optional):
+8. OXYBUTYNIN
+   - For severe urinary frequency/urgency
+   - Use with antibiotic, not instead of
+
+MEDICATIONS TO AVOID:
+- Avoid if allergy: Penicillins (in penicillin-allergic patients)
+- Acidifying agents: Historically used but not recommended
+- Frequent fluoroquinolone use: Reserve for serious infections
+
+FOODS AND BEVERAGES:
+
+FOODS TO EAT (Support healing, promote urine flow):
+- Cranberry / Khatte karonda: Compounds may prevent E. coli adherence
+  (Evidence weak but culturally accepted; cranberry juice best)
+- Blueberries: Similar compounds to cranberry
+- Water: 2-3 liters daily (flushes bacteria, dilutes urine)
+- Lemon water: Acidifies urine (some benefit)
+- Coconut water: Hydrating, electrolytes
+- Plain yogurt / Dahi: Probiotics (may prevent recurrence)
+- Garlic / Lahsun: Antimicrobial properties
+- Ginger / Adrak: Anti-inflammatory
+- Turmeric / Haldi: Antimicrobial, anti-inflammatory
+- Celery / Ajmud: Diuretic
+- Parsley: Diuretic
+- Brown rice: Easy to digest
+- Vegetables: Spinach, broccoli, leafy greens (vitamins)
+- Citrus fruits: Vitamin C
+- Cauliflower: Sulfur compounds
+
+FOODS/BEVERAGES TO STRICTLY AVOID (Irritate bladder):
+- Coffee and strong tea: Caffeine irritates bladder
+- Alcohol: Irritates bladder, delays healing
+- Spicy foods: Irritate urinary tract
+- Artificial sweeteners: Aspartame may irritate (controversial)
+- Acidic foods (some people): Tomato, citrus (if sensitive)
+- Chocolate: Some patients report irritation
+- High-sodium foods: Reduce urine dilution
+
+HYDRATION:
+- Drink plenty of water to flush bacteria
+- Avoid holding urine — urinate every 2-3 hours
+- Particularly important during treatment
+
+PREVENTION (For recurrent UTIs):
+- Drink plenty of water: 2-3 liters daily
+- Urinate regularly: Don't hold urine
+- Empty bladder completely: Avoid urinary retention
+- Cranberry juice: 8-10 oz daily (evidence modest but safe)
+- D-Mannose: 500 mg twice-three times daily (may prevent recurrence)
+- Post-intercourse urination: Empty bladder within 30 minutes after sex
+- Avoid irritants: Douches, feminine hygiene sprays (disrupt normal flora)
+- Wipe front-to-back: Prevent fecal bacteria near urethra
+- Avoid tight clothing: Allow proper ventilation
+- Avoid spermicides: Use other contraception if recurrent UTIs
+- Barrier methods: Condoms with lubricant safer than spermicide
+- Cotton underwear: Better than synthetic
+
+PREGNANCY CONSIDERATIONS:
+- UTI screening: All pregnant women screened at first prenatal visit
+- Asymptomatic bacteriuria: Treated in pregnancy (risk of pyelonephritis)
+- Medicines safe in pregnancy: Cephalosporins, amoxicillin (avoid trimethoprim 1st trimester)
+- Avoid: Fluoroquinolones, trimethoprim (1st trimester), nitrofurantoin (near term)
+
+WHEN TO SEEK IMMEDIATE ATTENTION:
+- Fever >101.5°F / 38.6°C with back pain (possible pyelonephritis)
+- Nausea/vomiting with fever (possible pyelonephritis)
+- Confusion or altered mental status
+- Severe flank pain
+- Inability to urinate despite urge
+- Blood clots in urine
+
+WHEN TO SEE DOCTOR:
+- Urinary symptoms not improving after 2-3 days antibiotics
+- Recurrent UTIs (>2 per year): Needs investigation
+- Male patient with UTI: Usually indicates complicated infection
+- Diabetes + UTI: Close monitoring essential
+- Pregnancy + any urinary symptoms
+- Signs of systemic infection with UTI
+
+COMPLICATIONS IF UNTREATED:
+- Pyelonephritis: Kidney infection, fever, flank pain
+- Sepsis: Bacteria enters bloodstream (life-threatening)
+- Scarring of kidneys: Especially if recurrent infections
+- Chronic kidney disease: From repeated damage
+
+RECURRENT UTI (>2 per year):
+Requires investigation:
+- Urological imaging: Ultrasound or CT to rule out stones, obstruction
+- Cystoscopy: Visual examination of bladder
+- Urologic abnormalities: Sometimes found and need correction
+- Bladder diary: May reveal urinary retention
+- Sexual transmitted infections screening
+
+Long-term prophylaxis options:
+- Continuous low-dose antibiotic: Trimethoprim 1/3 strength daily or every other day
+- Post-intercourse prophylaxis: Single dose after sex (for intercourse-related)
+- Self-start regimen: Patient starts antibiotic at first symptom (for frequent symptomatic infections)
+
+SPECIAL CONSIDERATIONS:
+- Catheterized patients: High risk; routine antibiotics not recommended unless symptomatic
+- Elderly women: Often asymptomatic bacteriuria; treatment only if symptoms or pregnancy
+- Men: UTI less common; if occurs, indicates underlying pathology (prostate obstruction, etc.)
+- Diabetes: Impaired immune response; infections more severe; more diligent treatment needed

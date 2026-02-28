@@ -1,0 +1,270 @@
+DISEASE: Insomnia (Chronic Insomnia Disorder)
+CATEGORY: Sleep / Psychiatric
+ICD-10: F51.01 (Sleep-onset insomnia), F51.02 (Sleep-maintenance insomnia)
+SEVERITY: Mild-Moderate; affects quality of life and health
+
+DESCRIPTION:
+Insomnia is persistent difficulty initiating sleep, maintaining sleep, or nonrestorative sleep
+despite adequate opportunity and circumstances for sleep, ≥3 nights per week for ≥3 months.
+Affects 10-15% of population. Can be primary (no underlying cause) or secondary (from medical/psychiatric condition).
+Impacts daytime functioning, mood, productivity, health.
+
+TYPES:
+- Sleep-onset insomnia: Difficulty falling asleep (>30 minutes to sleep onset)
+- Sleep-maintenance insomnia: Frequent awakenings, difficulty returning to sleep
+- Early morning awakening: Waking 2+ hours earlier than desired
+- Non-restorative sleep: Sleep but feeling unrefreshed
+
+CAUSES:
+
+PSYCHOLOGICAL:
+- Anxiety disorders
+- Depression
+- Stress: Work, family, financial, health
+- Trauma or PTSD
+- Obsessive thinking: "Racing mind"
+
+MEDICAL CONDITIONS:
+- Chronic pain: Arthritis, back pain, fibromyalgia
+- Sleep apnea: Breathing interruptions (often undiagnosed)
+- Gastroesophageal reflux: Acid causing awakenings
+- Urinary frequency: Nocturia from diabetes, prostate, diuretics
+- Hot flashes: Menopause or medications
+- Asthma or COPD: Nighttime symptoms
+- Hyperthyroidism: Increased metabolism, racing thoughts
+- Restless leg syndrome: Uncomfortable sensations preventing sleep
+
+MEDICATIONS:
+- Stimulants: Caffeine (coffee, tea, chocolate, cola, energy drinks)
+- Corticosteroids: Prednisone (can cause insomnia)
+- Decongestants: Pseudoephedrine
+- Some antidepressants: SSRIs can initially worsen sleep
+- Beta-blockers: Some formulations
+- Alcohol: Initially sedating, later disrupts sleep architecture
+- Nicotine: Stimulant
+
+LIFESTYLE/ENVIRONMENTAL:
+- Irregular sleep schedule: Varying bed/wake times
+- Stimulating activities before bed: Screen time, work
+- Caffeine after 2 PM: Half-life 5-6 hours
+- Exercise too close to bedtime: Stimulating
+- Uncomfortable sleep environment: Noise, light, temperature
+- Large meals before bed: Discomfort
+- Napping: Especially afternoon naps
+- Clock-watching: Anxiety about sleep
+
+BEHAVIORAL PATTERNS:
+- Cognitive arousal: Worrying about not sleeping (paradoxical)
+- Using bed for work/study: Condition bed with wakefulness
+- Trying too hard to sleep: Creates performance anxiety
+- Negative sleep associations
+
+SYMPTOMS:
+- Difficulty falling asleep: >30 minutes to sleep onset
+- Frequent or prolonged nighttime awakenings: >30 minutes total
+- Waking too early without ability to return to sleep
+- Non-restorative sleep: Sleep feels inadequate
+- Daytime functional impairment:
+  * Fatigue
+  * Difficulty concentrating
+  * Irritability
+  * Mood disturbance
+  * Reduced productivity
+  * Slower reflexes (increased accident risk)
+- Anxiety about sleep: Fear of insomnia (perpetuates cycle)
+
+MEDICATIONS USED:
+
+NONBENZODIAZEPINE HYPNOTICS (Z-drugs):
+1. ZOLPIDEM
+   - Dosage: 5-10 mg at bedtime
+   - Onset: 15-30 minutes
+   - Duration: 6-8 hours
+   - Brand names: Ambien
+   - Short-acting (good for sleep onset)
+   - SIDE EFFECTS: Morning drowsiness, dizziness, complex sleep behaviors (rare)
+   - CAUTION: Risk of dependence; use ≤2-4 weeks ideally
+   - Avoid: >6 hours before needed waking time
+
+2. ZOPICLONE
+   - Dosage: 7.5 mg at bedtime
+   - Similar to zolpidem
+   - Leaves metallic taste (common side effect)
+   - Available in India (Zimovane)
+
+3. ZALEPLON
+   - Dosage: 5-10 mg at bedtime
+   - Very short-acting (1 hour), ideal if mid-sleep awakening
+   - Can take if wake at night with 4+ hours remaining
+
+BENZODIAZEPINES (Second-line):
+4. TRIAZOLAM
+   - Dosage: 0.125-0.25 mg at bedtime
+   - Very short-acting
+   - Used less due to dependence risk
+   - CAUTION: Highest abuse potential
+
+5. LORAZEPAM
+   - Dosage: 0.5-2 mg at bedtime
+   - Also has anxiolytic properties (good if anxiety contributes)
+   - Longer half-life (hangover effect next day)
+   - CAUTION: Dependence risk, falls risk (especially elderly)
+
+MELATONIN RECEPTOR AGONIST:
+6. RAMELTEON
+   - Dosage: 8 mg right before bedtime
+   - Works on melatonin receptors (different mechanism)
+   - Minimal dependence risk
+   - NO abuse potential (Schedule III controlled)
+   - Brand names: Rozerem
+
+7. MELATONIN (Natural supplement)
+   - Dosage: 1-10 mg 30 minutes before bed
+   - Non-prescription supplement
+   - Very safe, no dependence
+   - Effectiveness variable (works better for jet lag, shift work)
+   - Available OTC
+
+ANTIDEPRESSANTS (For insomnia with depression):
+8. AMITRIPTYLINE
+   - Dosage: 25-100 mg at bedtime
+   - Sedating antidepressant
+   - Treats both insomnia and depression
+   - SIDE EFFECTS: Morning drowsiness, dry mouth, weight gain
+   - Takes weeks for mood effect
+
+9. TRAZODONE
+   - Dosage: 50-100 mg at bedtime
+   - Sedating antidepressant
+   - Used off-label for insomnia (even without depression)
+   - Minimal abuse potential
+   - Brand names: Desyrel
+
+HERBAL/NATURAL SUPPLEMENTS:
+10. VALERIAN ROOT
+    - Dosage: 300-900 mg 1-2 hours before bed
+    - Herbal, available OTC
+    - Modest efficacy, safe
+    - Takes 2-3 weeks to work
+    - May cause headache or dizziness
+
+11. PASSIONFLOWER
+    - Dosage: 500-1000 mg before bed
+    - Herbal anxiolytic
+    - Helps sleep with anxiety
+
+12. MAGNESIUM
+    - Dosage: 200-400 mg before bed
+    - Mineral supplement
+    - Helps relaxation, many people deficient
+    - Also helps with muscle cramps
+
+MEDICATIONS TO AVOID:
+- Alcohol: Initially deceptive (helps fall asleep) but disrupts sleep architecture and REM sleep
+- Stimulants: Caffeine, pseudoephedrine, other decongestants
+- Some cold medications: Contain stimulants
+- Sudden cessation of benzodiazepines: Risk of rebound insomnia
+
+FOODS TO EAT (Sleep-promoting):
+- Tryptophan-containing: Turkey, chicken, cheese, nuts (precursor to serotonin/melatonin)
+- Complex carbohydrates: Brown rice, whole wheat (enhance tryptophan absorption)
+- Milk / Dahi: Tryptophan + calcium
+- Almonds: Magnesium, tryptophan
+- Pumpkin seeds: Magnesium, zinc
+- Leafy greens / Palak, methi: Magnesium
+- Kiwifruit: Serotonin content, may promote sleep (studies suggest)
+- Tart cherry juice: Natural melatonin
+- Honey / Shahad: Small amount before bed may help (promotes tryptophan entry to brain)
+- Warm milk with turmeric / Haldi: Relaxing, traditional remedy
+- Herbal teas: Chamomile, passionflower, valerian
+
+FOODS TO STRICTLY AVOID (Evening):
+- Caffeine: Coffee, strong tea, chocolate, cola, energy drinks
+  * Avoid after 2-3 PM (half-life 5-6 hours)
+- High-fat foods: Heavy, take longer to digest
+- High-protein foods (alone): Without carbs (can stimulate)
+- Spicy foods: Can cause reflux/discomfort at night
+- Excess sugar: Energy surge, then crash
+- Alcohol: Deceptive initially sedating effect
+
+DRINKS TO AVOID:
+- Coffee: Obvious caffeine source
+- Black/green tea: Caffeine + theine
+- Cola drinks: Caffeine
+- Chocolate drinks: Caffeine, sugar
+- Energy drinks: High caffeine, stimulants
+- Alcohol: Disrupts sleep quality
+
+BEDTIME ROUTINE (Behavioral treatment — Most important):
+1. CONSISTENT SCHEDULE:
+   - Same bed time every night (even weekends)
+   - Same wake time every morning
+   - 7-8 hours sleep target (7-9 hours ideal)
+   - Trains body's circadian rhythm
+
+2. PRE-BEDTIME WIND-DOWN (30-60 minutes):
+   - Dim lights: Reduces blue light exposure
+   - Avoid screens: Phone, laptop, TV (blue light suppresses melatonin)
+   - Relaxing activities: Reading, gentle stretching, meditation
+   - Warm bath or shower: Temperature drop after bath aids sleep
+   - Breathing exercises: Deep, slow breathing (4-7-8 technique)
+   - Progressive muscle relaxation: Tense and release muscles
+
+3. SLEEP ENVIRONMENT:
+   - Dark: Blackout curtains or eye mask
+   - Quiet: Earplugs if needed
+   - Cool temperature: 65-68°F (18-20°C) optimal
+   - Comfortable bed: Quality mattress and pillow
+   - No clocks visible: Reduces clock-watching anxiety
+
+4. BEDROOM ASSOCIATION:
+   - Use bed only for sleep and intimacy (not work, eating, TV)
+   - Leave bed if awake >20 minutes: Do quiet activity until drowsy, then return
+   - Avoid napping: Especially after 3 PM
+
+5. DAYTIME PRACTICES:
+   - Exercise: 150 min/week moderately (but not within 3 hours of bed)
+   - Sunlight exposure: 30 minutes bright light in morning (circadian entrainment)
+   - Reduce stress: Yoga, meditation, stress management
+   - Avoid daytime naps: Especially afternoon
+   - Limit caffeine: Cut-off by 2-3 PM
+
+COGNITIVE BEHAVIORAL THERAPY FOR INSOMNIA (CBT-I):
+- Gold standard, more effective long-term than medications
+- 4-8 week program
+- 70-80% success rate
+- Teaches sleep hygiene, thought patterns, stimulus control
+- Ideal baseline before starting medication
+
+RELAXATION TECHNIQUES:
+- Progressive muscle relaxation: Tense each muscle group 5 seconds, release
+- Guided imagery: Visualize calm, peaceful scene
+- Meditation: Mindful awareness of breath
+- Yoga: Gentle stretching, breathing
+- Autogenic training: Self-directed relaxation
+
+MONITORING TREATMENT:
+- Sleep diary: Track sleep quality, timing, daytime function
+- Assess after 2-3 weeks: If not improving, adjust
+- Don't jump between medications: Give adequate trial (2-3 weeks minimum)
+
+WHEN TO SEEK DOCTOR:
+- Insomnia ≥1 month not improving with sleep hygiene
+- Suspect sleep apnea: Loud snoring, gasping at night, daytime somnolence
+- Insomnia with depression/anxiety: Requires treatment
+- Medication side effects: Daytime grogginess, complex sleep behaviors
+- Not improving after medication trial: May need adjustment
+
+SPECIAL CONSIDERATIONS:
+- Elderly: Reduced sleep duration normal; medications increase falls risk
+- Pregnancy: Sleep problems common; insomnia usually improves postpartum
+- Shift workers: Circadian rhythm disruption; melatonin, light therapy helpful
+- Sleep apnea: Must be treated (cause of insomnia-like symptoms)
+- Restless leg syndrome: Treat underlying (iron deficiency, dopamine agonists)
+- Chronic pain: Treat underlying condition + insomnia-specific approaches
+- Dependence risk: Benzodiazepines/Z-drugs should be short-term; long-term CBT-I preferred
+
+DISCONTINUATION:
+- Gradual taper: 50% reduction then full tapering over 2-4 weeks
+- Rebound insomnia: Common with sudden stoppage; tapered discontinuation reduces this
+- Long-term use: Not recommended (tolerance, dependence, side effects)

@@ -1,0 +1,217 @@
+DISEASE: Vitamin B12 Deficiency (Cobalamin Deficiency)
+CATEGORY: Nutritional / Hematological
+ICD-10: E53.8
+SEVERITY: Mild-Moderate; serious if untreated (neurological complications)
+
+DESCRIPTION:
+Vitamin B12 (cobalamin) deficiency reduced blood B12 concentration (<200 pmol/L). Causes
+megaloblastic anemia, neurological symptoms. Prevalence 5-20% in developed countries, higher in
+developing countries and elderly. Critical for DNA synthesis, myelin formation, nerve function.
+Treatment is straightforward: B12 supplementation.
+
+CAUSES:
+
+MALABSORPTION (Most common):
+- Pernicious anemia: Autoimmune destruction of gastric parental cells
+  * Inability to produce intrinsic factor (binds B12 in stomach)
+  * Permanent condition
+- Gastrectomy: Surgical removal of stomach (loss of intrinsic factor)
+- Atrophic gastritis: Stomach lining inflammation (from H. pylori, autoimmune)
+- Crohn's disease: Terminal ileum inflammation (absorption site)
+- Celiac disease: Small intestine damage
+- Small intestinal bacterial overgrowth (SIBO): Bacteria consume B12
+- Post-gastric bypass surgery: Reduced absorption
+
+DIETARY DEFICIENCY (Less common):
+- Vegan/vegetarian diets: B12 only in animal products (eggs, dairy if ovo-vegetarian)
+  * Vegans require supplementation
+- Strict vegetarian diets: Months to years for depletion
+- Alcoholism: Poor nutrition, impaired absorption
+- Malnutrition: Severe (rare in developed countries)
+
+MEDICATIONS AFFECTING ABSORPTION:
+- Metformin: Reduces B12 absorption (10-30% at standard doses)
+- Proton pump inhibitors (PPIs): Omeprazole, lansoprazole (reduce stomach acid for absorption)
+- H2-receptor antagonists: Ranitidine, famotidine
+- Orlistat: Fat-soluble vitamin malabsorption
+
+B12 LOSS:
+- Dialysis: Peritoneal dialysis > hemodialysis
+
+SYMPTOMS:
+
+ANEMIA SYMPTOMS:
+- Fatigue and weakness: Often first symptom
+- Shortness of breath: On exertion
+- Dizziness or lightheadedness
+- Headache
+- Pale or jaundiced complexion
+- Glossitis: Red, sore tongue ("beefy" appearance)
+- Stomatitis: Mouth ulcers
+
+NEUROLOGICAL (Most serious):
+- Paresthesia: Tingling, numbness in hands/feet (peripheral neuropathy)
+- Ataxia: Unsteady gait, loss of coordination
+- Loss of proprioception: Inability to sense body position (gone if severe)
+- Weakness: Leg weakness, difficulty walking
+- Cognitive symptoms: Brain fog, difficulty concentrating ("fuzzy brain")
+- Memory impairment
+- Dementia: In severe, prolonged deficiency
+- Optic neuropathy: Vision problems (rare)
+- Psychosis: Psychiatric symptoms (rare, severe)
+- Subacute combined degeneration (SCD): Myelopathy if untreated
+  * Spinal cord degeneration
+  * Permanent if prolonged
+
+GI SYMPTOMS:
+- Diarrhea or constipation: From B12 role in GI function
+- Loss of appetite
+- Nausea
+- Sore tongue and mouth
+
+DIAGNOSIS:
+- Serum B12 level: Low (<200 pmol/L or <270 pg/mL)
+- Methyl malonic acid: Elevated (specific for B12 deficiency)
+- Homocysteine: Elevated (B12 needed for metabolism)
+- Serum folate: Check (folate deficiency often coexists)
+- CBC: Macrocytic anemia (large RBCs)
+- Peripheral blood smear: Hypersegmented neutrophils (megaloblastic pattern)
+- Intrinsic factor antibody: Positive in pernicious anemia
+- Methylmalonic acid: Elevated (specific test)
+
+MEDICATIONS USED (B12 SUPPLEMENTATION):
+
+INTRAMUSCULAR B12 (Gold standard):
+
+1. CYANOCOBALAMIN
+   - Dosage: 1000 mcg IM once monthly (loading: weekly x 4 weeks, then monthly)
+   - Gold standard: Bypasses absorption issues
+   - Onset: Symptoms improve within days/weeks
+   - Maintenance: Monthly indefinitely (if pernicious anemia, malabsorption)
+   - No side effects
+   - Brand names: Generic widely available worldwide
+
+ORAL B12 (For dietary deficiency or supplements):
+
+2. CYANOCOBALAMIN (Oral)
+   - Dosage: 1000-2000 mcg daily or 2000 mcg twice weekly
+   - Not effective if absorption impaired (pernicious anemia, gastric surgery)
+   - Works for vegan deficiency if adequate dose
+   - Takes weeks to months for repletion
+   - Over-the-counter options
+
+SUBLINGUAL/INTRANASAL:
+
+3. CYANOCOBALAMIN (Sublingual)
+   - Dosage: 500-2000 mcg daily or twice daily
+   - Claimed absorption through mucous membranes
+   - Variable efficacy, no drug interactions
+   - Slower onset than IM
+
+4. CYANOCOBALAMIN (Intranasal gel)
+   - CaloMist: 500 mcg once weekly
+   - Alternative for those needle-phobic
+   - Less convenient than monthly IM
+
+HIGH-DOSE ORAL:
+
+5. METHYLCOBALAMIN (Oral)
+   - Dosage: 1000-3000 mcg daily (divided doses)
+   - Different form, may have advantages (controversial)
+   - Some prefer for neurological symptoms
+   - Cost varies
+
+DIETARY SOURCES (If not deficient):
+- Meat: Beef, liver (rich source especially liver)
+- Fish: Salmon, sardines
+- Poultry: Chicken, turkey
+- Dairy: Milk, yogurt, cheese
+- Eggs: Good source if vegetarian
+- Fortified cereals: Check labels
+- Nutritional yeast: For vegans (fortified varieties)
+
+FOODS TO EAT (B12 containing or supportive):
+- Beef: B12-rich, iron
+- Liver: Highest B12 source (1 serving provides 100% daily requirement)
+- Fish: Salmon, sardines, tuna
+- Poultry: Chicken, turkey
+- Eggs: Complete protein, B12
+- Milk / Dahi: Yogurt, cheese (good dairy sources)
+- Fortified plant-based milks: Almond, soy (if fortified, check label)
+- Leafy greens / Palak, methi: Folate (often coexistent deficiency)
+- Legumes / Dal: Folate support
+- Whole grains: Brown rice
+- Fortified cereals: Check nutrition label
+
+FOODS TO AVOID:
+- Ultra-processed foods: Often fortified haphazardly
+- Alcohol: Impairs absorption, depletes stores
+- High heat cooking: B12 heat-sensitive (but meat cooking temps usually ok)
+
+MEDICATIONS TO MONITOR:
+- Metformin: Continue but monitor B12 (annual screening if long-term)
+- PPIs: Continue if needed, monitor B12 (annual screening)
+- Avoid: Not taking prescribed medications for B12 concerns (rarely necessary)
+
+LIFESTYLE:
+- Dietary counseling: If due to vegan diet, teach B12 sources or need for supplementation
+- Alcohol cessation: Improve absorption, preserve stores
+- Treatment compliance: Monthly injections if needed
+
+MONITORING:
+- Recheck B12 level: 3 months after starting treatment
+- Symptom assessment: Most improve within weeks (weeks-months for neuropathy)
+- Annual monitoring: If risk factors persist (vegan, PPI use, metformin)
+- Neurological exam: If symptoms present (reassurance of improvement important)
+
+SPECIAL CONSIDERATIONS:
+
+FOR VEGAN/VEGETARIAN:
+- Requirement: All vegans need supplementation (no natural plant source)
+- Options: Supplement daily, or IM monthly
+- Reliable sources: Fortified plant milks, nutritional yeast, supplements
+- Cost-effective: Oral supplements cheap
+
+FOR PERNICIOUS ANEMIA:
+- Lifelong treatment: Monthly IM injections indefinite
+- Genetic counseling: Autoimmune, not hereditary but related autoimmune conditions in family
+
+FOR POST-SURGICAL:
+- Permanent deficiency: If gastrectomy or gastric bypass
+- Lifelong supplementation: Monthly IM or daily oral high-dose
+
+FOR ELDERLY:
+- Screening: Recommended if on medications affecting absorption
+- Common: B12 deficiency in older adults (atrophic gastritis, PPI use)
+- Dosing: Same as younger adults
+
+FOR NEUROLOGICAL DEFICIENCY:
+- URGENT treatment: Neurological complications can be permanent
+- IM preferred: Faster symptom reversal
+- High-dose B12: In early neuropathy (may prevent progression)
+- Reversibility: If caught early, neurological symptoms reverse; delayed treatment may leave permanent damage
+
+TIMELINE TO RECOVERY:
+- Anemia symptoms: Improvement in 2-4 weeks
+- GI symptoms: 1-4 weeks
+- Neurological symptoms: Weeks to months (paresthesia, ataxia)
+- Cognitive symptoms: Months to improvement
+- Permanent neurological damage: If delay >6-12 months (rare but possible)
+
+WHEN TO SEEK DOCTOR:
+- Fatigue, weakness, shortness of breath
+- Tingling/numbness (paresthesia): Seek soon (neurological progression risk)
+- Unsteady gait, loss of coordination
+- Cognitive changes, memory problems
+- Sore tongue, mouth ulcers
+- Adequate supplement response check
+
+WHEN URGENT:
+- Severe neurological deficiency with ataxia, cognitive changes
+  [May need high-dose or more frequent treatment]
+
+PROGNOSIS:
+- With treatment: 90%+ response
+- Anemia reversal: Complete in 6-8 weeks
+- Neurological reversal: Most improve with early treatment
+- Untreated: Progressive neurological damage (rare in modern medicine with screening)

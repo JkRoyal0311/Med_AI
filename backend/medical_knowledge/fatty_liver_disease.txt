@@ -1,0 +1,206 @@
+DISEASE: Fatty Liver Disease (Non-Alcoholic Fatty Liver Disease — NAFLD)
+CATEGORY: Hepatological / Metabolic
+ICD-10: K76.0
+SEVERITY: Mild-Severe; can progress to cirrhosis
+
+DESCRIPTION:
+NAFLD is excessive fat accumulation in liver (≥5-10% liver weight) without significant alcohol consumption.
+Common in developed and developing countries (affects up to 30% globally). Often associated with obesity,
+diabetes, metabolic syndrome. Most have benign course, but 10-20% progress to cirrhosis. Increasing cause
+of liver transplantation need.
+
+PATHOPHYSIOLOGY:
+- Insulin resistance: Primary mechanism leading to hepatic fat accumulation
+- Inflammation: Two-hit hypothesis (fat + inflammatory triggers)
+- Progressive fibrosis in some patients
+
+RISK FACTORS:
+- Obesity: BMI >30
+- Type 2 diabetes: 50% overlap
+- Metabolic syndrome features:
+  * Abdominal obesity
+  * Hypertension
+  * Dyslipidemia (high triglycerides, low HDL)
+  * Fasting glucose dysregulation
+- Sedentary lifestyle
+- High carbohydrate/fructose diet
+- Excessive alcohol (though called "non-alcoholic")
+- Genetic factors
+- Some medications: Corticosteroids, methotrexate, certain antiretrovirals
+
+SYMPTOMS:
+
+EARLY (NAFL — simple steatosis):
+- Often asymptomatic: Found incidentally on imaging
+- Mild fatigue
+- Mild discomfort in right upper quadrant (vague)
+
+ADVANCED (NASH — nonalcoholic steatohepatitis):
+- Fatigue: More pronounced
+- Abdominal discomfort or pain (right upper quadrant)
+- Hepatomegaly: Enlarged liver (palpable below ribs)
+- Jaundice: If advanced cirrhosis
+- Spider angiomas: if cirrhosis develops
+- Portal hypertension signs: Ascites, varices
+
+CIRRHOSIS SIGNS:
+- Ascites: Abdominal fluid, distension
+- Splenomegaly: Enlarged spleen
+- Esophageal varices: Bleeding from distended veins
+- Hepatic encephalopathy: Brain dysfunction from ammonia
+- Coagulopathy: Easy bruising, bleeding
+
+DIAGNOSIS:
+- Elevated transaminases: ALT more specific than AST
+- Ultrasound: Increased echogenicity (fatty infiltration)
+- CT or MRI: More sensitive for fat, can assess fibrosis
+- FibroScan: Ultrasound-based elastography (assess fibrosis stage)
+- Liver biopsy: Gold standard but invasive (not routinely done)
+- FIB-4 score: Blood-based fibrosis assessment (AST, platelet count, age)
+- APRI score: Another non-invasive fibrosis assessment
+
+STAGING:
+- F0: No fibrosis (simple steatosis)
+- F1: Mild fibrosis
+- F2: Moderate fibrosis
+- F3: Advanced fibrosis
+- F4: Cirrhosis
+
+MEDICATIONS USED:
+
+NO FDA-APPROVED TREATMENT YET (Management is supportive):
+
+For weight loss:
+1. ORLISTAT
+   - Dosage: 120 mg three times daily with meals
+   - Inhibits fat absorption
+   - 5-10% weight loss possible
+   - SIDE EFFECTS: GI (oily stools)
+   - Works adjunctive to diet
+
+2. GLP-1 AGONISTS (For diabetes patients)
+   - Semaglutide: 0.5-1 mg weekly
+   - Better weight loss, cardiovascular benefits
+   - Also improving NASH parameters in studies
+
+For insulin resistance/metabolic issues:
+3. METFORMIN
+   - Dosage: 500-1000 mg twice daily
+   - Improves insulin sensitivity
+   - Modest effect on steatosis
+   - Safe, cheap
+
+4. PIOGLITAZONE (Thiazolidinedione)
+   - Dosage: 15-30 mg daily
+   - Improves insulin sensitivity, reduces hepatic inflammation
+   - Evidence for NASH improvement
+   - SIDE EFFECTS: Weight gain, bone loss risk
+   - Used less due to side effects
+
+For inflammation:
+5. VITAMIN E
+   - Dosage: 800 IU daily (if non-diabetic, biopsy-proven NASH)
+   - Antioxidant, reduces inflammation
+   - No benefit if simple steatosis or diabetic NASH
+   - Long-term safety unclear
+   - May increase mortality in diabetics (controversial)
+
+Investigational agents (not yet approved):
+6. FXFR4 AGONISTS: Showing promise in studies
+
+MEDICATIONS TO AVOID (Hepatotoxic):
+- Acetaminophen: Excess (>2g/day)
+- NSAIDs: Can worsen liver function (use minimally)
+- Certain anticonvulsants
+- Some antifungals
+- High-dose statins: Check LFTs
+- Methotrexate: Direct hepatotoxicity
+
+FOODS TO EAT (Weight loss, metabolic support):
+- Vegetables: Leafy greens, broccoli, cauliflower (low calorie, nutrients)
+- Fruits: Berries, apple, pear (moderate)
+- Whole grains: Limit refined carbs
+- Legumes / Dal: Fiber, protein
+- Fatty fish: Salmon, sardines (omega-3 anti-inflammatory)
+- Nuts and seeds: Moderate (calories add up)
+- Olive oil: For cooking (unsaturated fat)
+- Turmeric / Haldi: Anti-inflammatory
+- Ginger / Adrak: Anti-inflammatory
+- Green tea: Contains EGCG (may help liver)
+- Coffee: 3+ cups daily shows hepatoprotective effect (mechanisms unclear)
+- Lean poultry / Murgh
+
+FOODS TO STRICTLY AVOID:
+- Refined carbohydrates: White bread, white rice, pasta (drive fat synthesis)
+- Sugar and fructose: Soda, candy (direct fat storage)
+- Alcohol: Even small amounts problematic in NAFLD (increases liver injury)
+- High-fructose corn syrup: Soft drinks, processed foods
+- Processed foods: High sugar, refined carbs, trans fats
+- Saturated fats: Ghee, butter excess
+- Trans fats: Packaged snacks, fried foods
+- High-calorie foods: Anything contributing to obesity
+
+BEVERAGES:
+- Coffee: 3-4 cups daily (hepatoprotective)
+- Green tea: 2-3 cups daily
+- Water: Main beverage
+- AVOID: Alcohol (even wine, 0 consumption recommended)
+- AVOID: Sugary drinks, soft drinks
+
+WEIGHT LOSS (MOST IMPORTANT):
+- Target: 5-10% reduction improves steatosis
+- 10-15% reduction improves inflammation
+- >15% can reverse fibrosis
+- Methods:
+  * Caloric restriction: 500-1000 calories/day deficit
+  * Exercise: 150-200 minutes weekly aerobic
+  * Behavioral changes: Food diary, portion control
+
+EXERCISE:
+- Aerobic: 30 minutes, 5 days/week
+- Resistance: 2-3 times weekly
+- Even without weight loss: Exercise improves metabolic parameters
+
+LIFESTYLE MODIFICATIONS:
+- Smoking cessation: Improves outcomes
+- Alcohol: Complete avoidance recommended
+- Stress reduction: Lower stress improves metabolism
+- Sleep: 7-8 hours nightly (sleep deprivation drives insulin resistance)
+- Gut health: Probiotics showing some benefit (though not established)
+
+MONITORING:
+- LFTs: AST, ALT, ALP, bilirubin
+- Metabolic markers: Glucose, triglycerides
+- FIB-4 score: Annually (assess fibrosis progression)
+- FibroScan: If advanced disease suspected
+- Ultrasound: If advanced disease
+- Platelet count: Decreases with fibrosis
+- Hepatitis viral testing: To rule out coinfection
+
+SCREENING FOR COMPLICATIONS (If cirrhosis):
+- Endoscopy: Check for esophageal varices (bleeding risk)
+- Ultrasound with Doppler: Check portal vein flow
+- Alpha-fetoprotein (AFP): Tumor marker if cirrhosis
+
+PROGNOSIS:
+- Simple steatosis: Good prognosis, often stable
+- NASH: 10-30% progress to cirrhosis
+- Cirrhosis: 10-year mortality ~5% per year
+- Liver transplant: Only option for decompensated cirrhosis
+
+WHEN TO SEEK DOCTOR:
+- Incidental finding of fatty liver: Needs evaluation
+- Risk factors present: Screening
+- Elevated LFTs: Evaluation for cause
+- Right upper quadrant pain
+- Signs of cirrhosis: Abdominal distension, jaundice
+- Planning weight loss: Need monitoring
+
+SPECIAL CONSIDERATIONS:
+- Obesity: Weight loss is cornerstone, even 5-10% helps
+- Diabetes: NAFLD in >50%; aggressive metabolic control essential
+- Metabolic syndrome: Full component management needed
+- Pregnancy: NAFLD usually improves postpartum
+- Children: Pediatric NAFLD increasing (obesity in children)
+- Bariatric surgery: Can improve NASH in severe obesity, but monitors liver closely
+- Cardiovascular risk: NAFLD patients at higher CV risk (treat holistically)

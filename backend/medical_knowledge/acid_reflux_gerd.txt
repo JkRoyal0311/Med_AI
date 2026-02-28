@@ -1,0 +1,173 @@
+DISEASE: Gastroesophageal Reflux Disease (GERD) / Acid Reflux
+CATEGORY: Gastrointestinal
+ICD-10: K21
+SEVERITY: Chronic — manageable with lifestyle and medication, can be disabling
+
+DESCRIPTION:
+GERD occurs when stomach acid flows backward (reflux) into the esophagus regularly,
+causing irritation and inflammation. Lower esophageal sphincter (LES) is a valve that
+should prevent backflow but becomes weakened. Can range from occasional heartburn
+(non-pathological) to severe with complications like Barrett's esophagus or strictures.
+
+TRIGGERS OF ACID REFLUX:
+- Certain foods: Spicy, fatty, citrus, tomato, chocolate, caffeine
+- Alcohol and smoking
+- Large meals (especially late at night)
+- Lying down within 3 hours of eating
+- Obesity and excess abdominal pressure
+- Pregnancy (increased abdominal pressure, hormonal changes)
+- Stress
+- Medications: NSAIDs, aspirin, some antibiotics
+
+SYMPTOMS:
+COMMON:
+- Heartburn: Burning sensation in chest, behind breastbone
+- Acid regurgitation: Sour taste, bitter liquid in mouth
+- Chest pain: Can mimic heart attack (distinguish by relation to food/position)
+- Difficulty swallowing (dysphagia): Feels like food stuck in throat
+- Belching and bloating
+
+LESS COMMON (ATYPICAL):
+- Chronic cough: Acid irritates airway
+- Hoarseness: Voice changes, throat clearing
+- Asthma-like symptoms: Wheezing, shortness of breath
+- Sore throat: Recurrent pharyngitis
+- Laryngitis: Voice box inflammation
+- Sleep disturbance: Nighttime reflux worsens when lying down
+- Tooth erosion: Stomach acid erodes tooth enamel
+
+SEVERITY SCALE:
+- Mild: Occasional heartburn (2-3 times/week), responds to antacids
+- Moderate: Frequent symptoms (3-5 times/week), disrupts sleep, needs medication
+- Severe: Daily symptoms, interferes with quality of life, complications developing
+- Complicated: Barrett's esophagus, esophageal ulcers, strictures, bleeding
+
+MEDICATIONS USED:
+
+ANTACIDS (Fast relief, short duration):
+1. CALCIUM CARBONATE (Antacid)
+   - Neutralizes acid immediately
+   - Dosage: 2-3 tablets every 2-4 hours as needed
+   - Brand names: Tums, Campral
+   - EFFECT: Relief in 5-10 minutes, lasts 1-3 hours
+   - SIDE EFFECTS: Can cause constipation or rebound acid production
+
+2. MAGNESIUM HYDROXIDE (Milk of Magnesia)
+   - Faster onset than calcium carbonate
+   - Dosage: 30 mL once/twice daily
+   - Effects last longer than calcium carbonate
+
+3. SODIUM BICARBONATE
+   - Very fast relief but short-lived (10-15 minutes)
+   - Dosage: 1/2 tsp in water
+   - CAUTION: Can cause rebound hyperacidity
+
+H2-RECEPTOR ANTAGONISTS (Slower onset, longer duration):
+4. RANITIDINE / FAMOTIDINE
+   - Reduces acid production by 70%
+   - Famotidine: 20 mg twice daily or 40 mg at night
+   - Brand names: Gastrine, Pepcid
+   - Effect: 30-60 minutes to work, lasts 8-12 hours
+   - PREFERRED over antacids for regular use
+
+PROTON PUMP INHIBITORS (Most powerful, long-term control):
+5. OMEPRAZOLE / LANSOPRAZOLE / PANTOPRAZOLE
+   - Strongest acid-reducing medication
+   - Omeprazole: 20 mg once daily, preferably morning
+   - Lansoprazole: 15-30 mg once daily
+   - Brand names: Prilosec, Esomeprazole, Pantoprazole
+   - Effect: Takes 4-5 days of use to reach full effect
+   - Once daily dose powerful enough for most patients
+   - MUST take on empty stomach (30 minutes before food)
+
+MEDICATIONS TO AVOID WITH GERD:
+- NSAIDs: Ibuprofen, Diclofenac (increase acid, damage esophageal lining)
+- Aspirin: Irritates esophagus
+- Calcium channel blockers: Relax LES (have reflux as side effect)
+- Anticholinergics: Reduce esophageal contractions
+- AVOID for at least 4 hours with PPIs: Clopidogrel (Plavix) — reduced effectiveness
+
+FOODS TO EAT:
+- Non-acidic fruits: Banana, apple, pear, melon
+- Leafy greens / Palak, methi: Alkaline, non-acidic
+- Broccoli and green beans: Low-acid vegetables
+- Asparagus: Prebiotic fibers, non-irritating
+- Rice and whole grains: Oatmeal, brown rice (avoid white bread)
+- Lean proteins: Chicken, fish, turkey, tofu
+- Eggs: Mild protein source
+- Ginger / Adrak: Anti-inflammatory, improves stomach function
+- Oatmeal: Absorbs stomach acid
+- Almonds: Alkaline, contain oils that coat stomach
+- Honey / Shahad: Has antacid properties
+- Legumes / Dal: High fiber helps digestion
+- Herbal tea: Chamomile, licorice (non-caffeinated)
+
+FOODS TO STRICTLY AVOID (Common triggers):
+- Citrus fruits: Orange, lemon, lime, grapefruit, Mosambi
+- Tomato and tomato products: Sauces, ketchup, chutney
+- Spicy foods: Red chili, black pepper, excess spice mixes
+- Fried and fatty foods: Chips, pakora, samosa, fatty meats
+- Chocolate: Cocoa irritates esophagus, relaxes LES
+- Caffeine: Coffee, strong black tea, cola
+- Alcohol: Beer, wine, spirits (all trigger reflux)
+- Mint (some people): Relaxes LES, though helps others
+- Onion and garlic / Lahsun: Sulfur compounds increase acid
+- Vinegar and acidic dressings: Salad dressings
+- High-fat dairy: Full-fat yogurt, cream, butter (low-fat OK)
+- Carbonated beverages: Soda, fizzy drinks
+
+LIFESTYLE MODIFICATIONS (Most important!):
+- Elevate head of bed: 6-8 inches (use wedge pillow under mattress, not just pillows)
+- Avoid lying down within 3 hours of eating
+- Eat smaller, frequent meals: 5-6 small meals instead of 3 large
+- Slow down eating: Chew thoroughly, eat mindfully
+- No eating 2-3 hours before bedtime
+- Lose weight: 5-10% weight loss can significantly improve symptoms
+- Loosen tight clothing: Reduces abdominal pressure
+- Manage stress: Stress increases acid production
+- Quit smoking: Smoking weakens LES, increases acid
+- Limit alcohol: Or eliminate completely
+- Avoid bending over or lying flat after eating
+- Stay hydrated: Sip water throughout day
+
+SLEEP POSITION:
+- Sleep on LEFT side (not right): Reduces reflux
+- Avoid supine (flat on back) position at night
+- Keep head elevated 30-45 degrees
+
+MEDICATIONS THAT AGGRAVATE REFLUX:
+- NSAIDs: Ibuprofen, naproxen, diclofenac
+- Aspirin
+- Antidepressants (TCA): Amitriptyline
+- Calcium channel blockers: Diltiazem, verapamil
+- Some antibiotics: Doxycycline, tetracycline
+- Antihistamines: Diphenhydramine
+- Consider alternatives with doctor
+
+COMPLICATIONS IF UNTREATED:
+- Barrett's esophagus: Precancerous lining change (1% undergo malignant transformation)
+- Esophageal strictures: Narrowing from scarring (dysphagia develops)
+- Esophageal ulcers: Can cause upper GI bleeding
+- Aspiration pneumonia: Acid enters lungs
+- Laryngeal cancer: Chronic acid exposure (rare)
+- Dental erosion: Acid damages tooth enamel irreversibly
+
+WHEN TO SEEK EMERGENCY CARE:
+- Sudden severe chest pain (rule out heart attack)
+- Vomiting blood or black material (melena)
+- Severe difficulty swallowing
+- Persistent vomiting
+
+WHEN TO SEE DOCTOR:
+- Symptoms > 2 weeks despite medication
+- New symptoms of dysphagia (difficulty swallowing)
+- Involuntary weight loss
+- Not improving on treatment after 2-4 weeks
+- Atypical symptoms: Persistent cough, voice changes, asthma-like symptoms
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Hormonal and mechanical (growing uterus) factors increase reflux
+  Most antacids and H2 blockers safe; avoid some PPIs or discuss with OB
+- Elderly: May have different presentation (chest pain, aspiration) — needs evaluation
+- PPI long-term use: Associated with B12 deficiency, calcium malabsorption, increased pneumonia risk
+- Long-term management: Goal is symptom control, not eliminating all acid (acid is needed for digestion)

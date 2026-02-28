@@ -1,0 +1,279 @@
+DISEASE: COPD (Chronic Obstructive Pulmonary Disease)
+CATEGORY: Respiratory / Pulmonary
+ICD-10: J43 (emphysema), J44 (COPD)
+SEVERITY: Moderate-Severe; progressive, incurable
+
+DESCRIPTION:
+COPD is chronic progressive lung disease causing airflow obstruction, making breathing difficult.
+Encompasses emphysema (alveolar destruction) and chronic bronchitis (inflammation, mucus). Primarily
+from smoking (85%), but air pollution exposure also contributes. Affects 10% adults >40 years.
+Currently 4th leading cause of death globally. Irreversible but manageable with treatment.
+
+PATHOPHYSIOLOGY:
+
+EMPHYSEMA:
+- Alveolar destruction: Loss of elastic recoil
+- Lack of elastic fibers: Loss of airways' supporting structure
+- Air trapping: Difficulty exhaling
+- Increased residual volume: Hyperinflation
+
+CHRONIC BRONCHITIS:
+- Inflammation of airways: Mucous gland hypertrophy
+- Mucus plugging: Obstruction, impaired clearance
+- Remodeling: Smooth muscle proliferation, fibrosis
+- Infection: Recurrent bacterial superinfection
+
+RISK FACTORS:
+
+PRIMARY:
+- Smoking: 85% of cases (active, passive, occupational)
+- Air pollution: Industrial exposure, outdoor/indoor pollution
+- Indoor fuel burning: Biomass, wood smoke (developing countries)
+
+GENETIC:
+- Alpha-1 antitrypsin (AAT) deficiency: Rare (<1%), severe early-onset COPD
+  * Accelerated by smoking
+  * Consider in COPD <45 or minimal smoking history
+
+OCCUPATIONAL:
+- Dust, chemicals: Mining, foundries, grain dust
+- Silica, asbestos
+- Occupational asthma progression to COPD
+
+SYMPTOMS:
+
+EARLY:
+- Dyspnea: Shortness of breath, especially with exertion
+- Cough: Chronic (persistent, usually productive)
+- Sputum production: Daily expectoration
+
+PROGRESSIVE (As disease worsens):
+- Increased shortness of breath: At rest later
+- Cough: Constant, often morning worse
+- Sputum: Yellow/greenish when infected
+- Wheezing: From airflow obstruction
+- Chest tightness
+- Fatigue: From breathing effort
+- Weight loss: From increased metabolism
+
+EXACERBATIONS:
+- Acute worsening: Increased cough, sputum volume/color change
+- Shortness of breath: More severe
+- Fever: If infection
+- Triggers: Infections (viral URI, bacterial), pollution, cold air
+
+COMPLICATIONS:
+- Acute respiratory failure: Requires hospitalization, possible intubation
+- Pneumonia: Superinfection
+- Pneumothorax: Spontaneous from bullae rupture
+- Cor pulmonale: Right heart failure from chronic hypoxia
+- Depression, anxiety: Common comorbidities
+
+DIAGNOSIS:
+
+SPIROMETRY (Gold standard):
+- FEV1 (Forced Expiratory Volume in 1 second) / FVC ratio <0.70: Diagnostic
+- Grades severity:
+  * GOLD 1 (Mild): FEV1 ≥80% predicted
+  * GOLD 2 (Moderate): FEV1 50-79% predicted
+  * GOLD 3 (Severe): FEV1 30-49% predicted
+  * GOLD 4 (Very Severe): FEV1 <30% predicted
+
+IMAGING:
+- Chest X-ray: Shows hyperinflation, bullae (emphysema), bronchial thickening (bronchitis)
+- High-resolution CT: Better defines emphysema, helps prognosticate
+- ECG: Check for cor pulmonale signs (right axis deviation, prominent P waves)
+
+BLOOD TESTS:
+- Arterial blood gas: If severe, shows CO2 retention, hypoxemia
+- Alpha-1 antitrypsin: If <45 age diagnosis or minimal smoking
+- CBC: Check for polycythemia (from chronic hypoxia)
+
+MEDICATIONS USED:
+
+BRONCHODILATORS (Primary treatment):
+
+1. SHORT-ACTING BETA-2 AGONISTS (SABA):
+   - Salbutamol (Albuterol): 2-4 puffs every 4-6 hours
+   - Rapid relief: 10-15 minutes, duration 4-6 hours
+   - Rescue medication for acute dyspnea
+   - Brand names: Ventolin rescue inhaler
+   - SIDE EFFECTS: Tremor, tachycardia
+   - Use as needed
+
+2. LONG-ACTING BETA-2 AGONISTS (LABA):
+   - Salmeterol: 2 puffs twice daily
+   - Formoterol: 2 puffs twice daily
+   - Duration: 12-24 hours
+   - Maintenance therapy (NOT for acute)
+   - Brand names: Seretide (with ICS), alone as maintenance
+   - SIDE EFFECTS: Tremor, tachycardia
+
+3. ANTICHOLINERGICS (Long-acting):
+   - Tiotropium (Spiriva): 1 puff daily
+   - Ipratropium: 2 puffs 3-4 times daily (short-acting)
+   - Blocks acetylcholine, dilates airways
+   - Often combined with LABA
+   - Brand names: Spiriva
+
+4. COMBINATION THERAPY (LABA + LAMA):
+   - Salmeterol + Fluticasone (ICS/LABA): Seretide
+   - Tiotropium + Olodaterol (LABA/LAMA): Stiolto
+   - Triple therapy: ICS + LABA + LAMA
+   - Standard for moderate-severe
+   - Better efficacy than single agents
+
+CORTICOSTEROIDS (ICS — Inhaled):
+
+5. FLUTICASONE PROPIONATE:
+   - Dosage: 100-250 mcg twice daily (with LABA in combination)
+   - Reduces airway inflammation
+   - Daily use
+   - SIDE EFFECTS: Oral candidiasis (rinse mouth), hoarse voice
+   - Used with LABA (Seretide)
+   - Brand names: Flovent
+
+OTHER INHALERS:
+6. THEOPHYLLINE (Rare now):
+   - Dosage: 300-600 mg daily
+   - Weak bronchodilator, mostly historical interest
+   - Narrow therapeutic window
+   - SIDE EFFECTS: Arrhythmias, seizures if overdose
+
+OXYGEN THERAPY:
+
+7. SUPPLEMENTAL OXYGEN:
+   - For severe COPD with hypoxemia (O2 sat <88%)
+   - Oxygen concentrator: Home-based, 15-20 hours/day
+   - Portable oxygen: For exertional dyspnea
+   - Goal: O2 sat >88-90%
+   - Improves survival, reduces hospitalizations
+
+EXACERBATION TREATMENT:
+
+8. ANTIBIOTICS (If infection suspected):
+   - If sputum becomes purulent
+   - Ampicillin-sulbactam: 375-750 mg orally
+   - Levofloxacin: 500 mg daily
+   - Duration: 5-7 days
+
+9. SYSTEMIC CORTICOSTEROIDS:
+   - Prednisone: 20-40 mg daily x 3-5 days (tapering not needed for short course)
+   - Reduces inflammation, speeds recovery
+   - Given if exacerbation
+
+10. RESPIRATORY SUPPORT (Severe):
+    - Noninvasive positive pressure ventilation (NIPPV/BiPAP): If acute respiratory failure
+    - Mechanical ventilation: If life-threatening hypoxemia/hypercapnia
+
+FOODS TO EAT (Lung health):
+- Fatty fish: Salmon, sardines (omega-3, anti-inflammatory)
+- Vegetables: Leafy greens, peppers (antioxidants)
+- Fruits: Berries, grapes (antioxidants)
+- Whole grains: Brown rice, oats
+- Legumes / Dal: Protein, fiber
+- Turmeric / Haldi: Anti-inflammatory (curcumin)
+- Ginger / Adrak: Anti-inflammatory
+- Garlic / Lahsun: Antimicrobial properties
+- Herbs: Varied nutrients
+- Small, frequent meals: Avoid fatigue from digestion
+- Hydration: 1.5-2 liters daily (helps mucus clearance)
+
+FOODS TO AVOID:
+- Salt: Excess (limit fluid retention, pulmonary edema risk)
+- Gas-producing foods: Cruciferous vegetables can cause bloating
+- Processed foods: Low nutrients
+- Excess dairy: May increase mucus (debated, but some avoid)
+- Fried foods: Heavy, require more oxygen for digestion
+- Alcohol: May impair immunity
+- High-calorie foods (obesity): Worsens dyspnea
+
+LIFESTYLE MODIFICATIONS:
+
+SMOKING CESSATION:
+- MOST important intervention
+- Slows decline dramatically
+- Never too late to quit
+
+VACCINATIONS:
+- Pneumococcal vaccine: PCV13, PPSV23
+- Influenza: Annual
+- COVID-19: Recommended
+- Pertussis: Tdap if not recently immunized
+
+EXERCISE:
+- Pulmonary rehabilitation: 8-12 weeks program
+  * Exercise training: Improves exercise capacity
+  * Benefits: Reduced dyspnea, improved quality of life
+  * Smoking cessation counseling
+  * Nutritional support
+  * Psychological support
+- Walking: Daily activity
+- Breathing exercises: Pursed-lip breathing, diaphragmatic
+- Strength training: Maintaining muscle mass
+
+BREATHING TECHNIQUES:
+- Pursed-lip breathing: Exhale against resistance (improves CO2 clearance)
+- Slow deep breathing: Improves oxygenation
+
+DIU AVOIDANCE:
+- Exercise at cool times: Heat/humidity worsens symptoms
+- Avoid pollutant exposure: Industrial, traffic
+- Indoor air quality: Use air purifier if needed
+- Cold air: Cover mouth when cold, wear scarf
+
+MENTAL HEALTH:
+- Depression common: Screen and treat
+- Anxiety: Relaxation techniques
+- Support groups: Helpful
+
+MONITORING:
+
+SPIROMETRY:
+- Baseline and annually: Track FEV1 decline
+
+EXACERBATION FREQUENCY:
+- ≥2 per year warrant escalation of therapy
+- Keep diary: Symptom tracking
+
+BLOOD TESTS:
+- Annually: CBC, oxygen saturation
+- AAT level: If early-onset or minimal smoking
+
+IMAGING:
+- Chest X-ray: As needed (exacerbation, new symptoms)
+
+WHEN TO SEEK DOCTOR:
+- Persistent cough: New or worsening
+- Shortness of breath: Increasing severity
+- Change in sputum: Color, volume, consistency
+- Wheezing: New or worsening
+- Symptoms affecting activity: Limiting function
+
+WHEN URGENT/EMERGENCY:
+- Severe dyspnea: At rest
+- Confusion or stupor
+- Cyanosis: Blue lips/fingers
+- Inability to speak: Severe dyspnea
+- Chest pain: Rule out cardiac
+[SEEK EMERGENCY IF SEVERE RESPIRATORY DISTRESS]
+
+COMPLICATIONS (If untreated):
+- Respiratory failure: Requires intubation
+- Cor pulmonale: Right heart failure, prognosis poor
+- Pulmonary hypertension
+- Recurrent exacerbations: Lead to hospitalization
+- Pneumonia, pneumothorax
+
+PROGNOSIS:
+- Progressive disease: FEV1 declines ~50 mL/year (faster if smoking, slower if quit)
+- With smoking cessation: Decline slows to ~20 mL/year
+- Median survival: GOLD 4 (very severe) ~4 years
+- One-year mortality post-exacerbation requiring hospitalization: 10-15%
+- Quality of life: Significant impact, improves with treatment/rehabilitation
+
+SPECIAL CONSIDERATIONS:
+- AAT deficiency: Much more aggressive, requires AAT replacement therapy
+- Occupational COPD: May benefit from disability, occupational changes
+- Exacerbations: Frequent exacerbators may benefit from triple therapy earlier
+- Pulmonary rehabilitation: Should be offered to all, dramatically improves outcomes

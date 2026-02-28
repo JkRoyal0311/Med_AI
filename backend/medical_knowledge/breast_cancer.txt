@@ -1,0 +1,250 @@
+DISEASE: Breast Cancer
+CATEGORY: Oncology / Endocrine-Related
+ICD-10: C50
+SEVERITY: Serious; varies by stage and type
+
+DESCRIPTION:
+Breast cancer is malignant tumor of breast tissue. Most common cancer in women (affects men too, <1%).
+Subtypes differ genetically (hormone receptor status, HER2). Prognosis depends on stage at diagnosis.
+Modern treatments highly effective, especially if caught early. Requires multidisciplinary approach:
+surgery, radiation, chemotherapy, hormonal/targeted therapy.
+
+RISK FACTORS:
+
+FEMALE HORMONES:
+- Estrogen exposure: Duration of menstruating years
+- Early menarche: Before age 12
+- Late menopause: After age 55
+- No/late childbearing: Nulliparity, first birth >30
+- Short/no breastfeeding: Protective factor not utilized
+- Hormone replacement therapy (HRT): Increases risk
+- Oral contraceptives: Slightly increased (resolves after discontinuation)
+
+GENETIC:
+- Family history: First-degree relative with breast cancer
+- BRCA1/BRCA2 mutations: Lifetime risk 45-87%
+- Other genetic predisposition genes: TP53, PTEN
+
+PERSONAL HISTORY:
+- Previous breast cancer: Risk of second primary
+- Benign breast disease: Certain types (atypical hyperplasia)
+- Chest radiation: Before age 30 (significantly increases risk)
+
+LIFESTYLE/ENVIRONMENTAL:
+- High BMI (>25): Especially postmenopause (estrogen from adipose tissue)
+- Alcohol: 1+ drink daily increases risk
+- Smoking: Modest increase
+- Physical inactivity: Sedentary lifestyle
+- Red/processed meat: Controversial, possible increased risk
+- Obesity: Through estrogen elevation
+
+AGE:
+- Risk increases with age: 1 in 8 women develop breast cancer lifetime
+- Peak incidence: Ages 60-70
+
+BREAST DENSITY:
+- High density ("radiographically dense breasts"): 4-6x higher risk
+- Genetic or hormonal basis (not modifiable)
+
+SYMPTOMS:
+
+EARLY (Often asymptomatic, found on screening):
+- Screening mammogram abnormality: Calcifications, mass
+
+PALPABLE SYMPTOMS:
+- Breast lump: Hard, painless (in breast self-exam)
+- Nipple discharge: Unilateral, spontaneous (bloody/blood-tinged most concerning)
+- Nipple inversion: New or changes
+- Skin dimpling or puckering: "Orange peel" appearance
+- Breast pain: Unilateral (persistent, not cyclical)
+- Axillary lymphadenopathy: Swollen armpit nodes
+
+SIGNS OF ADVANCED DISEASE:
+- Constitutional: Weight loss, fatigue
+- Metastatic symptoms: Bone pain, shortness of breath, cognitive changes
+
+INFLAMMATORY BREAST CANCER (Red flag):
+- Breast edema, erythema (red, swollen)
+- Rapid onset
+- Aggressive type
+
+DIAGNOSIS:
+
+SCREENING:
+- Mammography: Standard screening (ages 40-50 depending on guidelines)
+- Ultrasound: For dense breasts, supplemental
+- MRI: High-risk individuals (BRCA+, family history)
+
+DIAGNOSTIC:
+- Clinical breast exam: Doctor evaluation
+- Mammography: Diagnostic (not screening)
+- Ultrasound: Characterize lesion
+- Core needle biopsy: Tissue diagnosis (preferred)
+- Surgical excision: If biopsy inconclusive
+- Pathology: Confirms malignancy, subtype
+
+STAGING:
+- TNM (Tumor, Node, Metastasis)
+  * Stage 0: Carcinoma in situ (DCIS, LCIS)
+  * Stage 1: Small tumor, no nodes
+  * Stage 2: Tumor or nodal involvement
+  * Stage 3: Advanced local/regional disease
+  * Stage 4: Distant metastases (incurable but treatable)
+
+TUMOR SUBTYPING:
+- Hormone receptor status: ER+, PR+, or ER-/PR- (triple-negative if also HER2-)
+- HER2 status: HER2+ or HER2-
+- Grade: 1-3 (histological aggressiveness)
+
+MEDICATIONS USED:
+
+CHEMOTHERAPY (Varies by type, stage, subtype):
+
+1. DOXORUBICIN (Anthracycline)
+   - Part of AC (Adriamycin/cyclophosphamide) regimen
+   - IV infusion
+   - RED HAND syndrome: Red urine (harmless)
+   - SIDE EFFECTS: Cardiomyopathy (dose-dependent), alopecia, nausea
+   - Often combined with taxane (paclitaxel/DocetaxelDocuments)
+
+2. PACLITAXEL or DOCETAXEL (Taxanes)
+   - IV infusion or oral
+   - SIDE EFFECTS: Peripheral neuropathy (sometimes permanent), alopecia, nausea
+   - Commonly used in early stage and metastatic
+
+3. CYCLOPHOSPHAMIDE (Alkylating agent)
+   - Part of AC or "Red devil" regimens
+   - SIDE EFFECTS: Hemorrhagic cystitis (bladder bleeding), alopecia, nausea
+   - Mesna given to protect bladder
+
+HORMONAL THERAPY (For ER+ breast cancer):
+
+4. TAMOXIFEN
+   - Dosage: 20 mg daily for 5-10 years
+   - Blocks estrogen receptor in breast tissue
+   - SIDE EFFECTS: Hot flashes, vaginal dryness, blood clots (0.5%)
+   - Can increase uterine cancer (rare but real)
+   - Good for premenopausal women
+
+5. AROMATASE INHIBITORS (AI) — For postmenopausal:
+   - Letrozole: 2.5 mg daily
+   - Anastrozole: 1 mg daily
+   - Exemestane: 25 mg daily
+   - Block estrogen synthesis in peripheral tissues
+   - SIDE EFFECTS: Hot flashes, joint pain, bone loss (osteoporosis risk)
+   - Duration: 5-10 years
+   - Better than tamoxifen for postmenopausal
+
+TARGETED THERAPY (For HER2+ cancer):
+
+6. TRASTUZUMAB (Herceptin)
+   - Monoclonal antibody against HER2
+   - IV infusion over 1 year
+   - SIDE EFFECTS: Cardiomyopathy (monitor ejection fraction), infusion reactions
+   - Transforms prognosis of HER2+ disease
+   - Often combined with chemotherapy
+
+7. PERTUZUMAB (Perjeta)
+   - Different HER2 epitope, combined with Trastuzumab
+   - For metastatic HER2+ breast cancer
+
+CDK4/6 INHIBITORS (Newer, for HR+ advanced):
+
+8. PALBOCICLIB
+   - Dosage: 125 mg daily (21 days on, 7 days off)
+   - Combined with aromatase inhibitor or fulvestrant
+   - SIDE EFFECTS: Neutropenia, diarrhea, elevated liver enzymes
+   - Improves progression-free survival significantly
+
+RADIATION THERAPY:
+- Post-surgical: Reduces recurrence risk
+- Palliative: For bone/brain metastases, pain control
+- Side effects: Skin changes, fatigue, cardiac (if left-sided chest irradiation)
+
+SURGERY:
+- Breast-conserving surgery (lumpectomy): Remove tumor + margins
+  * Requires radiation post-op
+  * Good cosmetic outcome
+- Mastectomy: Remove entire breast (with/without reconstruction)
+- Sentinel lymph node biopsy: Staging
+- Axillary dissection: If positive nodes
+
+SUPPORTIVE CARE:
+9. ANTI-NAUSEA:
+   - Ondansetron: 8 mg three times daily during chemotherapy
+
+10. BONE HEALTH:
+    - Zoledronic acid: IV infusion every 3-4 months (prevent bone loss, reduce metastases)
+    - Calcium and vitamin D supplementation
+
+FOODS TO EAT (General wellness):
+- Vegetables: Leafy greens, cruciferous (broccoli, cauliflower, cabbage)
+- Fruits: Berries (antioxidants), citrus
+- Whole grains: Brown rice, whole wheat
+- Legumes / Dal: Protein, fiber
+- Fatty fish: Salmon (omega-3 fatty acids)
+- Lean proteins: Chicken, turkey
+- Nuts and seeds: Moderation (high calorie)
+- Turmeric / Haldi: Curcumin has anti-inflammatory properties
+- Green tea: Antioxidants
+- Extra virgin olive oil: Heart-healthy
+- Herbs: Garlic, ginger for general health
+
+FOODS TO AVOID/LIMIT:
+- Red meat: Limit (not explicitly contraindicated but epidemiologically higher with high consumption)
+- Processed foods: Preservatives, nitrates
+- High-fat dairy: Limit
+- Alcohol: Avoid or minimize (increases estrogen)
+- High-calorie foods: GainStat through weight gain
+- Soy: Controversial (generally safe, but some caution in ER+ disease — discuss with oncology)
+- Excess sugar: Avoid refined sugars
+- Smoking: Absolutely avoid
+
+LIFESTYLE MODIFICATIONS:
+- Exercise: 150 min/week aerobic activity (reduces recurrence risk)
+- Weight management: Obesity increases recurrence risk
+- Stress reduction: Yoga, meditation (effect on recurrence debated but helpful for wellness)
+- Sleep: 7-8 hours nightly
+- Smoking cessation: Better outcomes, fewer complications
+- Limit alcohol: <1 drink daily if any
+- Regular follow-up: Surveillance for recurrence
+
+MONITORING/FOLLOW-UP:
+- Clinical exams: Every 3-6 months in first 2-3 years
+- Imaging: Annual mammography (contralateral breast)
+- Tumor markers: Not routinely used for screening (high false-positive)
+- Cognitive/emotional: Depression screening, rehabilitation programs
+
+COMPLEMENTARY THERAPIES (Supportive, not curative):
+- Acupuncture: For hot flashes, pain
+- Yoga: Stress reduction, physical wellness
+- Meditation: Anxiety, stress
+- Nutritional support: Dietitian-guided
+- Psychosocial support: Cancer support groups, therapy
+
+WHEN TO SEEK DOCTOR:
+- Breast lump: New or persistent
+- Nipple discharge: Unilateral, spontaneous
+- Skin changes: Dimpling, redness, puckering
+- Persistent breast or axillary pain
+- Screening recommendations: Age-appropriate
+- Family history: Consider BRCA testing
+
+SPECIAL CONSIDERATIONS:
+- Premenopausal: Pregnancy options before treatment (egg/sperm banking)
+- ER+ young women: Less aggressive often, tamoxifen preferred
+- BRCA+ mutation: Prophylactic mastectomy/oophorectomy consideration
+- Pregnancy after cancer: Generally safe if ≥5 years disease-free
+- Fertility preservation: Options exist before chemotherapy
+- Menopause symptoms: Managing hot flashes during tamoxifen/AI therapy challenging
+- Secondary malignancies: Small risk years later (surveillance important)
+
+PROGNOSIS:
+- Stage 1: 5-year survival ~99%
+- Stage 2: 5-year survival ~93%
+- Stage 3: 5-year survival ~72%
+- Stage 4 (metastatic): 5-year survival ~28% (highly variable, some live 10+ years)
+- HER2+ tumors: Dramatically improved with trastuzumab (60-80% response)
+- Triple-negative: More aggressive, harder to treat
+
+[MULTIDISCIPLINARY CARE ESSENTIAL — ONCOLOGIST, SURGEON, RADIATION ONCOLOGIST, BREAST RECONSTRUCTIVE SURGEON, PSYCHOSOCIAL TEAM]

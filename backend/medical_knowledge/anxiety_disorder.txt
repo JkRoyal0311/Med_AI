@@ -1,0 +1,266 @@
+DISEASE: Anxiety Disorder (Generalized Anxiety Disorder — GAD)
+CATEGORY: Psychiatric / Mental Health
+ICD-10: F41.1
+SEVERITY: Mild-Moderate; significantly impacts quality of life
+
+DESCRIPTION:
+Generalized anxiety disorder is persistent, excessive worry about daily activities lasting ≥6 months.
+Differs from normal worry by intensity, frequency, duration. Affects focus, sleep, physical health.
+Prevalent in 2-3% population. Often coexists with depression, other anxiety disorders. Treatable with
+medication and psychotherapy.
+
+SYMPTOMS:
+
+PSYCHOLOGICAL:
+- Excessive worry: About everyday matters (work, health, finances, relationships)
+- Uncontrollable worry: Difficult to stop, mind "racing"
+- Anticipatory anxiety: Worry about future events
+- Difficulty concentrating: Due to intrusive thoughts
+- Difficulty making decisions: Overthinking
+- Irritability: From strained mind
+- Feeling on edge: Constant alertness
+- Fear of losing control
+- Fear of dying or having medical emergency (health anxiety variant)
+
+PHYSICAL:
+- Restlessness: Inability to sit still
+- Muscle tension: Shoulders, neck, jaw
+- Muscle aches: From sustained tension
+- Tremor: Shaking hands
+- Headaches: Often tension-type
+- Fatigue: From sustained anxiety
+- Sleep disturbance: Difficulty falling asleep, frequent awakenings
+- Shortness of breath: Feeling of not enough oxygen
+- Palpitations: Aware of rapid/irregular heartbeat
+- Dizziness or lightheadedness
+- Sweating: Cold sweats
+- Nausea: Sometimes vomiting
+- Frequent urination: From sympathetic activation
+- Diarrhea: GI sensitivity
+- Hot flashes: Or feeling chilled
+
+SYMPTOMS WORSEN WITH:
+- Stress events: Work deadlines, relationship issues
+- Caffeine: Exacerbates physical symptoms
+- Lack of sleep
+- Rumination: Thinking about worries
+
+DIAGNOSIS:
+Clinical diagnosis based on DSM-5 criteria:
+- Excessive worry ≥6 months about multiple domains
+- Difficulty controlling worry
+- ≥3 physical symptoms (from above list)
+- Significant functional impairment
+- Rule out medical causes
+
+MEDICAL WORKUP:
+- TSH: Rule out hyperthyroidism
+- Electrocardiogram: If cardiac symptoms prominent
+- Caffeine assessment: Rule out stimulant overuse
+- Substance use screening: Withdrawal from alcohol/benzodiazepines
+
+MEDICATIONS USED:
+
+FIRST-LINE ANTIDEPRESSANTS:
+
+1. SSRI (SELECTIVE SEROTONIN REUPTAKE INHIBITORS):
+
+   A. SERTRALINE
+      - Dosage: Start 50 mg daily, increase to 50-100 mg (max 200 mg)
+      - Once-daily dosing (morning)
+      - Takes 2-4 weeks for effect
+      - SIDE EFFECTS: Initial activation, sexual dysfunction, weight gain (10-15%)
+      - Generally well-tolerated
+      - Low drug interactions
+      - Brand names: Zoloft
+
+   B. PAROXETINE
+      - Dosage: Start 20 mg daily, increase to 20-40 mg (max 60 mg)
+      - Once daily (morning)
+      - Takes 2-4 weeks for effect
+      - SIDE EFFECTS: More sedating, sexual dysfunction, weight gain, difficult to discontinue
+      - Less preferred due to discontinuation syndrome
+      - Brand names: Paxil
+
+   C. ESCITALOPRAM
+      - Dosage: Start 10 mg, increase to 10-20 mg (max 20 mg due to cardiac concerns at higher doses)
+      - Once daily (morning)
+      - Better tolerated than paroxetine
+      - Takes 2-4 weeks
+      - SIDE EFFECTS: Sexual dysfunction (less than others), generally good profile
+      - Brand names: Lexapro
+
+   D. FLUOXETINE
+      - Dosage: Start 20 mg daily, increase to 20-40 mg (max 80 mg)
+      - Long half-life (helps if missed doses)
+      - Takes 4-6 weeks for effect (slower onset)
+      - SIDE EFFECTS: Activating, sexual dysfunction
+      - Brand names: Prozac
+
+2. SNRI (SEROTONIN-NOREPINEPHRINE REUPTAKE INHIBITORS):
+
+   A. VENLAFAXINE (Extended-release)
+      - Dosage: Start 37.5-75 mg, increase to 150-225 mg (max 225 mg)
+      - Once daily dosing
+      - Takes 2-4 weeks for effect
+      - SIDE EFFECTS: Hypertension possible, sexual dysfunction, activating, difficult discontinuation
+      - Monitor BP at higher doses
+      - Brand names: Effexor
+
+   B. DULOXETINE
+      - Dosage: Start 30-60 mg daily, increase to 60 mg (max 120 mg)
+      - Once daily (can divide dose)
+      - Takes 1-2 weeks for effect
+      - SIDE EFFECTS: Nausea (common initially), sexual dysfunction, dizziness
+      - Take with food to reduce nausea
+      - Brand names: Cymbalta
+
+SECOND-LINE AGENTS:
+
+3. BUSPIRONE (Anxiolytic, non-controlled)
+   - Dosage: Start 7.5 mg twice daily, increase to 15-30 mg daily (max 60 mg)
+   - Takes 2-4 weeks for effect (longer than SSRIs)
+   - SIDE EFFECTS: Minimal; dizziness possible, headache
+   - NO dependence potential
+   - CAUTION: Less effective than SSRIs for severe anxiety
+   - Good option for mild-moderate anxiety as monotherapy
+
+4. TRICYCLIC ANTIDEPRESSANTS (Older, less preferred):
+   - Imipramine, Amitriptyline
+   - More side effects than SSRIs
+   - Use if SSRIs/SNRIs failed or contraindicated
+
+BENZODIAZEPINES (Short-term only):
+
+5. LORAZEPAM
+   - Dosage: 0.5-2 mg daily, divided doses
+   - Takes effect within 30 minutes
+   - IMPORTANT: Use only SHORT-TERM (2-4 weeks)
+   - RISK: Dependence, tolerance, rebound anxiety (with discontinuation)
+   - May be bridging therapy (while SSRI takes effect — takes weeks)
+   - DO NOT use long-term
+   - Brand names: Ativan
+
+6. ALPRAZOLAM
+   - Dosage: 0.25-1 mg daily, divided
+   - Faster onset than lorazepam but shorter half-life
+   - Same concerns as lorazepam (dependence, tolerance)
+   - Brand names: Xanax
+
+OTHER AGENTS:
+
+7. PREGABALIN (Anticonvulsant)
+   - Dosage: Start 150 mg/day, increase to 300-600 mg (max 600 mg)
+   - Divided doses
+   - Takes 1 week for effect
+   - SIDE EFFECTS: Dizziness, drowsiness, weight gain
+   - FDA-approved for GAD
+   - Alternative if SSRIs not tolerated
+
+MEDICATIONS TO AVOID:
+- Abrupt discontinuation of benzodiazepines: Risk of seizures, rebound anxiety
+- Exceeding SSRI doses: No additional benefit, more side effects
+- Long-term benzodiazepines: Develop tolerance, dependence
+- Non-prescribed stimulants: Worsen anxiety
+- High-dose NSAIDs: May interact with some SSRIs
+
+FOODS TO EAT (Mood and anxiety support):
+- Complex carbohydrates: Whole grains, brown rice (serotonin support)
+- Lean proteins: Chicken, fish, turkey (amino acids)
+- Omega-3 fatty acid sources: Salmon, sardines, walnuts (anti-inflammatory)
+- Leafy greens / Palak, methi: Magnesium, folate
+- Legumes / Dal: B vitamins, magnesium
+- Nuts and seeds: Magnesium, selenium (supports mood)
+- Berries: Antioxidants
+- Bananas: Tryptophan, B vitamins
+- Eggs: B vitamins, choline
+- Turmeric / Haldi: Curcumin has anti-inflammatory properties
+- Ginger / Adrak: Calming properties
+- Herbal teas: Chamomile, passionflower (mild calming)
+- Dark chocolate: Small amounts (serotonin support, magnesium)
+
+FOODS/SUBSTANCES TO AVOID:
+- Caffeine: Worsens anxiety (coffee, tea, cola, chocolate, energy drinks)
+- High sugar foods: Energy spikes/crashes
+- Alcohol: Initially calming but worsens anxiety long-term
+- Processed foods: Chemical additives, low nutrients
+- Excess sodium: Can increase anxiety
+- High-fat foods: Heavy, sluggish feeling
+- Artificial sweeteners: Controversial, some worsen anxiety
+- Stimulating foods: Spicy foods (sometimes trigger anxiety)
+
+CAFFEINE REDUCTION:
+- Gradual taper: Not abrupt (can cause headaches)
+- Transition to decaf or herbal tea
+- READ LABELS: Hidden caffeine in chocolate, soft drinks, non-cola sodas
+
+BEHAVIORAL TREATMENTS (Equal to medication):
+
+COGNITIVE BEHAVIORAL THERAPY (CBT):
+- Identify worry triggers
+- Challenge catastrophic thinking
+- Behavioral experiments to test fear
+- Relaxation techniques
+- 12-20 sessions, 70-80% response rate
+- Gold standard if combined with medication
+
+RELAXATION TECHNIQUES:
+- Progressive muscle relaxation: Tense, release muscles
+- Diaphragmatic breathing: 4-7-8 technique
+- Mindfulness meditation: Acceptance-based
+- Yoga: Poses, breathing, meditation
+- Tai Chi: Slow, meditative movement
+
+LIFESTYLE MODIFICATIONS:
+- Exercise: 150 min/week aerobic (anxiolytic effect)
+- Sleep: 7-8 hours nightly
+- Limit caffeine: Eliminate or very low
+- Stress reduction: Identify and manage stressors
+- Social support: Maintain relationships
+- Proper nutrition: Regular, balanced meals
+- Avoid alcohol: Even "calming" use is counterproductive
+- Time outdoors: Nature exposure
+- Meditation/mindfulness: Daily 10-20 minutes
+- Grounding techniques: 5-4-3-2-1 sensory awareness
+
+MONITORING TREATMENT:
+- Assess after 2-3 weeks: Breakthrough symptoms?
+- Assess after 4 weeks: Medication working?
+- Adjust dose if insufficient response
+- Continue for 6-12 months minimum once effective
+- Gradual tapering if discontinuing (after response achievable)
+
+WHEN TO SEEK DOCTOR:
+- Worry interfering with work, relationships
+- Physical symptoms: Insomnia, heart palpitations
+- Substance use for anxiety relief (alcohol, drugs)
+- Thoughts of self-harm
+- Not improving with lifestyle changes
+- Need of psychological support
+
+WHEN TO SEEK URGENT ATTENTION:
+- Severe panic attack with cardiac symptoms
+- Thoughts of suicide or self-harm
+[SEEK EMERGENCY CARE IF URGENT]
+
+SIDE EFFECT MANAGEMENT:
+- Initial activation/jitteriness: Usually resolves in 1-2 weeks; reassure patient
+- Sexual dysfunction: May resolve given time; can switch agents or add bupropion
+- Weight gain: Common with SSRIs; monitor, may need lifestyle intervention
+- Nausea: Take with food, usually resolves
+- Dry mouth: Sugar-free gum, mouthwash
+- Discontinuation syndrome: Gradual taper over 4-12 weeks
+
+PROGNOSIS:
+- With treatment: 60-70% achieve significant improvement
+- Without treatment: Often chronic, fluctuating course
+- Combination (medication + CBT): Best outcomes
+- Many require long-term treatment
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: SSRIs safe, some risk with benzodiazepines in 1st trimester
+- Elderly: SSRIs preferred, avoid benzodiazepines (fall, memory risk)
+- Substance abuse history: Avoid benzodiazepines (dependence risk)
+- Medical conditions: Rule out hyperthyroidism, cardiac causes first
+- Comorbid depression: SSRIs/SNRIs treat both
+- Insomnia: Choose more sedating agents (sertraline, mirtazapine) if needed

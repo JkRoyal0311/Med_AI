@@ -1,0 +1,245 @@
+DISEASE: Constipation
+CATEGORY: Gastrointestinal
+ICD-10: K59.1
+SEVERITY: Usually mild-moderate; can be serious if causing ileus or impaction
+
+DESCRIPTION:
+Constipation is infrequent or difficult bowel movements. Defined as <3 stools per week, OR straining
+for ≥25% of defecations, OR hard stools (Bristol scale 1-2). Extremely common, affects 2-30% of population
+depending on definition. Usually functional (no serious underlying disease) but can indicate serious pathology.
+
+TYPES:
+- Occasional constipation: Triggered by diet, travel, medications
+- Chronic constipation: Persistent, >3 months
+- Opioid-induced: From narcotic pain medications (very common)
+- Medication-related: From various drugs
+
+CAUSES:
+
+LIFESTYLE/DIETARY:
+- Low fiber intake: Most common cause
+- Low water intake: Dehydration
+- Sedentary lifestyle: Lack of movement
+- Ignoring urge to defecate: Stool returns to colon, reabsorbs water
+- Stress and anxiety
+- Travel and schedule disruption
+- Age: Increases with age
+
+MEDICATIONS:
+- Opioid pain medications: Morphine, codeine, tramadol (stop bowel movement)
+- Anticholinergics: Antihistamines, antidepressants, antispasmodics
+- Iron supplements
+- Calcium channel blockers
+- Certain antacids (aluminum-containing)
+- Diuretics
+
+MEDICAL CONDITIONS:
+- Hypothyroidism: Slowed metabolism
+- Irritable bowel syndrome (IBS)
+- Diabetes: Affects nerve function
+- Parkinson's disease: Reduces intestinal movement
+- Colon cancer: Narrowing of colon
+- Anal fissures: Pain with defecation causes retention
+- Hemorrhoids: Pain discourages defecation
+- Obstruction: Complete or partial blockage (rare, emergency)
+- Megacolon: Enlarged colon loses contractility
+- Neurological: Spinal cord injury, stroke
+
+SYMPTOMS:
+- Infrequent stools: <3 per week
+- Difficulty passing stool: Straining, effort
+- Hard or lumpy stools: Difficult to pass
+- Feeling of incomplete evacuation: Still need to go
+- Abdominal bloating and discomfort
+- Abdominal pain (may be severe)
+- Loss of appetite
+- Nausea
+- Rectal pain or anal fissures from straining
+- Hemorrhoids from straining
+- Sense of fullness
+
+RED FLAGS FOR SERIOUS PATHOLOGY:
+- Sudden onset in previously regular person
+- Severe pain
+- Blood in stool: Bright red (hemorrhoids vs dark red suggesting upper GI)
+- Weight loss
+- Age >50 with new-onset constipation (screen for cancer)
+- Severe abdominal distension (megacolon risk)
+
+MEDICATIONS USED:
+
+BULK LAXATIVES (First-line, safest):
+1. PSYLLIUM HUSK (Plantago ovata)
+   - Dosage: 1 teaspoon (3-5 grams) mixed with 8 oz water, 1-3 times daily
+   - Brand names: Isabgol, Metamucil
+   - Works in 12-24 hours (sometimes longer)
+   - MECHANISM: Absorbs water, increases stool bulk and water content
+   - SAFE long-term use
+   - SIDE EFFECTS: Bloating initially (reduces over time), gas
+   - Must drink plenty of water with it
+   - Indian: "Isabgol" widely available, affordable
+
+2. METHYLCELLULOSE
+   - Similar to psyllium
+   - Dosage: 1 tablespoon three times daily
+   - Doesn't ferment (less gas than psyllium)
+
+OSMOTIC LAXATIVES (Draw water into stool):
+3. POLYETHYLENE GLYCOL (PEG, Miralax)
+   - Dosage: 17 grams (1 heaping teaspoon) in 8 oz water daily
+   - Works in 24-48 hours
+   - Does not cause cramping like other osmotic laxatives
+   - Brand names: Miralax
+   - Safe for long-term use
+
+4. LACTULOSE
+   - Dosage: 15-30 mL (1-2 tablespoons) once or twice daily
+   - Works in 24-48 hours
+   - MECHANISM: Fermented by bacteria, increases osmotic load
+   - SIDE EFFECTS: Bloating, cramping, gas (common)
+   - Brand names: Duphalac, Lactosol
+
+5. MAGNESIUM HYDROXIDE (Milk of Magnesia)
+   - Dosage: 30-60 mL once daily
+   - Works in 6-8 hours
+   - CAUTION: Kidney disease (magnesium clearance impaired)
+
+6. SODIUM PHOSPHATE (Fleet enema, oral)
+   - Oral: 20-30 mL mixed in small amount water
+   - Enema: 1-2 bottles administered rectally
+   - Works in 30 minutes to 3 hours
+   - RISK: Electrolyte imbalance if overused
+   - Use cautiously
+
+STIMULANT LAXATIVES (More powerful, for occasional use):
+7. SENNA
+   - Dosage: 1-2 tablets (sennosides) at night
+   - Works in 6-12 hours
+   - MECHANISM: Stimulates colonic contractions
+   - SIDE EFFECTS: Cramping
+   - CAUTION: Not for chronic use (may cause dependence)
+   - Brand names: X-Prep, Sennox
+
+8. BISACODYL
+   - Dosage: 10 mg suppository or 5 mg tablet at night
+   - Works in 6-12 hours for tablets, 15-60 minutes for suppository
+   - CAUTION: Not for chronic use
+   - Brand names: Dulcolax
+
+STOOL SOFTENERS (For straining prevention):
+9. DOCUSATE SODIUM
+   - Dosage: 100 mg twice daily
+   - Works in 24-48 hours
+   - MECHANISM: Allows water and fat to mix with stool
+   - Does NOT stimulate bowel movement (adjunctive, combine with fiber)
+   - Brand names: Colace, Stool Softener
+   - For opioid-induced constipation (not alone, combine with osmotic laxative)
+
+COMBINATION PRODUCTS:
+10. SENNA + DOCUSATE
+    - Combines stimulant and stool softener
+    - More effective than either alone
+
+CHLORIDE CHANNEL ACTIVATORS (Newer):
+11. LINACLOTIDE (for chronic idiopathic constipation)
+    - Dosage: 145 mcg daily
+    - Works over days to weeks
+    - Brand name: Linzess
+    - More expensive, for resistant cases
+
+PROKINETIC AGENTS:
+12. DOMPERIDONE
+    - Enhances motility
+    - Dosage: 10 mg three times daily
+    - Slower effect than laxatives
+    - For functional constipation
+
+MEDICATIONS TO AVOID/DISCONTINUE (If possible):
+- Opioid pain medications: Discuss alternatives with doctor
+- Anticholinergics: Review with physician for necessity
+- Iron supplements: Take with vitamin C to minimize constipation
+- Calcium supplements: May worsen constipation
+
+FOODS TO EAT (High-fiber):
+- Whole grains: Brown rice, oats, whole wheat bread (15g fiber/day minimum)
+- Legumes / Dal: Beans, lentils (highest fiber foods)
+- Vegetables: Spinach, broccoli, peas, corn, squash
+- Fruits: Pear, apple, prune (especially prune juice), kiwi, orange
+- Seeds: Pumpkin, sunflower, chia, flaxseed seeds (1-2 tbsp daily)
+- Nuts: Almonds, walnuts (insoluble fiber)
+- Dried fruits: Prunes (dried plums), figs, apricots
+- Leafy greens / Palak, methi: High fiber, low calorie
+- Sweet potato: More fiber than white potato
+- Beans and chickpeas / Chana: Very high fiber
+- Bran: Oat bran, wheat bran (sprinkle on foods)
+
+FOODS TO STRICTLY AVOID (Or minimize):
+- White bread and white rice: Low fiber
+- Processed foods: Often depleted of fiber
+- Dairy excess: Can worsen constipation
+- Red meat: Low fiber, can slow intestinal transit
+- Regular cheese: Low fiber, binding
+- Fried foods: Low fiber, harder to digest
+- Chocolate: Can contribute to constipation (in some)
+- Bananas (unripe): Constipating (ripe OK)
+- Fiber supplements: NOT whole foods (refined)
+
+HYDRATION (CRITICAL):
+- Drink 2-3 liters water daily
+- More if increasing fiber intake (fiber needs water to work)
+- Coffee and tea: Have mild laxative effect
+- Limit alcohol: Dehydrating
+
+LIFESTYLE MODIFICATIONS (MOST IMPORTANT):
+- Increase fiber gradually: Sudden increase causes bloating
+  * Add 5-10g fiber per week to tolerance
+  * Reach 25-35g/day (women), 38g/day (men)
+- Exercise: 150 minutes/week moderate activity improves bowel motility
+- Regular timing: Try to have bowel movement at same time daily (morning often optimal)
+- Respond to urge: Don't ignore need to defecate (reflex fades)
+- Adequate time: Allow 10-15 minutes without rushing
+- Privacy and comfort: Relaxed environment helps
+- Avoid straining: Relax, let nature take its time
+- Elevate feet: While on toilet (squatting position more natural)
+- Abdominal massage: Circular motion clockwise may help
+- Warm beverages: Morning warm water or tea stimulates defecation
+
+REMEDIES:
+- Warm prune juice: 6 oz morning (natural laxative)
+- Flaxseeds: 1 tablespoon whole seeds with water daily
+- Chia seed pudding: 1 tbsp seeds in milk overnight
+- Warm lemon water: Morning stimulates bowel
+- Walking: After meals improves motility
+- Yoga: Forward bends, twists
+
+WHEN TO SEEK DOCTOR:
+- Sudden onset constipation (new in previously regular person)
+- Severe abdominal pain with constipation
+- Blood in stool: Bright red vs dark red (determine source)
+- Weight loss with constipation
+- Unrelieved by over-the-counter laxatives after 1 week
+- Age >50 with new-onset constipation: Screen for colon cancer
+- Persistent severe bloating or distension
+
+RED FLAGS FOR EMERGENCY CARE:
+- Severe, sudden abdominal pain with distension
+- Unable to pass stool or gas for >24 hours (possible ileus/obstruction)
+- Fever with constipation (possible appendicitis, diverticulitis)
+- Fecal impaction: Hard mass of stool unable to be expelled
+  (Possible complications: megacolon, perforation)
+
+PREVENTION (Long-term):
+- Consistent high-fiber diet: Prevention is easiest
+- Regular exercise: Maintains bowel motility
+- Adequate hydration: Daily water intake
+- Regular bowel habits: Train bowel
+- Manage stress: Stress affects gut function
+- Regular follow-up: Monitor if using laxatives chronically
+
+SPECIAL CONSIDERATIONS:
+- Elderly: Common with medications; increased falls risk from medications
+- Opioid users: Anticipated; prophylactic fiber + osmotic laxative recommended
+- Pregnancy: Common; high-fiber diet, hydration, docusate preferred
+- Children: Similar approach (age-appropriate doses)
+- IBS-C: Fiber helps some, worsens others; IBS-specific triggers to avoid
+- Chronic laxative abuse: Risk of cathartic colon (lost contractility); gradual withdrawal from stimulants

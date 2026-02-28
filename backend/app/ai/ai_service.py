@@ -32,27 +32,47 @@ def disease_info(disease_name: str) -> dict:
     context_chunks = retrieve(f"{disease_name} medications symptoms foods treatment", n=6)
     
     context = "\n\n".join([
-        f"[Source: {c['source']}]\n{c['text']}"
+        f"[{c['source']}] {c['text'][:300]}"
         for c in context_chunks
     ])
 
-    prompt = f"""MEDICAL KNOWLEDGE CONTEXT:
+    prompt = f"""Provide complete medical information about "{disease_name}".
+
+MEDICAL SOURCES:
 {context}
 
-USER REQUEST: Provide complete medical information about "{disease_name}".
+Please structure your response with these sections:
 
-Structure your response with these exact sections:
-1. **What is {disease_name}?** (2-3 sentence description)
-2. **Key Symptoms** (bullet list)
-3. **Medications to Take** (list with brief explanation of each)
-4. **Medications to Avoid** (list with reasons)
-5. **Foods to Eat** (list with Indian names where applicable)
-6. **Foods to Strictly Avoid** (list with reasons)
-7. **Lifestyle Tips** (3-5 practical points)
+🔍 **What is {disease_name}?**
+(2-3 sentences explaining the disease)
 
-Use the medical context above as your primary source.
-Keep language simple and clear. Include Indian food names.
-End with the disclaimer."""
+⚠️ **Key Symptoms**
+- Symptom 1
+- Symptom 2
+- (list key symptoms)
+
+💊 **Medications Used**
+- Medicine name: brief explanation
+- (list common medications)
+
+🚫 **Medications to Avoid**
+- Medicine name: reason why
+- (list medications to avoid)
+
+🍎 **Foods to Eat**
+- Include Indian names (karela, methi, amla, palak, etc.)
+- (list beneficial foods)
+
+⛔ **Foods to Avoid**
+- Food name: reason why
+- (list foods to avoid)
+
+🏃 **Lifestyle Tips**
+- Tip 1
+- Tip 2
+- (3-5 practical tips)
+
+Remember: Use simple language. Don't give specific doses. Always remind to consult doctors."""
 
     raw_response = query_meditron(prompt)
     
@@ -80,31 +100,27 @@ def predict_disease(symptoms: list[str]) -> dict:
         n=6
     )
     
-    context = "\n\n".join([c["text"] for c in context_chunks])
+    context = "\n\n".join([c["text"][:250] for c in context_chunks])
 
-    prompt = f"""MEDICAL KNOWLEDGE CONTEXT:
+    prompt = f"""Patient has these symptoms: {symptoms_str}
+
+MEDICAL KNOWLEDGE:
 {context}
 
-USER SYMPTOMS: {symptoms_str}
+Based on these symptoms, provide:
 
-A patient reports these symptoms. Based on the medical context provided:
+🔍 **TOP 3 POSSIBLE CONDITIONS**
 
-1. List the TOP 3 possible conditions these symptoms could indicate
-2. For each condition, provide:
-   - Condition name
-   - Why these symptoms match (1-2 sentences)
-   - Estimated likelihood (High/Medium/Low)
-   - Key additional symptom to watch for
-   - Urgency level (Seek emergency care / See doctor within 1-2 days / Schedule routine appointment)
+For each condition:
+- Condition name
+- Why these symptoms match (1-2 sentences)
+- Likelihood: High / Medium / Low
+- Key symptom to watch for
+- When to see doctor: Emergency / 1-2 days / Routine appointment
 
-IMPORTANT INSTRUCTIONS:
-- Start with: "⚠️ These are possible conditions — NOT a diagnosis. See a doctor for proper evaluation."
-- Do NOT say "you have [disease]" — say "these symptoms may indicate" or "could suggest"
-- If any symptom suggests emergency (chest pain, stroke signs, breathing difficulty):
-  START with "🚨 SEEK EMERGENCY CARE IMMEDIATELY"
-- List conditions from most to least likely based on symptom match
+⚠️ **IMPORTANT**: This is NOT a diagnosis. These are possible conditions - always see a doctor for proper evaluation.
 
-End with the standard disclaimer."""
+🚨 If symptoms suggest emergency (chest pain, stroke signs, severe breathing difficulty), START with "SEEK EMERGENCY CARE IMMEDIATELY"."""
 
     raw_response = query_meditron(prompt)
     
@@ -129,26 +145,42 @@ def drug_info(drug_name: str) -> dict:
         n=5
     )
     
-    context = "\n\n".join([c["text"] for c in context_chunks])
+    context = "\n\n".join([c["text"][:250] for c in context_chunks])
 
-    prompt = f"""MEDICAL KNOWLEDGE CONTEXT:
+    prompt = f"""Provide complete information about the medicine: {drug_name}
+
+MEDICAL KNOWLEDGE:
 {context}
 
-USER REQUEST: Provide detailed information about the medicine "{drug_name}".
+Please structure your response:
 
-Structure your response:
-1. **What is {drug_name}?** (drug class, brief description)
-2. **What it is used for** (conditions it treats)
-3. **How it works** (mechanism in simple terms)
-4. **Common Side Effects** (list, note which are serious)
-5. **Important Interactions** (other drugs to avoid taking with it)
-6. **What to Avoid While Taking It** (foods, alcohol, activities)
-7. **Who Should NOT Take It** (contraindications)
-8. **Pregnancy & Breastfeeding** safety information
+💊 **What is {drug_name}?**
+(Drug class and brief description)
 
-Keep explanations simple. Use Indian brand names if known (e.g., Glucophage/Glycomet for Metformin).
-DO NOT give specific doses.
-End with the disclaimer."""
+🎯 **What it treats**
+(Conditions and diseases it's used for)
+
+⚙️ **How it works**
+(Simple explanation of mechanism)
+
+⚠️ **Common Side Effects**
+(List - note which are serious)
+
+🔗 **Important Interactions**
+(Other drugs to avoid with this medicine)
+
+🚫 **What to Avoid While Taking**
+(Foods, alcohol, activities)
+
+❌ **Who Should NOT Take It**
+(Contraindications and warnings)
+
+🤰 **Pregnancy & Breastfeeding**
+(Safety information for both)
+
+Include Indian brand names if known (e.g., Glucophage for Metformin).
+DO NOT give specific doses - say "dosage varies by patient and doctor".
+Use simple language."""
 
     raw_response = query_meditron(prompt)
     
@@ -174,30 +206,27 @@ async def chat_stream(
     """
     # Get context based on the latest message
     context_chunks = retrieve(message, n=4)
-    context = "\n\n".join([c["text"] for c in context_chunks])
+    context = "\n\n".join([c["text"][:200] for c in context_chunks])
     
-    user_ctx = ""
+    user_context = ""
     if user_conditions:
-        user_ctx = f"[Patient conditions: {', '.join(user_conditions)}]"
+        user_context = f"\n[Patient has: {', '.join(user_conditions)}]"
     if pregnancy:
-        user_ctx += " [PREGNANT — apply strict pregnancy safety filters]"
+        user_context += "\n[PREGNANT - apply pregnancy safety guidelines]"
 
-    enriched = f"""RETRIEVED MEDICAL CONTEXT:
-{context}
-
-{user_ctx}
-USER MESSAGE: {message}
-
-Answer helpfully using the context above. End with the disclaimer."""
+    system_msg = MEDITRON_SYSTEM_PROMPT + user_context if user_context else MEDITRON_SYSTEM_PROMPT
 
     # Build message history for Meditron
     messages = [
         {"role": m["role"], "content": m["content"]}
         for m in history[-6:]  # Last 3 exchanges
     ]
-    messages.append({"role": "user", "content": enriched})
+    messages.append({
+        "role": "user", 
+        "content": f"MEDICAL CONTEXT:\n{context}\n\nUSER: {message}"
+    })
 
-    async for chunk in stream_meditron(messages):
+    async for chunk in stream_meditron(messages, system=system_msg):
         yield chunk
     
     yield DISCLAIMER

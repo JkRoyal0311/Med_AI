@@ -1,0 +1,250 @@
+DISEASE: Migraine Headache
+CATEGORY: Neurological
+ICD-10: G43
+SEVERITY: Episodic — can severely affect quality of life during attacks
+
+DESCRIPTION:
+Migraine is a recurrent headache disorder characterized by moderate-to-severe throbbing head pain,
+often on one side (unilateral). Caused by changes in neurotransmitters and blood flow in the brain.
+More common in women (3:1 ratio), often triggered by identifiable factors. Can last 4-72 hours.
+Attacks can be debilitating, causing absence from work/school/social activities.
+
+TYPES OF MIGRAINE:
+
+1. MIGRAINE WITHOUT AURA (80% of patients)
+   - No warning signs before onset
+   - Sudden throbbing headache usually 4-72 hours after trigger exposure
+   - Unilateral (one side) in 60% of cases, bilateral in others
+   - Associated symptoms: Sensitivity to light/sound/smell, nausea, vomiting
+
+2. MIGRAINE WITH AURA (20% of patients)
+   - Visual, sensory, or speech disturbances 5-60 minutes BEFORE headache
+   - Aura symptoms include:
+     * Flashing lights, zigzag lines, scotomas (blind spots)
+     * Tingling in face, arm, or leg
+     * Difficulty speaking or understanding speech
+     * Temporary vision loss
+   - After aura resolves, typical migraine headache begins
+   - Higher CV risk with migraine with aura (avoid estrogen-containing contraceptives)
+
+3. CHRONIC MIGRAINE (>15 days/month with migraine)
+   - Previously episodic migraine that worsened
+   - Medication overuse is major cause
+   - Often associated with medication dependence (rebound headaches)
+
+TRIGGERS (Not everyone affected by same triggers):
+- Hormonal: Menstrual cycle in women (estrogen fluctuation)
+- Dietary: Caffeine (excess or withdrawal), chocolate, aged cheeses, cured meats (nitrites),
+  MSG, alcohol (especially red wine, beer), artificial sweeteners
+- Environmental: Bright lights, loud sounds, strong smells, weather changes, high altitude
+- Stress: Physical or emotional stress (stress let-down paradoxically triggers migraine)
+- Sleep: Too little or too much sleep, jet lag, irregular sleep schedule
+- Medications: Oral contraceptives, hormone replacement therapy
+- Physical exertion: Intense exercise without warming up
+- Foods: Skipping meals, dehydration
+
+AURA SYMPTOMS (If present, occur 5-60 min before headache):
+- Visual: Flashing lights, zigzag lines (fortification), spots, temporary vision loss
+- Sensory: Tingling in face or arms, progressing over minutes
+- Motor: Weakness on one side
+- Speech: Difficulty finding words, slurred speech
+- Duration: 20-60 minutes, then resolves
+
+HEADACHE PHASE SYMPTOMS:
+
+1. PRODROME (Hours to days before):
+   - Mood changes (depression, euphoria, irritability)
+   - Food cravings (chocolate, sugar)
+   - Neck stiffness
+   - Fatigue
+   - Difficulty concentrating
+   - Fluid retention and bloating
+
+2. HEADACHE PHASE (4-72 hours if untreated):
+   - Severe throbbing pain, usually unilateral
+   - Pain intensity: Moderate-to-severe, disabling
+   - Nausea and vomiting (50% of patients)
+   - Photophobia: Severe light sensitivity (want to avoid bright light)
+   - Phonophobia: Severe sound sensitivity (want quiet environment)
+   - Osmophobia: Smell sensitivity (strong smells worsen pain)
+   - Fatigue
+   - Confusion or difficulty concentrating
+   - Some report visual disturbances continue during headache
+
+3. POSTDROME (Recovery phase):
+   - Residual head tenderness
+   - Fatigue, body aches
+   - Difficulty concentrating
+   - Mood changes
+   - Can last 24 hours after pain resolves
+   - "Migraine hangover" — feel exhausted
+
+AURA WITHOUT HEADACHE:
+- Aura symptoms occur but no head pain follows
+- Still coded as migraine variant
+- Same treatment approach
+
+MEDICATIONS FOR ACUTE ATTACK (Taken at first sign of pain/aura):
+
+OVER-THE-COUNTER ANALGESICS:
+1. PARACETAMOL
+   - Dosage: 500-1000 mg at first sign of migraine
+   - Effectiveness: Mild-moderate migraine
+   - Works in 30-60 minutes
+   - Better if taken early in migraine course
+
+2. IBUPROFEN / NAPROXEN (NSAIDs)
+   - Ibuprofen: 400-600 mg every 6 hours
+   - Naproxen: 250-500 mg twice daily
+   - Brand names: Ibugesic, Calpol, Naproxen
+   - More effective in migraine than paracetamol
+   - Take with food to reduce stomach upset
+   - CAUTION: Daily use increases rebound headache risk
+
+TRIPTANS (Most effective, prescription):
+3. SUMATRIPTAN / RIZATRIPTAN / NARATRIPTAN
+   - Works by constricting blood vessels and blocking pain pathways
+   - Effectiveness: 70-80% in mild-moderate migraine
+   - Sumatriptan: 50-100 mg at first sign (repeat after 2 hours if needed, max 200 mg/day)
+   - Rizatriptan: 5-10 mg at first sign (max 30 mg/day)
+   - Forms: Oral, nasal spray, subcutaneous injection
+   - WORKS BEST: Within 1 hour of migraine onset
+   - Side effects: Flushing, tightness in chest/throat, dizziness
+   - Brand names: Imitrex, Imigran, Rizatriptan
+   - CONTRAINDICATED: Uncontrolled hypertension, coronary artery disease, stroke
+   - AVOID combining with SSRIs (serotonin syndrome risk)
+
+4. OTHER TRIPTANS:
+   - Frovatriptan: For prolonged migraine
+   - Eletriptan: For severe migraine
+   - Almotriptan: Milder side effects
+
+COMBINATION THERAPY (More effective):
+5. TRIPTAN + NSAID
+   - Sumatriptan 50 mg + Naproxen 500 mg together
+   - More effective than either alone
+   - Fixed combination available as Treximet
+
+6. ERGOT ALKALOIDS (Older, less used)
+   - Ergotamine: Constricts blood vessels
+   - Caffeine enhancement
+   - Side effects: More than triptans
+
+ANTI-NAUSEA MEDICATIONS (If nausea severe):
+7. METOCLOPRAMIDE
+   - Dosage: 10 mg 30 minutes before other migraine medication
+   - Enhances absorption of other medications
+   - Brand name: Reglan
+
+PREVENTIVE MEDICATIONS (Daily use to reduce frequency/severity):
+
+First-line PREVENTIVE agents:
+1. PROPRANOLOL (Beta-blocker)
+   - Dosage: 80-240 mg daily in divided doses (usually start low)
+   - Reduces migraine frequency by 40-50%
+   - Takes 4-6 weeks to show effect
+   - Brand name: Inderal
+   - AVOID if: Asthma, depression (beta blockers can worsen mood)
+
+2. AMITRIPTYLINE (Tricyclic antidepressant)
+   - Dosage: 25-100 mg at night
+   - Helps both migraine and any coexisting depression/anxiety
+   - Takes 4-6 weeks to show full effect
+   - SIDE EFFECT: Drowsiness at night (benefit for sleep), dry mouth
+   - May cause weight gain
+
+3. TOPIRAMATE (Anticonvulsant)
+   - Dosage: 25-100 mg twice daily
+   - Reduces migraine frequency by 40-50%
+   - Takes 2-3 months for full effect
+   - IMPORTANT: Can affect cognition (memory, concentration)
+   - Also helps weight loss (opposite of amitriptyline)
+   - AVOID in pregnancy (cleft palate risk)
+
+4. VALPROATE (Anticonvulsant)
+   - Dosage: 500-1000 mg divided doses
+   - Effective in severe migraine with aura
+   - Takes 4-6 weeks for effect
+   - TERATOGENIC: Avoid if planning pregnancy
+
+Newer PREVENTIVE agent:
+5. CANDESARTAN (ARB antihypertensive)
+   - Dosage: 8-32 mg once daily
+   - Evidence emerging for migraine prevention
+   - Also treats hypertension if coexistent
+
+MONOCLONAL ANTIBODIES (Very new, very effective):
+6. CALCITONIN GENE-RELATED PEPTIDE (CGRP) ANTAGONISTS
+   - Erenumab (Aimovig): Subcutaneous monthly injection
+   - Fremanezumab: Subcutaneous injection
+   - Galcanezumab: Subcutaneous injection
+   - Reduce migraine days by 50-75%
+   - DOWNSIDE: Very expensive (some insurance may not cover)
+   - Takes 4 weeks to show effect
+   - No medication interactions or safety concerns with other drugs
+
+MEDICATIONS TO AVOID:
+- Estrogen fluctuation: Oral contraceptives with variable hormone levels (use continuous)
+- Vasodilators: Can worsen migraines
+- Excessive analgesic use: More than 10-15 days/month causes medication overuse headache (rebound)
+
+FOODS TO AVOID (Common migraine triggers):
+- Red wine / Wine: Histamine, tyramine
+- Beer and spirits: Especially dark spirits
+- Aged cheeses / Cheese: Aged cheddar, blue cheese (tyramine content)
+- Cured/processed meats: Salami, sausage, bacon, ham, pepperoni (nitrites, tyramine)
+- Caffeine: Coffee, strong tea, cola (paradoxically, withdrawal causes migraine)
+- Chocolate / Dark chocolate: Phenylethylamine, caffeine
+- MSG (monosodium glutamate): Chinese food, packaged seasonings
+- Citrus fruits (some people): Orange, lemon
+- Banana (THO not everyone)
+- Artificial sweeteners: Aspartame (nutrasweet), sucralose
+- Yeast extracts / Marmite: High tyramine
+
+FOODS THAT MAY HELP:
+- Magnesium-rich: Spinach, pumpkin seeds, almonds (low magnesium associated with migraine)
+- Riboflavin (Vitamin B2): Eggs, almonds, mushrooms (evidence for prevention)
+- Coenzyme Q10: Fatty fish, nuts (some evidence for prevention)
+- Ginger / Adrak: Anti-inflammatory
+- Omega-3 rich: Fish (anti-inflammatory)
+- Regular, balanced meals: Avoid skipping meals
+
+LIFESTYLE MODIFICATIONS:
+- Identify triggers: Keep migraine diary (date, time, triggers, severity, treatment, relief)
+- Regular sleep: 7-8 hours, consistent schedule
+- Stress management: Yoga, meditation, regular exercise
+- Regular exercise: 150 min/week moderate activity (improves headache, reduces frequency)
+- Avoid medication overuse: Don't use acute medications > 10 days/month
+- Hydration: Drink 2-3 liters water daily
+- Limit caffeine: If consuming, maintain consistent amount (withdrawal causes migraine)
+- Avoid triggers: Once identified, eliminate or minimize
+- Manage hormones (women): Track migraine with menstrual cycle, timing preventive medication
+- Heat/cold therapy: During attack, cold compress to head, heat to neck/shoulders
+- Dark, quiet environment: During migraine attack
+
+MIGRAINE MANAGEMENT DURING ATTACK:
+- EARLY treatment most effective (at aura or very start of pain)
+- Rest in dark, quiet room
+- Apply ice pack to head or warm pack to neck
+- Sleep may help (often migraine improves after sleep)
+- Avoid bright lights, loud sounds, strong smells
+- Stay hydrated
+- Take anti-nausea medication before pain medication if nauseous
+
+WHEN TO SEEK IMMEDIATE MEDICAL ATTENTION:
+- Sudden, severe "worst headache of my life" (possible subarachnoid hemorrhage)
+- Headache with high fever, stiff neck (possible meningitis)
+- Headache with weakness, numbness, vision loss, difficulty speaking (possible stroke)
+- Migraine pattern change (frequency, severity, character, location)
+- New migraine with aura after age 50
+- Migraine with aura + estrogen increases stroke risk
+- Confusion, difficulty concentrating lasting beyond usual migraine
+
+SPECIAL CONSIDERATIONS:
+- Women: Migraines 3x more common; hormonal fluctuation major trigger; oral contraceptive effects vary
+  (some worsen, some improve; progestin-only options safer with aura)
+- Pregnancy: Most migraine medications thought safe (consult OB); many migraines improve in pregnancy
+- Menopause: Migraines may worsen temporarily (HRT decisions complex, discuss with doctor)
+- Status migrainosus: Migraine lasting > 72 hours, requires hospitalization, IV medication
+- Chronic migraine: Results from transformation from episodic; often medication overuse related
+- Medication overuse headache: 10-15+ days/month of acute medication causes daily headaches (paradoxical)

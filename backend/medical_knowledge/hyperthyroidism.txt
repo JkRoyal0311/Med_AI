@@ -1,0 +1,235 @@
+DISEASE: Hyperthyroidism (Overactive Thyroid)
+CATEGORY: Endocrine
+ICD-10: E05
+SEVERITY: Chronic — manageable but serious if untreated (thyroid storm)
+
+DESCRIPTION:
+Hyperthyroidism occurs when the thyroid gland produces too much thyroid hormone (T3 and T4),
+speeding up metabolism. Caused most commonly by Graves' disease (autoimmune) or toxic multinodular goiter.
+Increases heart rate, burns energy rapidly, causes anxiety, weight loss. Opposite of hypothyroidism.
+Manageable with antithyroid drugs, beta-blockers, or radioactive iodine.
+
+CAUSES:
+1. Graves' disease (60-90% of cases): Autoimmune, more common in women
+2. Toxic multinodular goiter: Multiple overactive nodules
+3. Toxic adenoma: Single overactive nodule
+4. Thyroiditis: Inflammation of thyroid (transient hyperthyroidism)
+5. Iodine excess: From medications or iodine contrast
+6. Factitious hyperthyroidism: Ingesting thyroid hormone pills
+
+SYMPTOMS:
+
+METABOLIC/HEAT INTOLERANCE:
+- Heat intolerance: Feeling excessively hot, sweating easily
+- Profuse sweating: Even in cool environment, nighttime sweats
+- Weight loss: Despite good appetite or increased eating
+- Appetite increase: Hunger and food intake elevated
+
+CARDIOVASCULAR:
+- Tachycardia: Fast resting heart rate (>90 bpm, often >100 bpm)
+- Palpitations: Feeling heart beating (especially with exertion)
+- Heart irregularities: Atrial fibrillation in some (increases stroke risk)
+- Shortness of breath: With minimal exertion
+
+NERVOUS SYSTEM:
+- Tremor: Shaky hands (fine tremor, visible when hands extended)
+- Anxiety: Nervousness, restlessness, anxiety attacks
+- Irritability and mood instability
+- Difficulty concentrating
+- Insomnia: Despite fatigue
+- Hyperactivity: Excessive energy
+
+EYES (Graves' disease specific):
+- Exophthalmos: Bulging eyes (forward protrusion)
+- Eye irritation, grittiness, tearing
+- Diplopia: Double vision (from eye muscle changes)
+- Light sensitivity
+
+MUSCULAR:
+- Muscle weakness: Generalized, proximal (shoulders, hips)
+- Fatigue: Paradoxically, despite high metabolism
+- Muscle pain or tenderness
+
+GASTROINTESTINAL:
+- Diarrhea: Loose stools, increased bowel movements
+- Nausea
+- Abdominal discomfort
+
+REPRODUCTIVE:
+- Amenorrhea or irregular periods in women
+- Decreased libido
+- Erectile dysfunction in men
+- Infertility issues
+
+SKIN/HAIR:
+- Warm, moist, velvety skin
+- Fine, thinning hair
+- Pretibial myxedema (Graves'): Lumpy, thickened skin on shins (specific to Graves')
+
+GENERAL:
+- Goiter: Enlarged thyroid gland (visible swelling in neck)
+- Low-grade fever sometimes
+
+DIAGNOSIS:
+- TSH (thyroid-stimulating hormone): LOW or suppressed
+- Free T4: HIGH
+- Free T3: HIGH
+- Thyroid antibodies: TPO, thyroglobulin (if autoimmune Graves')
+- TSI (thyroid-stimulating immunoglobulin): Positive in Graves' disease
+- Thyroid scan: Shows increased uptake in Graves' (multinodular pattern in toxic goiter)
+- Ultrasound: To assess goiter size, nodules
+
+MEDICATIONS USED:
+
+ANTITHYROID DRUGS (Block thyroid hormone production):
+1. PROPYLTHIOURACIL (PTU)
+   - Dosage: 50-100 mg three times daily initially, adjust based on response
+   - Also blocks T4 to T3 conversion (additional benefit)
+   - Takes 1-2 weeks to see effect
+   - PREFERRED in first trimester of pregnancy (lower placental transfer)
+   - SIDE EFFECTS: Rash, nausea, abdominal pain, agranulocytosis (rare but serious: low WBC)
+   - MONITORING: CBC, LFTs baseline and if symptoms develop
+
+2. METHIMAZOLE
+   - Dosage: 10-40 mg once or twice daily
+   - Longer half-life (can take once daily)
+   - Faster onset than PTU
+   - CONTRAINDICATED in first trimester pregnancy (fetal abnormalities)
+   - SIDE EFFECTS: Similar to PTU, including agranulocytosis
+   - Preferred for long-term therapy (fewer liver problems than PTU)
+   - MONITORING: CBC, LFTs
+
+BETA-BLOCKERS (For symptom relief, not treatment):
+3. PROPRANOLOL
+   - Dosage: 40-80 mg three times daily
+   - Controls tachycardia, tremor, anxiety within hours
+   - Does NOT reduce thyroid hormone levels (symptomatic relief only)
+   - Used while waiting for antithyroid drugs to work
+   - ADVANTAGE: Also blocks T4 to T3 conversion (small additional benefit)
+   - CAUTION: Avoid abrupt discontinuation
+
+4. ATENOLOL
+   - Alternative beta-blocker, once-daily dosing
+   - Does NOT block T4-T3 conversion
+
+RADIOACTIVE IODINE (Definitive treatment):
+5. RADIOACTIVE IODINE-131 (I-131)
+   - Dosage: Calculated based on gland size and uptake (typically 5-30 mCi)
+   - Single oral capsule
+   - Destroys thyroid tissue, eliminates hyperthyroidism
+   - Takes 6-12 weeks for full effect
+   - PERMANENT cure (after 6-12 weeks)
+   - SIDE EFFECTS: Hypothyroidism develops in most patients (expected, managed with levothyroxine)
+   - CONTRAINDICATED in pregnancy (damages fetal thyroid)
+   - CAUTION in breastfeeding (wait 6+ months)
+   - Risk of Graves' eye disease worsening (use beta blockers + antithyroid drugs first if significant eye disease)
+   - Pregnancy: Avoid conception for 6 months after I-131
+
+THYROID SURGERY:
+6. THYROIDECTOMY (Subtotal or total removal)
+   - Definitive cure (like I-131)
+   - Requires perioperative preparation with antithyroid drugs
+   - Risks: Recurrent laryngeal nerve damage (voice change), hypoparathyroidism (calcium problems)
+   - Used less commonly now (I-131 preferred in most cases)
+   - Used if: Pregnancy, desire to become pregnant soon, very large goiter, allergy to medication, I-131 contraindicated
+
+TREATMENT APPROACH:
+For Graves' disease:
+- Initial: PTU or Methimazole + Beta-blocker
+- After 1-2 years: Consider I-131 or thyroidectomy for definitive treatment
+- OR: Continue antithyroid drugs long-term
+
+For toxic nodules:
+- Definitive treatment: I-131 or surgery (drugs less effective in nodular disease)
+
+MEDICATIONS TO AVOID:
+- Iodine excess: Iodized salt, iodine supplements (worsen hyperthyroidism)
+- Excess caffeine: Worsens palpitations and anxiety
+- Stimulant medications: Worsen symptoms
+- Some antihistamines: May contain stimulants
+
+FOODS TO EAT:
+- Selenium-rich: Brazil nuts, fish, eggs (supports immune function)
+- Zinc-rich: Pumpkin seeds, legumes, poultry (immune regulation)
+- Antioxidant foods: Berries, citrus, leafy greens (reduce inflammation)
+- Whole grains: Brown rice, oats (sustained energy)
+- Protein: Fish, chicken, eggs, legumes (support muscle)
+- Calm-promoting foods: Foods with L-theanine (green tea)
+- Magnesium: Almonds, seeds, leafy greens (anxiety reduction)
+
+FOODS TO STRICTLY AVOID (or LIMIT):
+- Iodine-rich foods: Seaweed / Nori (very high iodine), shellfish (fish OK in moderation)
+- Excess salt: Added iodine
+- Caffeine: Coffee, strong tea, chocolate (worsens palpitations and anxiety)
+- Excess sugar: Impairs immune function
+- Fried and fatty foods: Difficult digestion with hypermetabolism
+- Alcohol: Can interact with medications, worsen palpitations
+
+IODINE AVOIDANCE (In Graves' disease):
+- Excess iodine can paradoxically worsen hyperthyroidism
+- Limit iodized salt
+- Avoid excess seaweed, nori
+- Check medications for iodine content (especially cough syrups, contrast agents)
+
+LIFESTYLE MODIFICATIONS:
+- Stress management: Stress exacerbates Graves' disease
+- Yoga, meditation: Reduce anxiety
+- Adequate sleep: 7-9 hours (support immune function)
+- Avoid strenuous exercise: Until controlled (tachycardia, palpitation risk)
+- Gentle exercise: Walking, stretching when stable
+- Cool environment: More comfortable with heat intolerance
+- Eye protection (Graves'): Dark glasses, artificial tears, elevate head at night
+
+EYE CARE (If Graves' ophthalmopathy):
+- Artificial tears: Frequent use for dryness
+- Dark glasses: UV protection, reduces light sensitivity
+- Sleep with head elevated: Reduces fluid retention in eyes
+- Selenium supplement: 200 mcg daily (some evidence for eye disease)
+- Avoid smoking: Worsens eye disease
+- Doctor consultation: May need immunosuppressants if severe (corticosteroids, radiotherapy)
+
+PREGNANCY CONSIDERATIONS:
+- PTU preferred first trimester (lower fetal risk than methimazole)
+- Block and replace regimen: Use higher PTU dose, add levothyroxine to avoid hypothyroidism in fetus
+- Close monitoring: Thyroid function monthly
+- Antithyroid drugs do cross placenta (risks fetal goiter, hypothyroidism)
+- Graves' disease may worsen first trimester (exacerbate second trimester (remit))
+- Postpartum: Graves' may flare postpartum
+
+WHEN TO SEEK URGENT ATTENTION:
+- Thyroid storm: High fever (>101.5°F), severe tachycardia (>140 bpm), confusion, abdominal pain
+  [SEEK EMERGENCY CARE IMMEDIATELY]
+- Signs of infection while on antithyroid drugs: Fever, sore throat, mouth ulcers (agranulocytosis)
+- Severe palpitations or chest pain
+- Difficulty breathing
+
+WHEN TO SEE DOCTOR:
+- Starting treatment: Baseline and 6-8 weeks after to assess response
+- Every 3-6 months initially on antithyroid drugs
+- After I-131 or surgery: 4-6 weeks after to check for hypothyroidism development
+- Annually once stable
+
+TIMELINE:
+- Antithyroid drugs: 1-2 weeks initial effect, 6-8 weeks full effect
+- Beta-blockers: Within hours to days (symptom relief)
+- Radioactive iodine: 4-6 weeks noticeable improvement, 10-12 weeks near maximum
+- Surgery: Immediate improvement after procedure
+
+TREATMENT CESSATION (Antithyroid drugs):
+- Possible after 1-2 years: Remission rate 20-40%
+- Relapse: If occurs, usually within first year after stopping
+- Consider I-131 after one drug failure
+- Some stay on antithyroid drugs for 5-10 years (prolonging remission possible)
+
+COMPLICATIONS:
+- Thyroid storm: Medical emergency, mortality high
+- Atrial fibrillation: Increases stroke risk
+- Heart disease: From chronic tachycardia
+- Bone loss: Leading to osteoporosis
+- Hypothyroidism: Develops in 90%+ after I-131
+
+SPECIAL CONSIDERATIONS:
+- Children: Can develop Graves'; similar treatment approach
+- Elderly: Often more cardiac complications; careful beta-blocker use
+- Pregnancy: Requires specialist management (endocrinologist)
+- Breastfeeding: Both PTU and methimazole transfer to milk (small amounts; generally considered safe)

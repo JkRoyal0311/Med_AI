@@ -1,0 +1,227 @@
+DISEASE: Kidney Disease (Chronic Kidney Disease — CKD)
+CATEGORY: Nephrological / Metabolic
+ICD-10: N18
+SEVERITY: Stage 1-5; progressive if untreated
+
+DESCRIPTION:
+Chronic kidney disease is gradual loss of kidney function over months to years. Kidneys filter
+waste products and excess water to form urine. When damaged, waste accumulates in blood (uremia).
+Can progress to end-stage renal disease (ESRD) requiring dialysis or transplant. Major risk factors:
+diabetes (primary), hypertension, chronic glomerulonephritis.
+
+STAGES:
+- Stage 1: eGFR ≥90 (normal kidney function, but protein/cells in urine)
+- Stage 2: eGFR 60-89 (mild loss)
+- Stage 3a: eGFR 45-59 (mild-moderate loss)
+- Stage 3b: eGFR 30-44 (moderate-severe loss)
+- Stage 4: eGFR 15-29 (severe loss)
+- Stage 5: eGFR <15 (kidney failure, dialysis needed)
+
+EGFR: Estimated Glomerular Filtration Rate (measure of kidney function)
+
+CAUSES:
+
+PRIMARY (Direct kidney disease):
+- Glomerulonephritis: Inflammation of glomeruli (filtering units)
+- IgA nephropathy: Antibody accumulation in glomeruli
+- Polycystic kidney disease: Genetic cysts in kidneys
+- Lupus nephritis: SLE involving kidneys
+
+SECONDARY (Systemic diseases):
+- Diabetes: Most common cause (~36% of ESRD)
+- Hypertension: Second most common (~25%)
+- Chronic glomerulonephritis
+
+RISK FACTORS:
+- Diabetes (Type 1 or 2)
+- Hypertension (HTN)
+- Age: >60 years
+- Family history of CKD
+- Chronic lung disease (smoking)
+- Obesity
+- Chronic NSAIDs use
+- Certain medications: ACE inhibitors (when not from diabetes)
+- Autoimmune disease (lupus, rheumatoid)
+- Frequent infections
+
+SYMPTOMS:
+
+EARLY STAGES (1-3):
+- Often asymptomatic: Detected only by lab tests
+- Mild fatigue
+- Mild ankle swelling (can be other causes)
+
+LATE STAGES (4-5):
+- Fatigue and weakness: Anemia from reduced erythropoietin
+- Nausea and vomiting: From uremia
+- Loss of appetite
+- Metallic taste in mouth
+- Brain fog and difficulty concentrating: Uremia effects
+- Muscle cramps: From electrolyte imbalances
+- Bone pain (renal osteodystrophy): From calcium/phosphorus imbalance
+- Itching: Uremic pruritus
+- Edema: Swelling of feet, ankles, face (from fluid retention)
+- Hypertension: Worsening or new onset
+- Shortness of breath: From fluid overload or anemia
+- Headaches
+- Restless leg syndrome
+- Decreased urine output: In advanced disease
+
+DIAGNOSIS:
+- eGFR: Calculated from serum creatinine
+- Serum creatinine: Higher levels = worse function
+- Blood urine nitrogen (BUN): Elevated in renal failure
+- Urinalysis: Protein (proteinuria), RBCs, casts
+- Serum electrolytes: Potassium, phosphorus, calcium
+- Imaging: Ultrasound or CT (assess kidney size, exclude obstruction)
+- Biopsy: If etiology unclear
+
+MEDICATIONS USED:
+
+BLOOD PRESSURE CONTROL (Most important):
+1. ACE INHIBITORS (First-line)
+   - Lisinopril, Enalapril, Ramipril
+   - Dosage: Variable (start low, titrate up)
+   - PROTECTS kidneys (reduces proteinuria, slows CKD progression)
+   - Causes dry cough in 10-15%
+   - AVOID if potassium >5.5 (hyperkalemia risk)
+   - CAUTION: Monitor renal function (initial Cr rise expected)
+
+2. ARB (ANGIOTENSIN RECEPTOR BLOCKERS) — Alternative to ACE-I
+   - Losartan, Telmisartan, Valsartan
+   - Similar renal protection as ACE-I
+   - No cough side effect
+   - Interchange: Can't use both ACE-I and ARB together
+
+3. CALCIUM CHANNEL BLOCKERS
+   - Amlodipine, Diltiazem
+   - BP control but less renal protection
+   - Often combined with ACE-I/ARB
+
+4. THIAZIDE DIURETICS
+   - Hydrochlorothiazide: 25 mg daily
+   - CAUTION in advanced CKD (ineffective if eGFR <30)
+
+ANEMIA TREATMENT:
+5. ERYTHROPOIETIN STIMULATING AGENTS (ESAs)
+   - Darbepoetin: 200-300 mcg IV weekly
+   - For hemoglobin <10 g/dL
+   - Goal hgb: 10-11.5 g/dL (not higher — complications)
+   - Usually given with dialysis
+
+6. IRON SUPPLEMENTATION
+   - Iron supplement if iron-deficient
+   - Oral or IV (oral poorly absorbed in renal failure)
+
+PHOSPHATE AND CALCIUM MANAGEMENT:
+7. PHOSPHATE BINDERS
+   - Calcium acetate: 667 mg three times daily with meals
+   - Sevelamer: Non-calcium alternative
+   - Reduce blood phosphate (prevents bone disease)
+
+8. ACT (If hypocalcemia):
+   - Calcitriol (active vitamin D): 0.25 mcg twice daily
+   - Corrects low calcium, reduces PTH
+
+MINERAL SUPPLEMENTS (If deficient):
+9. POTASSIUM RESTRICTION (Don't supplement):
+   - Dangerous in CKD (hyperkalemia risk)
+   - Restrict dietary potassium
+
+10. PHOSPHORUS RESTRICTION (Dietary)
+
+BLOOD GLUCOSE CONTROL (If diabetic):
+11. ANTIDIABETIC AGENTS
+    - SGLT2 inhibitors: Empagliflozin, Dapagliflozin
+      * Reduce glucose, slow CKD progression (newer benefit)
+      * Preferred in diabetic CKD
+    - Metformin: CAUTION if eGFR <30 (lactic acidosis risk)
+    - Insulin: Adjustment needed (reduced clearance)
+
+OTHER:
+12. LIPID-LOWERING
+    - Statins: Cardiovascular protection in CKD
+    - High-dose often needed
+
+13. BETA-BLOCKERS
+    - If hypertension + heart disease
+    - Some clearance impairment (dose adjustment needed)
+
+MEDICATIONS TO AVOID/ADJUST DOSING:
+- NSAIDs: Can worsen kidney function, avoid or minimize
+- Aminoglycosides: Nephrotoxic (if infection, use alternatives)
+- Contrast dye: Risk of contrast-induced nephropathy
+- Amphotericin B: Nephrotoxic
+- Cisplatin: Chemotherapy agents (dialysis needed)
+- COX-2 inhibitors: Avoid
+- Metformin: If eGFR <30
+- ACE-I/ARB: Temporary rise in creatinine (usually acceptable)
+- Trimethoprim: Increases creatinine (usually reversible)
+
+FOODS TO EAT:
+- Vegetables (low potassium): Cabbage, carrots, celery, cucumber
+- Fruits (low potassium): Apple, berries, pear (avoid banana, orange)
+- Whole grains (controlled portions): Brown rice limited
+- Lean proteins (limit): Chicken, fish (portions not quantity)
+- Low-phosphorus: Vegetables, fruits, rice
+- Unsalted: Avoid salt, cooking with salt
+- Low-sodium overall: <2g sodium/day
+- Choose fresh: Avoid canned, processed (high sodium, phosphorus)
+
+FOODS TO STRICTLY AVOID:
+- High potassium: Banana, orange, tomato, potato, spinach (large amounts)
+- High phosphorus: Dairy excess, processed cheeses, nuts
+- High sodium: Pickles, papads, processed meat, canned foods
+- Excess protein: Limits to individual tolerance (usually 0.8 g/kg/day)
+  * Too much worsens uremia
+- Alcohol: If advanced CKD
+
+FLUIDS:
+- Fluid restriction: In advanced CKD (stages 4-5)
+- Output + insensible loss + 500 mL = daily limit
+- Monitor: Weight gain (indicates fluid overload)
+
+LIFESTYLE MODIFICATIONS:
+- Blood pressure control: Goal <120/80 (especially if diabetic)
+- Smoking cessation: Smoking accelerates CKD
+- Exercise: Regular moderate activity helps BP, weight, metabolism
+- Weight management: Obesity worsens CKD
+- Stress reduction: Yoga, meditation help BP
+
+TREATMENT BY STAGE:
+
+Stage 1-2: Monitor, control HTN/diabetes
+Stage 3: Intensive BP/glucose control, prepare for dialysis education
+Stage 4: Pre-dialysis counseling, vascular access planning, dietary counseling
+Stage 5: Dialysis or transplant
+
+DIALYSIS:
+- Hemodialysis: 3-4 hours, 3 times/week (in-center)
+- Peritoneal dialysis: Continuous, multiple daily exchanges (home-based)
+- Kidney transplant: Best option, if donor available
+
+MONITORING:
+- Quarterly: Cr, BUN, electrolytes initially, then per stage
+- Annual: Lipid profile, glucose (if diabetic)
+- Ultrasound: Assess kidney size, obstruction
+- DEXA scan: Bone density assessment
+- Cardiovascular assessment: High CV risk
+
+WHEN TO SEEK URGENT ATTENTION:
+- Shortness of breath: Possible pulmonary edema
+- Severe potassium elevation: Can cause arrhythmias
+- Encephalopathy: Confusion, seizures (uremia, hypertensive emergency)
+
+WHEN TO SEE DOCTOR:
+- Annual screening: If diabetes or hypertension
+- Change in kidney function: Detected on lab tests
+- New symptoms: Fatigue, edema, etc.
+- Before starting new medications: Check kidney-safe options, dosing
+
+SPECIAL CONSIDERATIONS:
+- Diabetes + CKD: Highest priority for aggressive control
+- Pregnancy: Complicates management; close monitoring needed
+- Children: Different staging, growth considerations
+- Elderly: Age-related creatinine rise normal; calculate eGFR carefully
+- African ancestry: Higher CKD incidence (genetic/social factors)
+- Medication interactions: Many drugs accumulate in renal failure

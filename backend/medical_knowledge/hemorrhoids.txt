@@ -1,0 +1,240 @@
+DISEASE: Hemorrhoids / Piles
+CATEGORY: Gastrointestinal / Proctological
+ICD-10: K64
+SEVERITY: Mild-Moderate; usually self-limiting but can cause complications
+
+DESCRIPTION:
+Hemorrhoids are swollen, inflamed veins in lower rectum/anus. Extremely common (75% population by age 45).
+Can be internal (above dentate line) or external (below). Caused by increased venous pressure, straining,
+constipation, prolonged sitting. Most resolve with conservative treatment. Cosmetic concern more than
+serious disease but can bleed, cause pain, thrombose.
+
+TYPES:
+
+INTERNAL:
+- Above anal verge
+- Usually painless (lack sensory innervation above dentate line)
+- Can bleed (bright red blood on stool, toilet paper)
+- Can prolapse (protrude outside)
+- Grades: 1 (bleeding only), 2 (prolapse, self-reduce), 3 (prolapse, manual reduction), 4 (permanent prolapse)
+
+EXTERNAL:
+- Below anal verge
+- Painful (somatic innervation)
+- Visible swelling around anus
+- Can thrombose (clot inside, very painful)
+
+CAUSES:
+- Straining: Main cause from constipation, diarrhea, prolonged voiding
+- Chronic constipation: Hard stools increase pressure
+- Diarrhea: Repeated wiping, irritation
+- Prolonged sitting: Loss of venous drainage, pressure
+- Pregnancy: Increased intra-abdominal pressure
+- Portal hypertension: Liver disease increasing venous pressure (severe form)
+- Anal intercourse: Trauma
+- Genetics: Family predisposition
+
+SYMPTOMS:
+
+INTERNAL:
+- Bright red blood: On toilet paper, in toilet, on surface of stool
+- Painless bleeding: Usually only symptom
+- Prolapse: Feeling of bulge, tissue protruding
+- Mucus discharge: Soiling underwear
+- Itching: From mucus
+- Usually no pain (unless thrombosed, then severe)
+
+EXTERNAL:
+- Pain: Especially if thrombosed (severe, sudden)
+- Itching: Especially with hygiene irritation
+- Burning sensation: With bowel movements
+- Visible lump: Swelling around anus
+- Discomfort: Sitting, wiping, bowel movement
+- Bleeding: Usually minimal with isolated external
+
+THROMBOSED HEMORRHOID (Emergency):
+- Severe pain: Sudden onset, intense
+- Hard lump: Palpable swollen vein with clot
+- Bleeding: Usually minimal
+- Swelling: Localized
+- Photo: Dark purple/black appearance if bleeding into tissues
+
+DIAGNOSIS:
+- Visual inspection: Look for hemorrhoids
+- Digital rectal exam: Feel for masses, evaluate
+- Anoscopy: Telescope to visualize internal hemorrhoids
+- Colonoscopy: If ≥50 years, family history Ca, or persistent bleeding to rule out cancer
+
+MEDICATIONS/TREATMENTS USED:
+
+TOPICAL AGENTS:
+
+1. HEMORRHOIDAL CREAMS:
+   - Preparation H: Contains glycerin, yeast extract
+   - Dosage: Apply externally or internal (with applicator) 2-3 times daily
+   - Provides temporary relief
+   - NOT effective long-term but reduces inflammation
+   - Brand names: Preparation H, others
+
+2. ANESTHETIC CREAMS:
+   - Lignocaine/Lidocaine: 2-5% cream
+   - Numbs pain temporarily
+   - For external hemorrhoid pain relief
+   - Use before bowel movements
+
+3. CORTICOSTEROID CREAMS:
+   - Hydrocortisone 1%: Reduces inflammation
+   - Apply 2-3 times daily
+   - Reduces swelling, itching
+   - Short-term use (1-2 weeks) to avoid skin atrophy
+
+4. SUPPOSITORIES (For internal):
+   - Hydrocortisone + bismuth oxide suppository
+   - Insert rectally morning/evening
+   - Reduces inflammation
+
+ORAL MEDICATIONS:
+
+5. STOOL SOFTENERS (Most important):
+   - Docusate sodium: 50-100 mg twice daily
+   - Prevents constipation (root cause)
+   - Non-habit forming
+   - Takes 3-5 days for effect
+   - Brand names: Colace
+
+6. OSMOTIC LAXATIVES:
+   - Psyllium husk (Ispaghula): 1-2 teaspoons daily with water
+   - Polyethylene glycol (PEG 3350): 17g daily (Golytely)
+   - Increases stool bulk, softens stool
+   - Prevents constipation
+   - Takes 2-3 days for effect
+
+7. BIOFLAVONOID (Diosmin):
+   - Dosage: 600 mg daily
+   - OTC supplement
+   - Reduces bleeding in some studies
+   - Limited evidence but safe
+
+INJECTABLE/PROCEDURAL (For persistent):
+
+8. RUBBER BAND LIGATION:
+   - Outpatient procedure
+   - Places small rubber band on hemorrhoid base
+   - Cuts off blood supply, tissue necroses and falls off
+   - 80-90% effective
+   - Most common outpatient treatment
+   - Minor discomfort, minimal risk
+
+9. SCLEROTHERAPY:
+   - Injects hardening agent (sodium tetradecyl sulfate)
+   - Causes inflation, fibrosis
+   - For bleeding internal hemorrhoids
+   - Success rate 50-80%
+
+SURGICAL:
+
+10. HEMORRHOIDECTOMY:
+    - Surgical removal of hemorrhoids
+    - For severe, refractory, or thrombosed
+    - Most effective (long-term success >95%)
+    - Pain post-op (major drawback)
+    - Rare complications (infection, fecal incontinence)
+
+FOR THROMBOSED HEMORRHOID:
+11. INCISION/DRAINAGE:
+    - Emergency treatment: Incise clot, express (under local anesthesia)
+    - Immediate pain relief (80%)
+    - Office procedure
+    - Alternative: Expectant management (resolves in 1-2 weeks but painful)
+
+FOODS TO EAT (Fiber, stool softening):
+- Whole grains: Brown rice, whole wheat, oats
+- Legumes / Dal: High fiber (moong dal, masoor dal)
+- Vegetables: Leafy greens, carrots, beans, peas
+- Fruits: Apples, pears, kiwi, prunes (natural laxative)
+- Leafy greens / Palak, methi: Fiber, nutrients
+- Seeds: Pumpkin, sunflower (in moderation)
+- Yogurt / Dahi: Probiotics
+- Water: Most important (2-3 liters daily)
+
+FOODS TO AVOID/LIMIT:
+- Spicy foods: Irritate rectum
+- Red meat: Low fiber
+- Processed foods: Low fiber, dehydrating
+- Alcohol: Dehydrating
+- Coffee: Excess (dehydrating, can worsen constipation)
+- White bread/rice: Refined, low fiber
+- Cheese/dairy: Can cause constipation (if excess)
+- Fried foods: Heavy, low fiber
+
+LIFESTYLE MODIFICATIONS:
+
+BOWEL HABITS:
+- Don't strain: Most important (straining causes hemorrhoids)
+- Don't spend >5 minutes on toilet: Increases pressure
+- Use footstool: Elevate feet to improve angle, natural position
+- Respond to urge: Don't delay bowel movements
+- Relax: Take time, don't force
+
+HYGIENE:
+- Gentle wiping: Use soft toilet paper (or wet wipes)
+- Warm water: Sitz bath 3-4 times daily (especially after bowel movement)
+  * Temperature: Warm, not hot
+  * Duration: 10-15 minutes
+  * Provides pain relief, cleans area
+- Pat dry: Don't rub
+- Avoid harsh soaps: Use plain water or gentle cleanser
+
+DAILY HABITS:
+- Regular exercise: 150 min/week (improves bowel regularity)
+- Stay hydrated: 2-3 liters water daily
+- Don't delay bowel movements: Use toilet when urge present
+- Avoid prolonged sitting/squatting: Take breaks
+- Elevate legs: While sitting (improves anorectal blood flow)
+
+PREVENTION:
+- Fiber: 25-35 g daily (prevent constipation)
+- Water: 2-3 liters daily
+- Exercise: Regular activity
+- Don't ignore urge: Use toilet promptly
+- Adequate time: Don't rush bowel movements
+
+WHEN TO SEEK DOCTOR:
+- Bleeding: Persistent bright red bleeding
+- Pain: Especially if severe or persistent
+- Prolapse: Tissue hanging out
+- Thrombosed: Sudden severe pain with hard lump
+- Infection: Signs of infection (fever, spreading redness)
+- Age >40 and first bleeding: Rule out other causes (colonoscopy)
+
+WHEN URGENT (Seek care):
+- Severe pain: From thrombosed hemorrhoid
+- Significant bleeding: Soaking toilet paper, dizziness
+- Fever: Signs of infection/abscess
+
+WHEN EMERGENCY (ER):
+- Massive bleeding: Blood loss causing dizziness, weakness
+- Fever + severe pain: Possible abscess, infection
+
+COMPLICATIONS (Rare):
+- Anemia: From chronic bleeding
+- Infection/abscess: If hemorrhoid becomes infected
+- Fecal incontinence: Rare with treatment, more with surgery
+- Bleeding: Can be significant with internal, especially grade 4
+
+MONITORING:
+- Symptom tracking: Resolution with conservative treatment
+- Bleeding pattern: If persistent despite treatment, may need colonoscopy
+- Response to treatment: 80-90% improve with conservative management
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Very common, usually resolve post-delivery
+- Children: Different presentation, investigate if significant bleeding
+- Portal hypertension: Different cause, requires treatment of liver disease
+- IBD (Crohn's): Hemorrhoids can be complicating factor
+
+PROGNOSIS:
+- Conservative management: 80-90% improve with fiber, hydration, hygiene
+- Bleeding typically mild: Usually stops with treatment
+- Symptoms can recur: Prevention critical (fiber, hydration, regular bowel habits)
+- Surgical success: >95% for hemorrhoidectomy (but post-op pain significant)

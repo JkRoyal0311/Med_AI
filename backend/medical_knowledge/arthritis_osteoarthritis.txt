@@ -1,0 +1,145 @@
+DISEASE: Osteoarthritis (Degenerative Joint Disease)
+CATEGORY: Musculoskeletal / Rheumatological
+ICD-10: M15-M19
+SEVERITY: Chronic — progressive if untreated, but manageable with treatment
+
+DESCRIPTION:
+Osteoarthritis (OA) is the degeneration of joint cartilage and underlying bone over time.
+Cartilage acts as a shock absorber; when it wears away, bones can rub together causing pain,
+stiffness, and reduced motion. Most common type of arthritis, especially in knees, hips, hands,
+and spine. Age, genetics, and joint stress are main risk factors.
+
+AFFECTED JOINTS (most common):
+- Knees (weight-bearing)
+- Hips (weight-bearing)
+- Hands (finger joints)
+- Spine (neck and lower back)
+- Great toe (foot)
+
+SYMPTOMS:
+- Joint pain: Worsens with activity, improves with rest (early stage)
+- Morning stiffness: Lasting 30 minutes or longer
+- Joint stiffness: Improves with movement
+- Swelling around affected joints
+- Reduced joint mobility and flexibility
+- Cracking or grinding sensation in joint (crepitus): Without pain initially
+- Muscle weakness around joint
+- Difficulty with activities: Climbing stairs, walking, gripping objects
+- Pain worse in damp, cold weather (not scientifically proven but commonly reported)
+
+PROGRESSION STAGES:
+- Mild: Occasional pain, normal activity possible
+- Moderate: Regular pain, activity limited but manageable
+- Severe: Constant pain, significant loss of function, may need walking aids
+
+MEDICATIONS USED:
+
+FOR PAIN & INFLAMMATION:
+1. PARACETAMOL (Acetaminophen)
+   - Mild to moderate pain relief
+   - Dosage: 500 mg every 6 hours (max 2g/day)
+   - Brand names: Crocin, Dolo
+   - SAFEST choice, minimal GI side effects
+
+2. NSAIDS (Non-Steroidal Anti-Inflammatory Drugs)
+   - Reduce inflammation and pain
+   - Ibuprofen: 400 mg 3 times daily with food
+   - Diclofenac: 50 mg 2 times daily with food
+   - Naproxen: 250 mg 2 times daily
+   - Brand names: Ibugesic, Voveran, Calpol
+   - TAKE WITH FOOD to reduce stomach upset
+   - AVOID if: Kidney disease, heart disease, history of ulcer
+
+3. INTRA-ARTICULAR INJECTIONS (for single painful joint):
+   - Hyaluronic acid: Joint lubrication (viscosupplementation)
+   - Corticosteroid: Short-term inflammation reduction (not repeated often)
+   - Platelet-rich plasma (PRP): Newer, experimental
+
+JOINT SUPPORT & DISEASE-MODIFYING:
+4. GLUCOSAMINE & CHONDROITIN (Nutritional supplements)
+   - Help maintain cartilage structure
+   - Evidence is mixed, but many patients report benefit
+   - Dosage: 1500 mg glucosamine + 1200 mg chondroitin daily
+   - Take for 3 months minimum to assess benefit
+   - Brand names: Sona, Osteocare
+
+5. MSMS (Methylsulfonylmethane)
+   - May reduce pain and inflammation
+   - Dosage: 1-4 grams daily
+   - Often combined with glucosamine
+
+6. COLLAGEN PEPTIDES
+   - Support cartilage regeneration
+   - Dosage: 10-15 grams daily
+   - May help with mobility after 2-3 months
+
+TOPICAL CREAMS:
+7. DICLOFENAC GEL / IBUPROFEN GEL
+   - For localized joint pain (hand, knee, foot)
+   - Apply 3-4 times daily
+   - Brand names: Voveran gel, Ibugesic gel
+
+PHYSICAL THERAPY & DEVICES:
+- Knee braces: Support joint during activity
+- Walking aids: Cane, walker to reduce joint stress
+- Occupational therapy: Adaptive techniques for daily activities
+- Physical therapy: Exercises to strengthen supporting muscles
+
+MEDICATIONS TO AVOID:
+- Aspirin: Higher dose NSAIDs, not recommended for OA
+- High-dose NSAIDs continuously: Risk of kidney damage, ulcers, GI bleeding
+- Excess corticosteroids: Can worsen bone thinning
+
+FOODS TO EAT:
+- Fatty fish (Salmon, Mackerel): Omega-3 reduces inflammation
+- Turmeric / Haldi: Curcumin is anti-inflammatory
+- Ginger / Adrak: Anti-inflammatory, reduces pain
+- Garlic / Lahsun: Anti-inflammatory compounds
+- Green leafy vegetables (Palak, methi): Vitamin K, antioxidants
+- Citrus fruits (Orange, Mosambi): Vitamin C for collagen formation
+- Nuts and seeds (Almonds, Walnuts): Antioxidants, magnesium
+- Bone broth: Contains collagen and amino acids
+- Eggs: Choline and vitamin D
+- Beans and lentils / Dal: Protein, antioxidants
+- Whole grains: B vitamins
+- Olive oil: Oleocanthal has NSAID-like effect
+
+FOODS TO STRICTLY AVOID:
+- Trans fats: Increase inflammation (packaged, fried foods)
+- Excess sugar and refined carbs: Promote inflammation
+- Alcohol: Interferes with inflammation control (limit to 1-2 drinks/week)
+- Red meat excess: High in omega-6, pro-inflammatory
+- Processed foods: High sodium, additives trigger inflammation
+- Saturated fats: Increase inflammation markers
+- Nightshade vegetables (for some people): Tomato, potato, eggplant, chili pepper
+  (Not scientifically proven but anecdotally worsen symptoms in some patients)
+
+LIFESTYLE MODIFICATIONS:
+- Weight loss: Every pound reduces knee joint stress by 4 pounds
+- Exercise: Low-impact activities (swimming, walking, cycling) 30 min, 5 days/week
+- Stretching: Daily gentle stretching 10-15 minutes
+- Heat therapy: Warm bath, heating pad 15-20 minutes before activity
+- Cold therapy: Ice pack 15 minutes after aggravating activity
+- Adequate sleep: 7-8 hours nightly (inflammation increases with poor sleep)
+- Stress management: Chronic stress increases inflammation
+
+EXERCISES TO BUILD STRENGTH:
+- Quadriceps strengthening: Leg lifts, wall sits (if knee OA)
+- Hip strengthening: Clamshells, side-lying leg lifts (if hip OA)
+- Hand exercises: Squeezing therapy ball, dexterity exercises (if hand OA)
+- Core strengthening: Protects joints (planks, bird-dogs)
+- Balance training: Tai Chi, yoga (reduces fall risk)
+
+ACTIVITIES TO AVOID:
+- High-impact sports: Running, jumping, tennis on hard courts
+- Heavy weight lifting: Can damage joints
+- Prolonged standing: Alternate with sitting
+- Repetitive joint stress: Avoid activities that specifically aggravate the joint
+- Climbing many stairs: Use elevators, ramps when possible
+
+SPECIAL CONSIDERATIONS:
+- No cure: Goal is symptom management and slowing progression
+- Early intervention important: Once cartilage severely damaged, harder to treat
+- Seasonal variation: Cold weather increases stiffness and pain for many
+- Individual response: Response to treatment varies; may need medication adjustments
+- Progression: Can lead to severe disability if untreated; early diagnosis prevents this

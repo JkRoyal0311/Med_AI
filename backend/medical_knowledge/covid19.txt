@@ -1,0 +1,241 @@
+DISEASE: COVID-19 (Coronavirus Disease 2019)
+CATEGORY: Infectious / Viral
+ICD-10: U07.1
+SEVERITY: Asymptomatic to Critical; age and comorbidities predict severity
+
+DESCRIPTION:
+COVID-19 is respiratory illness caused by SARS-CoV-2 coronavirus. Emerged December 2019, became
+pandemic. Primarily affects lungs but multisystem effects now recognized. Highly transmissible. Most
+asymptomatic/mild, but can progress to severe pneumonia, acute respiratory distress syndrome (ARDS),
+thromboembolism. Vaccines highly effective at preventing severe disease.
+
+TRANSMISSION:
+- Respiratory droplets: Coughing, sneezing, talking (especially indoors)
+- Aerosol: Small particles linger in air (enclosed spaces)
+- From presymptomatic to symptomatic period: Infectiousness variable per individual
+- Incubation period: 2-14 days (typically 5-7)
+- Communicable period: Up to 10 days after symptom onset (longer if immunocompromised)
+- Fomite transmission: Surfaces (surface transmission lower than initially thought)
+
+SYMPTOMS:
+
+ASYMPTOMATIC:
+- 40-50% infected have no symptoms
+- Still potentially transmissible
+
+MILD-MODERATE (80% symptomatic):
+- Fever: Often first symptom (102-103°F / 39-39.4°C)
+  * May be absent in elderly
+- Cough: Dry cough (with sputum less common initially)
+- Fatigue: Profound ("bone-breaking")
+- Shortness of breath: Mild, with exertion
+- Loss of taste/smell: Anosmia, ageusia (distinctive feature)
+- Headache: Often severe
+- Muscle/body aches: Myalgia
+- Sore throat: Pharyngitis
+- Nausea/vomiting: More common in children
+- Diarrhea: GI involvement
+
+SEVERE (15-20% need hospitalization):
+- Shortness of breath at rest: Dyspnea
+- Chest pain: Especially with breathing
+- Confusion or altered mental status
+- Hypoxemia: O2 sat <94% on room air
+- Cyanosis: Bluish skin from low oxygen
+- Rapid respiratory rate: >30 breaths/minute
+
+CRITICAL (ICU admission):
+- ARDS: Acute respiratory distress syndrome (bilateral pneumonia)
+- Sepsis: Systemic infection response
+- Septic shock: Hypotension unresponsive to fluids
+- Thromboembolism: DVT, PE, stroke
+- Myocarditis: Heart muscle inflammation
+- Organ failure: Kidney, liver, multiorgan
+- Mortality: 1-5% hospitalized (higher in elderly, comorbidities)
+
+POST-COVID SYMPTOMS ("Long COVID"):
+- Persistent fatigue: Debilitating
+- Dyspnea: Persistent shortness of breath (weeks-months)
+- Brain fog: Cognitive impairment, difficulty concentrating
+- Chest pain: Can persist
+- Sleep disturbance
+- Joint pain: Myalgia
+- Sensory disturbance: Dysgeusia (taste), dysgeusia (smell)
+- Palpitations
+- Exercise intolerance: Can't return to baseline activity level
+
+DIAGNOSIS:
+
+MOLECULAR TESTING (Gold standard):
+- RT-PCR (Reverse transcription polymerase chain reaction): Most sensitive
+  * Nasopharyngeal swab (URT)
+  * Oropharyngeal swab
+  * Saliva (less sensitive but easier)
+- Takes 1-3 days for results
+- Positive: Confirmed active infection
+
+ANTIGEN TESTING (Rapid):
+- Rapid antigen test: 15-30 minutes results
+- Lower sensitivity than PCR (85-95%)
+- High specificity
+- Negative rapid doesn't rule out (especially if high pretest probability)
+
+SEROLOGY (Antibody testing):
+- IgG: Indicates past or recent infection (weeks to months later)
+- IgM: Early infection marker (less specific)
+
+IMAGING:
+- Chest X-ray: If respiratory symptoms, looking for pneumonia
+  * Findings: Bilateral infiltrates ("ground glass"), interstitial pattern
+- CT chest: Higher sensitivity for pneumonia
+  * Bilateral lower lobe infiltrates typical
+
+CLINICAL LABS:
+- CBC: WBC count variable (can be low, normal, or high)
+- CRP, D-dimer, ferritin: Elevated in severe disease
+- LDH: Elevated (marker of lung injury)
+- Liver enzymes: May be elevated
+- D-dimer: Elevated (thromboembolism risk marker)
+- Arterial/venous blood gas: Hypoxemia assessment
+
+MEDICATIONS USED:
+
+FOR MILD DISEASE:
+- Supportive care: Rest, fluids, fever management
+
+1. ACETAMINOPHEN or IBUPROFEN
+   - Dosage: Acetaminophen 500-1000 mg every 6 hours; Ibuprofen 400-600 mg every 6 hours
+   - Fever, pain relief
+   - Both acceptable (earlier concerns about NSAIDs not sustained)
+
+2. COUGH SUPPRESSANTS:
+   - Dextromethorphan: 10-20 mg every 4-6 hours
+   - Guaifenesin: Expectorant (helps thin mucus)
+
+ANTIVIRAL (If high-risk, within 5 days of symptom onset):
+
+3. PAXLOVID (Nirmatrelvir + Ritonavir)
+   - Dosage: 300 mg/100 mg twice daily x 5 days
+   - Reduces symptomatic infection by ~88% (decreases progression to severe/death by ~90%)
+   - Most effective if given within 5 days
+   - DRUG INTERACTIONS: Many (ritonavir is CYP3A4 inhibitor)
+   - SIDE EFFECTS: Dysgeusia (altered taste — very common), nausea
+   - Effective against variants including Omicron
+   - NOT for prophylaxis unless immunocompromised high-risk
+
+4. REMDESIVIR (Veklury)
+   - IV antiviral, used in hospitalized patients
+   - Dosage: 200 mg first day, then 100 mg days 2-5
+   - Shortens median hospital stay by 4 days
+   - Used in hypoxemic patients
+   - Hospital-based only
+
+FOR MODERATE-SEVERE HOSPITALIZED DISEASE:
+
+5. CORTICOSTEROIDS:
+   - Dexamethasone or Methylprednisolone
+   - Reduces mortality in hypoxemic patients
+   - Dosage varies by clinical status
+   - Most important in severe disease
+
+6. TOCILIZUMAB (Monoclonal antibody to IL-6):
+   - For hospitalized high-inflammatory state
+   - Reduces mortality in severe disease
+
+7. VENOUS THROMBOEMBOLISM PROPHYLAXIS:
+   - Enoxaparin (Low-molecular-weight heparin): SC injection
+   - Routine for hospitalized COVID patients (high thrombosis risk)
+   - Prevents DVT, PE
+
+8. OXYGEN THERAPY:
+   - Nasal cannula: Low-flow (2-4 L/min)
+   - Non-rebreather mask: High-flow (up to 15 L/min)
+   - High-flow nasal cannula (HFNC): Hospital
+   - Mechanical ventilation: If ARDS
+
+IMMUNIZATION (VACCINATION):
+- CRITICAL: Most important prevention
+- mRNA vaccines (Pfizer-BioNTech, Moderna): >95% efficacy against severe disease
+- Viral vector vaccines (AstraZeneca, Janssen): ~80% efficacy
+- Schedule: Primary series (2 doses standard) + boosters (timing varies)
+- Omicron booster: Bivalent boosters (original + Omicron) recommended
+- Annual "vaccines" may be future approach
+
+MEDICATIONS TO AVOID:
+- Antibiotics: Only if secondary bacterial infection
+- Antivirals of unproven efficacy: Hydroxychloroquine (shown ineffective), ivermectin (unproven, dangerous at high doses)
+
+FOODS TO EAT (Recovery support):
+- Broths: Nutritious, hydrating (chicken broth traditional)
+- Fruits: Citrus (vitamin C), berries, papaya
+- Vegetables: Leafy greens, ginger (anti-inflammatory)
+- Lean proteins: Chicken, fish, eggs (rebuild)
+- Whole grains: Brown rice, oats
+- Legumes / Dal: Protein, fiber
+- Turmeric / Haldi: Anti-inflammatory
+- Ginger / Adrak: Aids digestion, anti-inflammatory
+- Honey / Shahad: Soothing, antimicrobial
+- Garlic / Lahsun: Immune support
+- Nuts and seeds: Magnesium, selenium
+
+FOODS TO AVOID:
+- Heavily processed foods: During and after illness
+- High sugar: Energy spikes/crashes
+- Spicy foods: Initially irritating if throat sore
+- Alcohol: Dehydrating, immune suppression
+
+HYDRATION:
+- Critical: 2-3 liters fluid daily
+- Water, electrolyte drinks (coconut water), broths
+- Monitor urine color (should be light yellow)
+
+LEISURE/ACTIVITY:
+- Rest: Critical early on
+- Gradual return to activities: 1-2 weeks minimum before exercise
+- Long COVID: Slower recovery, pacing essential (post-exertional malaise)
+
+WHEN TO SEEK URGENT ATTENTION:
+- Shortness of breath: At rest or mild exertion
+- Chest pain or pressure
+- Confusion or altered mental status
+- Cyanosis: Bluish lips, fingers
+- Severe fatigue: Inability to get out of bed
+- High fever >103°F that won't break with medication
+
+[SEEK EMERGENCY CARE IMMEDIATELY IF SEVERE RESPIRATORY DISTRESS, CHEST PAIN, ALTERED CONSCIOUSNESS]
+
+WHEN TO SEE DOCTOR:
+- Suspected COVID: Get tested
+- Positive test with risk factors: Antiviral consideration (within 5 days)
+- Symptoms not improving after 5-7 days
+- Worsening despite treatment
+
+ISOLATION:
+- If positive: Isolate 5 days minimum (CDC recommendation)
+- Wear mask around others: 10 days if still symptomatic
+- Household: Isolate from others if possible
+- Return to work/activities: When fever-free 24 hours without medication AND improving
+
+MONITORING:
+- Symptom tracking: Daily log of temperature, oxygen, symptoms
+- Pulse oximetry: If available (normal >94% on room air)
+- Seek help if O2 sat drops or respiratory symptoms worsen
+
+SPECIAL CONSIDERATIONS:
+- Pregnancy: Increased risk of severe disease; vaccines safe
+- Immunocompromised: Extended treatment with remdesivir, post-exposure prophylaxis with monoclonal antibodies
+- Elderly: Much higher risk of severe disease (100x mortality vs young)
+- Chronic comorbidities: Diabetes, HTN, COPD, heart disease increase severity
+- Post-COVID syndrome: Emerging entity, debilitating (no specific treatment yet, supportive care)
+
+PROGNOSIS:
+- Asymptomatic: No illness, no sequelae
+- Mild-moderate: Recovery in 1-2 weeks, most complete recovery
+- Severe: Hospitalization 1-2 weeks, some lasting effects (mild hypoxemia, dyspnea)
+- Critical: High mortality (5-20% with mechanical ventilation), survivors often have PTSD, physical limitations
+
+PREVENTION:
+- Vaccination: Most effective (>.95% vs severe)
+- Booster vaccination: Maintain immunity (wanes over time)
+- Testing: If exposed or symptomatic
+- Isolation: If positive (prevent transmission)
