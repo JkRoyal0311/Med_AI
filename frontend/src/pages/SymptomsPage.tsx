@@ -2,6 +2,112 @@ import { useState } from 'react'
 import { medicalAPI } from '../services/api'
 import Layout from '../components/Layout'
 
+// Render markdown content with proper HTML elements
+// Handles: **bold**, ##headers, - lists, paragraphs, and emojis
+function renderMarkdown(content: string) {
+  const lines = content.split('\n')
+  const elements = []
+  let i = 0
+
+  while (i < lines.length) {
+    const line = lines[i]
+    const trimmed = line.trim()
+
+    if (!trimmed) {
+      // Empty line - skip
+      i++
+      continue
+    }
+
+    // Headers with ### or ##
+    if (trimmed.startsWith('### ')) {
+      elements.push(
+        <h4 key={`h4-${i}`} className="text-base font-bold text-gray-800 mt-4 mb-2">
+          {trimmed.substring(4).replace(/\*\*/g, '').trim()}
+        </h4>
+      )
+      i++
+    } else if (trimmed.startsWith('## ')) {
+      elements.push(
+        <h3 key={`h3-${i}`} className="text-lg font-bold text-gray-800 mt-5 mb-3">
+          {trimmed.substring(3).replace(/\*\*/g, '').trim()}
+        </h3>
+      )
+      i++
+    } else if (trimmed.startsWith('# ')) {
+      elements.push(
+        <h2 key={`h2-${i}`} className="text-2xl font-bold text-gray-800 mt-6 mb-4">
+          {trimmed.substring(2).replace(/\*\*/g, '').trim()}
+        </h2>
+      )
+      i++
+    }
+    // Headers with **text**
+    else if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
+      elements.push(
+        <h3 key={`bold-${i}`} className="text-lg font-bold text-gray-800 mt-4 mb-2">
+          {trimmed.substring(2, trimmed.length - 2)}
+        </h3>
+      )
+      i++
+    }
+    // Ordered lists
+    else if (trimmed.match(/^\d+\./)) {
+      const listItems = []
+      while (i < lines.length && lines[i].trim().match(/^\d+\./)) {
+        const item = lines[i].trim().replace(/^\d+\.\s*/, '')
+        listItems.push(
+          <li key={`li-${i}`} className="text-gray-700 text-sm leading-relaxed ml-2">
+            {item}
+          </li>
+        )
+        i++
+      }
+      elements.push(
+        <ol key={`ol-${elements.length}`} className="list-decimal list-inside space-y-1 my-3">
+          {listItems}
+        </ol>
+      )
+    }
+    // Unordered lists with -
+    else if (trimmed.startsWith('- ')) {
+      const listItems = []
+      while (i < lines.length && lines[i].trim().startsWith('- ')) {
+        const item = lines[i].trim().substring(2)
+        listItems.push(
+          <li key={`li-${i}`} className="text-gray-700 text-sm leading-relaxed ml-2">
+            {item}
+          </li>
+        )
+        i++
+      }
+      elements.push(
+        <ul key={`ul-${elements.length}`} className="list-disc list-inside space-y-1 my-3">
+          {listItems}
+        </ul>
+      )
+    }
+    // Regular paragraph with ** bold **
+    else {
+      const parts = trimmed.split(/(\*\*.*?\*\*)/)
+      const formatted = parts.map((part, idx) => {
+        if (part.startsWith('**') && part.endsWith('**')) {
+          return <strong key={idx}>{part.substring(2, part.length - 2)}</strong>
+        }
+        return part
+      })
+      elements.push(
+        <p key={`p-${i}`} className="text-gray-700 text-sm leading-relaxed my-3">
+          {formatted}
+        </p>
+      )
+      i++
+    }
+  }
+
+  return elements
+}
+
 export default function SymptomsPage() {
   const [selectedSymptoms, setSelectedSymptoms] = useState<string[]>([])
   const [symptomInput, setSymptomInput] = useState('')
@@ -160,27 +266,35 @@ export default function SymptomsPage() {
           {/* Results */}
           {results && (
             <div className="bg-white rounded-2xl p-8 shadow">
-              <h2 className="text-2xl font-bold text-gray-800 mb-6">Possible Conditions</h2>
+              {/* Results Title */}
+              <h2 className="text-3xl font-bold text-gray-800 mb-8">📊 Symptom Analysis Results</h2>
 
-              {results.conditions && results.conditions.length > 0 ? (
-                <div className="space-y-4">
-                  {results.conditions.map((condition: any, i: number) => (
-                    <div key={i} className="border border-gray-200 rounded-lg p-6">
-                      <div className="flex justify-between items-start mb-3">
-                        <h3 className="text-lg font-bold text-gray-800">{condition.name}</h3>
-                        <span className="text-sm font-semibold bg-blue-100 text-blue-800 px-3 py-1 rounded-full">
-                          {Math.round(condition.confidence * 100)}% match
-                        </span>
-                      </div>
-                      {condition.description && (
-                        <p className="text-gray-600 text-sm">{condition.description}</p>
-                      )}
+              {/* Full Analysis Content: Display complete formatted response */}
+              {(results.analysis || results.prediction) && (
+                <div className="mb-8">
+                  <div className="bg-gradient-to-br from-purple-50 to-gray-50 p-8 rounded-xl border border-purple-100">
+                    {/* Render full analysis content with proper markdown parsing */}
+                    <div>
+                      {renderMarkdown(results.analysis || results.prediction)}
                     </div>
-                  ))}
+                  </div>
                 </div>
-              ) : (
-                <p className="text-gray-500">No conditions found. Try different symptoms.</p>
               )}
+
+              {/* Important Disclaimer - Always shown for medical info */}
+              {results.disclaimer && (
+                <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 rounded-lg my-8">
+                  <p className="text-yellow-800 text-sm font-semibold">{results.disclaimer}</p>
+                </div>
+              )}
+
+              {/* Education Note */}
+              <div className="bg-blue-50 border border-blue-200 p-4 rounded-lg mt-6">
+                <p className="text-blue-800 text-xs">
+                  💡 <strong>Note:</strong> This analysis is based on the symptoms you provided and is for educational purposes only.
+                  Please consult with a healthcare professional for proper evaluation and treatment.
+                </p>
+              </div>
             </div>
           )}
 

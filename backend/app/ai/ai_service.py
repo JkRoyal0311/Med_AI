@@ -10,6 +10,7 @@ This service handles 4 core use cases:
 from app.ai.rag_engine import retrieve
 from app.ai.meditron_client import query_meditron, stream_meditron, MEDITRON_SYSTEM_PROMPT
 from typing import AsyncGenerator
+import re
 
 
 DISCLAIMER = (
@@ -21,6 +22,64 @@ DISCLAIMER = (
 )
 
 
+def _parse_section(text: str, section_name: str) -> list[str]:
+    """Extract a section from the response and return as list of items."""
+    # Match sections like "🔍 **What is X?**" or "⚠️ **Key Symptoms**" and capture until next section
+    pattern = rf"^.*?{re.escape(section_name)}:?.*?\n(.*?)(?=^[🔍⚠️💊🚫🍎⛔🏃🤰❌]|$)"
+    match = re.search(pattern, text, re.MULTILINE | re.IGNORECASE | re.DOTALL)
+    
+    if not match:
+        return []
+    
+    content = match.group(1).strip()
+    
+    # Split by bullet points and newlines
+    items = []
+    for line in content.split('\n'):
+        line = line.strip()
+        # Remove bullet points, emojis, and extra formatting
+        line = re.sub(r'^[-•*]\s*', '', line)
+        line = re.sub(r'^[🔍⚠️💊🚫🍎⛔🏃🤰❌]\s*', '', line)
+        line = re.sub(r'\*\*|\*|__|_', '', line)
+        line = re.sub(r'^\(\d+\)\s*', '', line)
+        
+        if line and len(line) > 5:  # Avoid random short lines
+            items.append(line)
+    
+    return items[:20]  # Limit to 20 items
+
+
+def _parse_structured_section(text: str, section_name: str) -> list[dict]:
+    """Extract a section with name: description pairs."""
+    pattern = rf"^.*?{re.escape(section_name)}:?.*?\n(.*?)(?=^[🔍⚠️💊🚫🍎⛔🏃🤰❌]|$)"
+    match = re.search(pattern, text, re.MULTILINE | re.IGNORECASE | re.DOTALL)
+    
+    if not match:
+        return []
+    
+    content = match.group(1).strip()
+    items = []
+    
+    for line in content.split('\n'):
+        line = line.strip()
+        line = re.sub(r'^[-•*]\s*', '', line)
+        
+        # Try to split on colon for name: description format
+        if ':' in line:
+            parts = line.split(':', 1)
+            name = parts[0].strip()
+            desc = parts[1].strip() if len(parts) > 1 else ""
+            
+            # Clean up formatting
+            name = re.sub(r'\*\*|\*|__|_|\([^)]*\)', '', name).strip()
+            desc = re.sub(r'\*\*|\*|__|_', '', desc).strip()
+            
+            if name and len(name) > 2:
+                items.append({"name": name, "description": desc})
+    
+    return items[:20]
+
+
 def disease_info(disease_name: str) -> dict:
     """
     Complete disease profile: medications, foods, symptoms, what to avoid.
@@ -30,16 +89,8 @@ def disease_info(disease_name: str) -> dict:
     """
     # Get relevant medical knowledge from our knowledge base
     context_chunks = retrieve(f"{disease_name} medications symptoms foods treatment", n=6)
-    
-    context = "\n\n".join([
-        f"[{c['source']}] {c['text'][:300]}"
-        for c in context_chunks
-    ])
 
     prompt = f"""Provide complete medical information about "{disease_name}".
-
-MEDICAL SOURCES:
-{context}
 
 Please structure your response with these sections:
 
@@ -76,8 +127,24 @@ Remember: Use simple language. Don't give specific doses. Always remind to consu
 
     raw_response = query_meditron(prompt)
     
+    # Parse the response into structured sections
+    what_is = _parse_section(raw_response, "What is")
+    symptoms = _parse_section(raw_response, "Key Symptoms|Symptoms")
+    medications = _parse_structured_section(raw_response, "Medications Used|Medications")
+    meds_avoid = _parse_structured_section(raw_response, "Medications to Avoid")
+    foods_eat = _parse_section(raw_response, "Foods to Eat")
+    foods_avoid = _parse_structured_section(raw_response, "Foods to Avoid")
+    lifestyle = _parse_section(raw_response, "Lifestyle Tips|Lifestyle")
+    
     return {
-        "disease": disease_name,
+        "name": disease_name,
+        "description": what_is[0] if what_is else "",
+        "symptoms": symptoms,
+        "medications": medications,
+        "medications_to_avoid": meds_avoid,
+        "foods_to_eat": foods_eat,
+        "foods_to_avoid": foods_avoid,
+        "lifestyle_tips": lifestyle,
         "content": raw_response + DISCLAIMER,
         "sources": list(set(c["source"] for c in context_chunks)),
         "disclaimer": DISCLAIMER.strip(),
@@ -99,13 +166,8 @@ def predict_disease(symptoms: list[str]) -> dict:
         f"symptoms {symptoms_str} diagnosis disease condition",
         n=6
     )
-    
-    context = "\n\n".join([c["text"][:250] for c in context_chunks])
 
     prompt = f"""Patient has these symptoms: {symptoms_str}
-
-MEDICAL KNOWLEDGE:
-{context}
 
 Based on these symptoms, provide:
 
@@ -184,8 +246,26 @@ Use simple language."""
 
     raw_response = query_meditron(prompt)
     
+    # Parse structured response
+    what_is = _parse_section(raw_response, "What is")
+    what_treats = _parse_section(raw_response, "What it treats")
+    how_works = _parse_section(raw_response, "How it works")
+    side_effects = _parse_section(raw_response, "Common Side Effects|Side Effects")
+    interactions = _parse_structured_section(raw_response, "Important Interactions|Interactions")
+    avoid = _parse_section(raw_response, "What to Avoid")
+    contraindications = _parse_section(raw_response, "Who Should NOT")
+    pregnancy = _parse_section(raw_response, "Pregnancy|Breastfeeding")
+    
     return {
         "drug": drug_name,
+        "description": what_is[0] if what_is else "",
+        "what_treats": what_treats,
+        "how_works": how_works[0] if how_works else "",
+        "side_effects": side_effects,
+        "interactions": interactions,
+        "avoid": avoid,
+        "contraindications": contraindications,
+        "pregnancy": pregnancy,
         "content": raw_response + DISCLAIMER,
         "sources": list(set(c["source"] for c in context_chunks)),
         "disclaimer": DISCLAIMER.strip()

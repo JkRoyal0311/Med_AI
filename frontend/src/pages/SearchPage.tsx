@@ -3,6 +3,112 @@ import { useSearchParams } from 'react-router-dom'
 import { medicalAPI } from '../services/api'
 import Layout from '../components/Layout'
 
+// Render markdown content with proper HTML elements
+// Handles: **bold**, ##headers, - lists, paragraphs, and emojis
+function renderMarkdown(content: string) {
+  const lines = content.split('\n')
+  const elements = []
+  let i = 0
+
+  while (i < lines.length) {
+    const line = lines[i]
+    const trimmed = line.trim()
+
+    if (!trimmed) {
+      // Empty line - skip
+      i++
+      continue
+    }
+
+    // Headers with ### or ##
+    if (trimmed.startsWith('### ')) {
+      elements.push(
+        <h4 key={`h4-${i}`} className="text-base font-bold text-gray-800 mt-4 mb-2">
+          {trimmed.substring(4).replace(/\*\*/g, '').trim()}
+        </h4>
+      )
+      i++
+    } else if (trimmed.startsWith('## ')) {
+      elements.push(
+        <h3 key={`h3-${i}`} className="text-lg font-bold text-gray-800 mt-5 mb-3">
+          {trimmed.substring(3).replace(/\*\*/g, '').trim()}
+        </h3>
+      )
+      i++
+    } else if (trimmed.startsWith('# ')) {
+      elements.push(
+        <h2 key={`h2-${i}`} className="text-2xl font-bold text-gray-800 mt-6 mb-4">
+          {trimmed.substring(2).replace(/\*\*/g, '').trim()}
+        </h2>
+      )
+      i++
+    }
+    // Headers with **text**
+    else if (trimmed.startsWith('**') && trimmed.endsWith('**')) {
+      elements.push(
+        <h3 key={`bold-${i}`} className="text-lg font-bold text-gray-800 mt-4 mb-2 flex items-center gap-2">
+          {trimmed.substring(2, trimmed.length - 2)}
+        </h3>
+      )
+      i++
+    }
+    // Ordered lists
+    else if (trimmed.match(/^\d+\./)) {
+      const listItems = []
+      while (i < lines.length && lines[i].trim().match(/^\d+\./)) {
+        const item = lines[i].trim().replace(/^\d+\.\s*/, '')
+        listItems.push(
+          <li key={`li-${i}`} className="text-gray-700 text-sm leading-relaxed ml-2">
+            {item}
+          </li>
+        )
+        i++
+      }
+      elements.push(
+        <ol key={`ol-${elements.length}`} className="list-decimal list-inside space-y-1 my-3">
+          {listItems}
+        </ol>
+      )
+    }
+    // Unordered lists with -
+    else if (trimmed.startsWith('- ')) {
+      const listItems = []
+      while (i < lines.length && lines[i].trim().startsWith('- ')) {
+        const item = lines[i].trim().substring(2)
+        listItems.push(
+          <li key={`li-${i}`} className="text-gray-700 text-sm leading-relaxed ml-2">
+            {item}
+          </li>
+        )
+        i++
+      }
+      elements.push(
+        <ul key={`ul-${elements.length}`} className="list-disc list-inside space-y-1 my-3">
+          {listItems}
+        </ul>
+      )
+    }
+    // Regular paragraph with ** bold **
+    else {
+      const parts = trimmed.split(/(\*\*.*?\*\*)/)
+      const formatted = parts.map((part, idx) => {
+        if (part.startsWith('**') && part.endsWith('**')) {
+          return <strong key={idx}>{part.substring(2, part.length - 2)}</strong>
+        }
+        return part
+      })
+      elements.push(
+        <p key={`p-${i}`} className="text-gray-700 text-sm leading-relaxed my-3">
+          {formatted}
+        </p>
+      )
+      i++
+    }
+  }
+
+  return elements
+}
+
 export default function SearchPage() {
   const [searchParams] = useSearchParams()
   const type = searchParams.get('type') || 'disease'
@@ -76,66 +182,25 @@ export default function SearchPage() {
 
           {results && (
             <div className="bg-white rounded-2xl p-8 shadow">
-              <h2 className="text-2xl font-bold text-gray-800 mb-4">{results.name}</h2>
+              {/* Title: Disease or Drug name */}
+              <h2 className="text-3xl font-bold text-gray-800 mb-8">
+                {results.disease || results.drug || results.name || 'Information'}
+              </h2>
 
-              {results.description && (
-                <div className="mb-6">
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Description</h3>
-                  <p className="text-gray-600">{results.description}</p>
-                </div>
-              )}
-
-              {results.symptoms && (
-                <div className="mb-6">
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Symptoms</h3>
-                  <div className="bg-blue-50 p-4 rounded-lg">
-                    <p className="text-gray-700 whitespace-pre-wrap">{results.symptoms}</p>
+              {/* Main Content: Display full markdown-formatted response */}
+              {(results.content || results.description) && (
+                <div className="mb-8 text-gray-700">
+                  <div className="bg-gradient-to-br from-blue-50 to-gray-50 p-8 rounded-xl border border-blue-100">
+                    {/* Render properly formatted markdown content */}
+                    {renderMarkdown(results.content || results.description)}
                   </div>
                 </div>
               )}
 
-              {results.medications && (
-                <div className="mb-6">
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Medications</h3>
-                  <div className="bg-green-50 p-4 rounded-lg">
-                    <p className="text-gray-700 whitespace-pre-wrap">{results.medications}</p>
-                  </div>
-                </div>
-              )}
-
-              {results.uses && (
-                <div className="mb-6">
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Uses</h3>
-                  <div className="bg-green-50 p-4 rounded-lg">
-                    <p className="text-gray-700 whitespace-pre-wrap">{results.uses}</p>
-                  </div>
-                </div>
-              )}
-
-              {results.side_effects && (
-                <div className="mb-6">
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Side Effects</h3>
-                  <div className="bg-yellow-50 p-4 rounded-lg">
-                    <p className="text-gray-700 whitespace-pre-wrap">{results.side_effects}</p>
-                  </div>
-                </div>
-              )}
-
-              {results.foods_to_eat && (
-                <div className="mb-6">
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Foods to Eat</h3>
-                  <div className="bg-green-50 p-4 rounded-lg">
-                    <p className="text-gray-700 whitespace-pre-wrap">{results.foods_to_eat}</p>
-                  </div>
-                </div>
-              )}
-
-              {results.foods_to_avoid && (
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-700 mb-2">Foods to Avoid</h3>
-                  <div className="bg-red-50 p-4 rounded-lg">
-                    <p className="text-gray-700 whitespace-pre-wrap">{results.foods_to_avoid}</p>
-                  </div>
+              {/* Important Disclaimer Alert Box */}
+              {results.disclaimer && (
+                <div className="bg-yellow-50 border-l-4 border-yellow-400 p-6 rounded-lg my-8">
+                  <p className="text-yellow-800 text-sm font-semibold">{results.disclaimer}</p>
                 </div>
               )}
             </div>
