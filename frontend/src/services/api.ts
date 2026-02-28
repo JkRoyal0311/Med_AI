@@ -7,7 +7,8 @@ import axios from 'axios';
 
 // Change this to your computer's local IP for local testing
 // Find it: Mac → ifconfig | grep inet, Windows → ipconfig
-export const BASE_URL = 'http://127.0.0.1:59809/api';
+// For local development, use: http://localhost:8000/api
+export const BASE_URL = 'http://localhost:8000/api';
 
 const api = axios.create({
   baseURL: BASE_URL,

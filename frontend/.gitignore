@@ -6,4 +6,4 @@ build/
 .DS_Store
 *.jks
 *.keystore
-*.pem
+*.pem.vite/
