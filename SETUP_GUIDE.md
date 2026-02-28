@@ -124,13 +124,13 @@ Redis caches expensive AI responses (so repeated queries are instant).
 
 **Options:**
 - **Local:** https://redis.io/download
-- **Docker:** `docker run --name medai_redis -p 6379:6379 -d redis:latest`
+- **Docker:** `docker run --name medai_redis -p 6379:6379 -d redis:8.4.2`
 - **Cloud:** Redis Cloud, Railway
 
 **Verify running:**
 
 ```bash
-redis-cli ping
+docker exec -it medai_redis redis-cli ping
 # Should output: PONG
 ```
 
